@@ -1,0 +1,32 @@
+---
+title: "2018.10.21 Brevet de Phalempin"
+description: "C'est par une matinée trés fraiche que nous nous retrouvons trés nombreux au rendez vous de 8 heures , départ pour le brevet de Phalempin pour  un circuit de 45 , 65 ou 100 KMS annoncés. Arrivée sans encombre groupé et à allure moyenne à Phalempin , inscription rapide , d'un côté route de l'autre VTT ce qui nous facilite l'inscription vu le nombre conséquent de vététistes présents...Des groupes se forment très rapidement , les \"costauds \" partant pour le 100 kms à allure très rapide  et la majorité des autres auxquels je me rallie pour le 65 à très bonne allure également."
+author: "danchoun@yahoo.fr"
+date: 2018-10-23T18:02:44
+draft: false
+categories: ["cyclotourisme"]
+tags: []
+original_category: "blog-cyclotourisme"
+image: "https://lh3.googleusercontent.com/W88_kDDDU2eQFseR3fArwWLrbqIf9nxtEqoEFvxinrw_oLIMSJQEQWl8SJ3fvHx_DEvbW-dZ3FcnlMPMSCQ6M3yVaTHIFTls0lApZW7sFrjNiW33le03hIKouTtc2T_a9OFyhQ1xfRWa6OfrJNilM3TFZIKXHBFlc5nP554D9VU2aiyK67lmn8afjU8wm2T-WH4tT2EkbzE7SK1H0NMqkF9w1vrdGQWDFNT7lQNMD27Mf78sho5VlvHPhl6ulH9K4UHuVDexPtljX3xU8xh_0gr8pL9lbcfbd3_1sBiyWMTkP_X3PrNV2GxPsK-IEkzdc4k-sCTQoiGcBheM5RL-o9pU5dJJuFmumE1ssfO4wP_nSK7ED0qKUDF_r1fmsmTRorZzWXUsOgIsFb_DqFMOUb4foyiY7TcmbEJtf92z7qSt1ncEQzQZCcHZwPnLzLtKC1zhnbBLy55ldTRDIpeR1pDhLnhqCBRfsA6uSvJVaDCh9JIACCOBePbhO1M_hK5Rwg0GVlNbsIoKQ1QprE6gC-UHkkdpKa_mYNrS4UTtQYWg9D68X8SLyjA2qrb0pTGRUiaOjaBC4mXgJxvkYX7BwywKzbtdeAZjqJBOpFHi4pU6ushX_gr3GQRAp3PKREVn=w1024-h768-no"
+links:
+  - title: "Quelques photos"
+    website: "https://photos.app.goo.gl/bv1PXQrwsLQxAkSb6"
+---
+
+C'est par une matinée trés fraiche que nous nous retrouvons trés nombreux au rendez vous de 8 heures , départ pour le brevet de Phalempin pour&nbsp; un circuit de 45 , 65 ou 100 KMS annoncés. Arrivée sans encombre groupé et à allure moyenne à Phalempin , inscription rapide , d'un côté route de l'autre VTT ce qui nous facilite l'inscription vu le nombre conséquent de vététistes présents...Des groupes se forment très rapidement , les "costauds " partant pour le 100 kms à allure très rapide&nbsp; et la majorité des autres auxquels je me rallie pour le 65 à très bonne allure également.
+
+<!--more-->
+
+Arrivée à la bifurcation du 65 /100 , je jette un rapide coup d’œil à ma montre et au dernier moment je décide d'embrayer sur le 100 après un rapide calcul de l'horaire prévisible de retour , la moyenne étant déjà à cet instant de plus de 26 , je me dis que je peux tenir et donc rentrer à une heure correcte....
+
+Quelques minutes après la bifurcation , 1° ravito et là surprise je tombe sur le groupe des "costauds" et Jean Luc dans son rôle de réparateur de crevaison , je ne m'attarde pas et repars avant le groupe en me disant que je ne tarderais pas à les voir revenir bien que je sois toujours au minimum à 30 km/h . Effectivement , je suis rejoins quelques kilomètres plus loin et je décide sous les encouragements de certains de tenter de m'accrocher. Après un passage pavés nouvel incident et crevaison de Pascal (je crois..) , de nouveau je décide de continuer et de prendre un peu d'avance ...
+
+Je parviens à prendre les roues dans un groupe mené par "les triathlètes de Villeneuve d'Ascq" qui ne chôment pas , toujours au dessus de 35 , des passages à 40 jusqu'au 2° ravito ou je trouve Patrick qui avait continué son chemin suite à l'arrêt prolongé de la 1° crevaison , je lui apprends la 2° crevaison et je lui propose de suivre le [![Image](https://lh3.googleusercontent.com/hYOYPAJIxLYqV_gzsfgc94USU5oIHp1kzqwo7s7nxxyfhtYS6r_Zz7-fa_ge9Ga0pb9hBqI52r8E8h0KTczB1hdYpyCLw2WQOEU3uXO6KbrkhyEmF_u0DgPmZFIHWGBkJ4QNzad2IMoKpHHY1AEKT0goMMN3qXRX3XFFEXd1rJAunrmYqaOQ89IQ_N16v8ah9hhcJFyfNeMhrNIVUHdopktw3WLOtA03GpGBsF_UhtiNLiPPB2hXwvApEZA0rMuXPQfkQsCGV2XVRlUG47fythI3TlxBQk5sdw9sCqIbpO8DgZfHmwXWSMx-steKrRcFivZu3mSiMcFFr0m-XrTJzdObVuLdBHP-Cfv2yPqzQzV78OIVvlzHet9uZ3FNRgLMZY8RkVZpM4Fh9W9m2DN2c28EoNm_OJuImAZIOdtPNNC7QjUcjif1nJ02N8zvyi4heqIr90Jggs6tfYu50rSds1Hzw3Jjb-klyFJlE2_NGAtIW0zWd-q3YriSvxtWQTUy8RAB0Do_OE0mWxIf1GQ_UrPk4mAZMwK6OF0LGvcQ34YAOCpcTG-9gVFLkZIHswx_j_d0MmuTgOjdyG_YGsHGJcLuN76QqbER5w8JeXYtjL1eX8r2znxGy_61RhVziBX04t7nMcqqugztnvnCjI0HhtBobmo0nxBbZQ4MYHShndgUmL4Ods3QEFJfig=w1024-h768-no)](https://lh3.googleusercontent.com/hYOYPAJIxLYqV_gzsfgc94USU5oIHp1kzqwo7s7nxxyfhtYS6r_Zz7-fa_ge9Ga0pb9hBqI52r8E8h0KTczB1hdYpyCLw2WQOEU3uXO6KbrkhyEmF_u0DgPmZFIHWGBkJ4QNzad2IMoKpHHY1AEKT0goMMN3qXRX3XFFEXd1rJAunrmYqaOQ89IQ_N16v8ah9hhcJFyfNeMhrNIVUHdopktw3WLOtA03GpGBsF_UhtiNLiPPB2hXwvApEZA0rMuXPQfkQsCGV2XVRlUG47fythI3TlxBQk5sdw9sCqIbpO8DgZfHmwXWSMx-steKrRcFivZu3mSiMcFFr0m-XrTJzdObVuLdBHP-Cfv2yPqzQzV78OIVvlzHet9uZ3FNRgLMZY8RkVZpM4Fh9W9m2DN2c28EoNm_OJuImAZIOdtPNNC7QjUcjif1nJ02N8zvyi4heqIr90Jggs6tfYu50rSds1Hzw3Jjb-klyFJlE2_NGAtIW0zWd-q3YriSvxtWQTUy8RAB0Do_OE0mWxIf1GQ_UrPk4mAZMwK6OF0LGvcQ34YAOCpcTG-9gVFLkZIHswx_j_d0MmuTgOjdyG_YGsHGJcLuN76QqbER5w8JeXYtjL1eX8r2znxGy_61RhVziBX04t7nMcqqugztnvnCjI0HhtBobmo0nxBbZQ4MYHShndgUmL4Ods3QEFJfig=w1024-h768-no)groupe de Villeneuve d'Ascq....Redémarrage sur les mêmes bases dans un groupe maintenant d'une dizaine d'unités emmené le plus souvent par les Villeneuvois très motivés , jamais en dessous de 35/36 avec de multiples relances usantes sur ce circuit ou à chaque fois je dois reboucher 2 , 3 mètres et je m'en sors pas trop mal ....jusque Mons en Pevele , et là une attaque d'un gars de Villeneuve fait exploser le groupe , je décide de lever un peu le pied (par obligation d'ailleurs...) et je grimpe comme d'autres à bonne allure mais décroché .&nbsp;
+
+En bas de la descente et dans le faux plat suivant nous nous regroupons à 3 et nous terminons à allure soutenue ce beau circuit sans pouvoir revenir sur le groupe initial évidemment...Patrick m'attend à l'arrivée car beaucoup plus fort que moi il fera partie des 4 rescapés&nbsp; du groupe après l'éclatement de Mons en Pévéle.....Il n'est même pas 12h...
+
+Une dizaine de minutes plus tard , arrivée du groupe des costauds de Wavrin qui n'avait pas du "chômer" non plus...
+
+En résumé , un beau circuit que je n'aurais jamais imaginé faire aussi rapidement , 30 km/h de moyenne sur toute ma sortie de 115 kms , environ 33 km/h sur le circuit de 90 kms et non pas 100 ! ! Je ne regrette donc absolument pas d'avoir fait le choix de partir sur le grand circuit.
+
+Il est quand même regrettable à mon sens d'annoncer un circuit de 100 alors que celui ci fait à peine 90 , certains cyclos auraient peut être fait un autre choix...

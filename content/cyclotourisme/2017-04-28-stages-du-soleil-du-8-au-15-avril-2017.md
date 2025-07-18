@@ -1,0 +1,51 @@
+---
+title: "Stages du Soleil du 8 au 15 avril 2017"
+description: "Les stages du Soleil du 8 au 15 avril
+
+Après avoir effectué notre montée de sélection dans le col du Blavet, une montée de 2,5km à 5% de moyenne pour évaluer notre niveau afin de nous répartir dans les différents groupe pour la semaine."
+author: "guillaumeccw@live.fr"
+date: 2017-04-28T08:30:48
+draft: false
+categories: ["cyclotourisme"]
+tags: []
+original_category: "blog-cyclotourisme"
+image: "https://lh3.googleusercontent.com/VdwQXhMvfjJt4yKsZyjwpqQozAhQtm_D5vjttFuGX-mgaqSXgmLafsw_8XljDrMcIk6DBwGFNx6ou2lSOfc8t7z5063tjKsS33uSUJUxfwlQG5xqYSF9VtolT3opc3rqoDnzjMZWOpGjH5VLs3acXCvIQT8TO0yv19gzqCeaDRNuRz0N5Y2EqfM_5pvw6H4dywCmB0_6bbHTPty_j_5H0Q1pbfJcaXotst_HdsWmfAe5iYaBwAyV3v-dLyZ5PG-aT6fagaog8JAf12ujK3RDYvswE6mvRg0IGOBWpmKE9rxgBXay7a5stzRObfkK5jL1Jesc3LCU5R_Ms1YiFunnCNfxy7fslHFoRehL2Olx7lcn5wKZbHWu0STr52dbSHf-V_xx5ka3hUbFpOTQuNKM2DRjZABK0iRfUCBapjeIhd02l8XE0FVH_hMAmR5eDNKfuDSHCw5AGLyg9dKTnuSyNPSyAjE8UUvuKRDBa2K9TS9i0STJuJ9UZwZwV2Lhfzc7t3qYMR99KgMaTS3b-oxDh2mgs4hiKmxcXCdHnN4zhc8s6XEjJXxY78vFf_oxsGprVMoQ1YwOQXd3vSgGefm7qImwCJy9a4wwjG7cDjUMAuGYcJb41fSL9IRXCF9M7BqW7nQlR69kFts5n0F_r4zqz3X9apdmWu71Z3jKnnZZ488=w200"
+---
+
+Les stages du Soleil du 8 au 15 avril
+
+Apr&egrave;s avoir effectu&eacute; notre mont&eacute;e de s&eacute;lection dans le col du Blavet, une mont&eacute;e de 2,5km &agrave; 5% de moyenne pour &eacute;valuer notre niveau afin de nous r&eacute;partir dans les&nbsp;diff&eacute;rents groupe pour la semaine.
+
+<!--more-->
+
+![Image](https://lh3.googleusercontent.com/3ze4BpJVIrtXidX6g7ACY2PIRWFzW2I5zzPptcoFpf2zMtnmTUSo7XvN-c-UOaevYoKaC_SggpFQw7eJW5uL8EpFm-reHY9ADv3l5NrKFZKav8w4dedQjlEPdva8ojNlJwBzhfsfFWNlN6uTV4DIsqs81g_A8bYvAXPx_QjRmkD_G9FNC0UjtdDOWDGYy4K2Zr_mxmCJ1eQOSNI4t9HdDHBr-gfLAHnhDYwb53LRhiUa3hIySOWoHGgwXQwTSSLA_fHUay-tJfkwKf3_MEJE6jmN2kOAEoQFQ040OSqQAKReT4bMyfuSVDgsQMrfurhAaLL8rusgQ_jlywIlOC9mxgIFba8M_1YXnsvgwOcdBd8RNKnWT6d1VYSAyzJDH9qD4YnFgbNFrRFQXitteNwJ5MMjnloG0cyw1npbUL4pa9YdVtp9Q8g_vM0Cl8kFB24FcYfxJJuPwxo-CQ7Ijxe3ss26rMdrfaHLCFVUrqAQLBsEuhY4_O9_Ejz0KgaLfYoNUZKt7xcmd9g2var1l7YOyCdfUt6ZycDvv_XxwtpQi1oQwBi48KCe46R5437_x_BlDWs1VT6L89GYgZ_Qo2BgP2OsdmjIhPL6tstGRHklbsHAt1kb_UC-ADH6VJyvmbudmcXlFgGEgUStO-I_wcl3j_rrSZg6Iu7pFcilHRUQy6k=w696-h927-no)
+
+A l'issue de cette mont&eacute;e Geoffrey ira dans le groupe 1, Anthony dans le groupe 3, David et Guillaume irons dans le Groupe 4 , notre vice Pr&eacute;sident passera la semaine dans le groupe 7 avec le puncheur pyr&eacute;n&eacute;en Didier et enfin Chantal et Serge dans le 8, ceci fait nous attaqu&acirc;mes le programme ci dessous&nbsp;:
+
+Dimanche&nbsp;:74km 750m D+
+
+[![Image](https://lh3.googleusercontent.com/N2hmZTmA39VvNjlGh3SV8RyGfuNgAuxQXnFdDU9qLY5M3VXEaQK1yDtt6uzzQiopOQ2UskpJAsB4oAPmc_xZcgxQsaDOLWtF54bfrVs3kiizNh7npKY3x0eM_YYKLQTjNwh2uj96MxXA-cg2kufvfC6gYk0Bwjb_IVbjPFb1mp1LwX_V-Q9ypUil8hXlndurJTdhtgsmK2BDiR_ntqlVNVhgwcP-ZyqX1zzcJbXitCd2qRO7XPGDSS1eNlI4I1EFnPjXGmt08PNAhkV7cAWGGb_Ejkn136rclJjkPg94I-h8676rXbMiyhKeFCkMwVOAfA1n6XuxfoxA9BarOIA5giIdWNGawGf_dRJ2TOajc30qmD4MksHju17uak1P-ITZXXXPtCvZYbx0bgf5sZTgUFsLyBq6u2gKd4ufdCJMEk595bLZN9bI2C9uR1y7hIrrJC-UJ6Bu8d1wESNCvkD7AMIPIlhIDuAeYSscrCIJHOJwQsL1dfCxkaVsM_xPCHlnTyoTJHXHduZjbotFNS8U3ecgr5q-VGj6SVgxvRxBIFDw6NStWQmHNNXKIzLVLq3fVyrWGi_PPlr-X1_jdjzTt57dlw70tUO0Aa1GsoK-RlDH86tXGqaFeZdM2LLZz0AOBrwBupxvoTSMmMjq_AbAuZLqJSebYQFn1P6WCSvOPgo=w1215-h912-no)](https://lh3.googleusercontent.com/N2hmZTmA39VvNjlGh3SV8RyGfuNgAuxQXnFdDU9qLY5M3VXEaQK1yDtt6uzzQiopOQ2UskpJAsB4oAPmc_xZcgxQsaDOLWtF54bfrVs3kiizNh7npKY3x0eM_YYKLQTjNwh2uj96MxXA-cg2kufvfC6gYk0Bwjb_IVbjPFb1mp1LwX_V-Q9ypUil8hXlndurJTdhtgsmK2BDiR_ntqlVNVhgwcP-ZyqX1zzcJbXitCd2qRO7XPGDSS1eNlI4I1EFnPjXGmt08PNAhkV7cAWGGb_Ejkn136rclJjkPg94I-h8676rXbMiyhKeFCkMwVOAfA1n6XuxfoxA9BarOIA5giIdWNGawGf_dRJ2TOajc30qmD4MksHju17uak1P-ITZXXXPtCvZYbx0bgf5sZTgUFsLyBq6u2gKd4ufdCJMEk595bLZN9bI2C9uR1y7hIrrJC-UJ6Bu8d1wESNCvkD7AMIPIlhIDuAeYSscrCIJHOJwQsL1dfCxkaVsM_xPCHlnTyoTJHXHduZjbotFNS8U3ecgr5q-VGj6SVgxvRxBIFDw6NStWQmHNNXKIzLVLq3fVyrWGi_PPlr-X1_jdjzTt57dlw70tUO0Aa1GsoK-RlDH86tXGqaFeZdM2LLZz0AOBrwBupxvoTSMmMjq_AbAuZLqJSebYQFn1P6WCSvOPgo=w1215-h912-no)Roquebrune -Col Blavet retour par la mer et le col du Bougnon.
+
+Lundi&nbsp;:&nbsp;110km 1740M D+
+
+Mont&eacute;e du col Testanier 5,2km/4,6% puis direction le lac de Saint Cassien ensuite mont&eacute;e du Tanneron par les Marjories 2,2km 5,7% et retour par ST C&eacute;ezaire et le col Blavet.
+
+Mardi&nbsp;:&nbsp;82km 800M D+
+
+Direction Le Muy puis Taradeau par Les Arcs et le col de Revest 14km 1,5% et pour finir le col du Bougnon 3km 4,6%.
+
+Mercredi&nbsp;:&nbsp;153km 1900M D+[![Image](https://lh3.googleusercontent.com/VdwQXhMvfjJt4yKsZyjwpqQozAhQtm_D5vjttFuGX-mgaqSXgmLafsw_8XljDrMcIk6DBwGFNx6ou2lSOfc8t7z5063tjKsS33uSUJUxfwlQG5xqYSF9VtolT3opc3rqoDnzjMZWOpGjH5VLs3acXCvIQT8TO0yv19gzqCeaDRNuRz0N5Y2EqfM_5pvw6H4dywCmB0_6bbHTPty_j_5H0Q1pbfJcaXotst_HdsWmfAe5iYaBwAyV3v-dLyZ5PG-aT6fagaog8JAf12ujK3RDYvswE6mvRg0IGOBWpmKE9rxgBXay7a5stzRObfkK5jL1Jesc3LCU5R_Ms1YiFunnCNfxy7fslHFoRehL2Olx7lcn5wKZbHWu0STr52dbSHf-V_xx5ka3hUbFpOTQuNKM2DRjZABK0iRfUCBapjeIhd02l8XE0FVH_hMAmR5eDNKfuDSHCw5AGLyg9dKTnuSyNPSyAjE8UUvuKRDBa2K9TS9i0STJuJ9UZwZwV2Lhfzc7t3qYMR99KgMaTS3b-oxDh2mgs4hiKmxcXCdHnN4zhc8s6XEjJXxY78vFf_oxsGprVMoQ1YwOQXd3vSgGefm7qImwCJy9a4wwjG7cDjUMAuGYcJb41fSL9IRXCF9M7BqW7nQlR69kFts5n0F_r4zqz3X9apdmWu71Z3jKnnZZ488=w1215-h912-no)](https://lh3.googleusercontent.com/VdwQXhMvfjJt4yKsZyjwpqQozAhQtm_D5vjttFuGX-mgaqSXgmLafsw_8XljDrMcIk6DBwGFNx6ou2lSOfc8t7z5063tjKsS33uSUJUxfwlQG5xqYSF9VtolT3opc3rqoDnzjMZWOpGjH5VLs3acXCvIQT8TO0yv19gzqCeaDRNuRz0N5Y2EqfM_5pvw6H4dywCmB0_6bbHTPty_j_5H0Q1pbfJcaXotst_HdsWmfAe5iYaBwAyV3v-dLyZ5PG-aT6fagaog8JAf12ujK3RDYvswE6mvRg0IGOBWpmKE9rxgBXay7a5stzRObfkK5jL1Jesc3LCU5R_Ms1YiFunnCNfxy7fslHFoRehL2Olx7lcn5wKZbHWu0STr52dbSHf-V_xx5ka3hUbFpOTQuNKM2DRjZABK0iRfUCBapjeIhd02l8XE0FVH_hMAmR5eDNKfuDSHCw5AGLyg9dKTnuSyNPSyAjE8UUvuKRDBa2K9TS9i0STJuJ9UZwZwV2Lhfzc7t3qYMR99KgMaTS3b-oxDh2mgs4hiKmxcXCdHnN4zhc8s6XEjJXxY78vFf_oxsGprVMoQ1YwOQXd3vSgGefm7qImwCJy9a4wwjG7cDjUMAuGYcJb41fSL9IRXCF9M7BqW7nQlR69kFts5n0F_r4zqz3X9apdmWu71Z3jKnnZZ488=w1215-h912-no)
+
+Direction Le Muy puis Taradeau par Les Arcs puis mont&eacute;e vers Tourtour et direction le nord jusqu' au lac de ST Croix pour faire un pique-nique apr&egrave;s s'&ecirc;tre restaur&eacute; direction Verignon puis Ampus et retour par Le Muy.
+
+Jeudi&nbsp;:&nbsp;86km 815mD+
+
+Route de la corniche de l&rsquo;Est&eacute;rel jusque Theoule/mer puis Testanier par col du logis 13,5km 2,7% puis retour par Fr&eacute;jus.
+
+Vendredi&nbsp;:&nbsp;120km D+1200
+
+![Image](https://lh3.googleusercontent.com/lukmC0wsv5bxVgc4zNI3ddbqXvDLvf2lp99MObP4fzJF0dHVBpfImSJcUNnlAGyKGHFB0r_dIBSSUIdgfQgqfnNrUoBrsAGb0tgAaNuJz5GTq5sh--Lm8chtfJyVlrYjaOPbeR0moCdijgaV82kNlcCCMx3A_A7Q-j9SeLMWV5P7dfL6TImb_s4orvlAxjoVhtasYQ9FGlqFisIrFonTfGOqN93pGVVmRUwx3KYV0RL5fk1ON2BvATDxaeD_suf8m6PxQmKhSMc6KFoR7Z6sXMO5FFYt3wSmuA7njMeRTG2X7nbZW-DPmSUkTPbPGIYJhdA5hDBqG_lAzmlqibi1_8jNoWc4Kyosj_KBzLDgluOTG1ZtxW3upCNP32spPU3UGiHczOmndoXZIekec2txfe8yJGnAzqQPHyMpRErSyxB5AS9ekcW4UkBtTr-dMvW6H6ajJBDWf_R6v5TQlLnvnpIuql60f5mfbKJkHxV3qvArr8NwTT8JYBKfpqTeiKY8FVrTH-D0RbqjkHmQ1NLwndC492D2hrqCl13-azI0mw2FCEwvz-z_M6sapmjcYeAMNNcq58hdcpZukb3h_1GhLYss2iHu-Ilbz0lINrHYgpdQu1eDZUzbmuF3nnh-PRhZqK6XhmAKE-RXFmT3bDfgxgl9QgCBENChlffEp3niNE0=w960-h720-no)Circuit dans le vignoble par Le Muy puis Lorgues, Entrecasteaux et retour par Thoronet et son abbaye pour un total de + de 620km et + de 7000M de D+.
+
+Le s&eacute;jour se d&eacute;roula tout la semaine sous un beau soleil comme tr&egrave;s souvent dans la belle r&eacute;gion du Var, tous les participants (150 p&eacute;dalants) s&rsquo;accord&egrave;rent sur la beaut&eacute; des parcours et sur le fait que la semaine est pass&eacute;e tr&egrave;s vite et m&ecirc;me trop vite, en atteste le&nbsp;[reportage photographique](https://goo.gl/photos/QYLpQLVGD69B8tis9).
+
+Guillaume.

@@ -1,0 +1,28 @@
+---
+title: "2019.05.30 Brevet de La Chapelle"
+description: "Temps plutôt maussade pour ce jeudi de l' Ascension mais quand même une bonne trentaine de cyclos au rendez-vous car c'est le dernier brevet avant le rendez-vous de l'année pour les cyclotouristes car j'ai évidement en tête Lille Hardelot."
+author: "jpamielh"
+date: 2019-06-01T08:57:38
+draft: false
+categories: ["cyclotourisme"]
+tags: []
+original_category: "blog-cyclotourisme"
+image: "https://lh3.googleusercontent.com/RUIwgzZMjj9oBa_fGNzseSkJpGHG4u9VC1o89yvfoXOmcu92Bo64ZbMOt667rPCs0uHdHZ5RPCdA-CnG69_7nZK5s_0_4_9vSanEBaOvZ-pJsrQ6pc2lpE02p43M_EDo1xdrZ3TYtjB-Ltf_b2ABpeefqD7DWS8TmsTUcwSlop101RDXdVtyZtM79n5mUm0JrW6RWzgOEArfhuYk6VOqvahN7Ki6SXDnHkAIvdAOPN0AZjikfJSzB5MajWJcQKCobvjO9r-zSvckNFGAIKYIOqaj4gDv-UcGab-KI96C2tW0viJH9SCRZTC8vEBcl5WukUU1YC1Inr-6vuLxCsz064YFQNQkJk6tu0qEXstMo8W5UfF2RRf1KnX2lN7wCEawtFZJ-BG0_uFQediG10JfKzBE_z9A-cFiX8B2yE2_Yqzmd-fw8pgF7O9iIPuI0wQFQTtE-a_1fofcg7fkNZttIH5LT8wHp2EbinH-ncBUJ2iqVueToKBzjrv6OkwrPOJii-RJAGwUaAHkb7NFU2p1XHIyhHYTo3j7NCHhEn6Zy1PVEn1TDei6-iLPYuTk8jIhDJ_s3DESKeRuLPevctIv_sK393oNfdr4lsoD_S1YMq-Nm5kWuFH28s21AxT3ZxWneedH58xvVcJQ2xrCwlfAhzptX3mxIOMd=w1178-h883-no"
+links:
+  - title: "Les photos"
+    website: "https://photos.app.goo.gl/AY1w9ct7CaLKZpyF9"
+---
+
+Temps plutôt maussade pour ce jeudi de l' Ascension mais quand même une bonne trentaine de cyclos au rendez-vous car c'est le dernier brevet avant le rendez-vous de l'année pour les cyclotouristes car j'ai évidement en tête Lille Hardelot.
+
+<!--more-->
+
+Sous la conduite de Pierre-Gilles, arrivée sans encombres à la salle pour l'inscription avec au choix un 30, 60 ou 100 km. Dommage que l'écart de 40 km soit si important ce qui pousse la majorité du groupe à choisir le 60 km sachant qu'un 80 aurait certainement eu beaucoup d'amateurs.
+
+Après une petite attente de Chantal nous nous mettons en route et je me rends compte que je suis dans un groupe de costauds avec Vincent, Jean-Luc, Jérémy, Sébastien S. le petit nouveau, Daniel A. et heureusement Chantal pour assurer mon rythme. Rapidement Vincent et Jérémy se mettent devant et vent de face assurent un bon tempo qui m'oblige à rester concentré alors qu'eux continuent de discuter comme si de rien n'était. Un peu avant Bailleul Jérémy nous quitte pour rejoindre un groupe devant si bien que je me retrouve avec Vincent où nous échangeons et je dirai même travaillons car notre discussion porte essentiellement sur la préparation de notre prochaine réunion de bureau. Vous constaterez que même sur le vélo nous travaillons pour vous et sur les futurs projets du club.
+
+Pour rejoindre Bailleul nous y allons directement par la grande route et à l'entrée de Bailleul nous tournons de suite à gauche afin d'éviter le centre ville. A la sortie de la ville le parcours nous fait virer à droite de suite et nous empruntons des routes qu'avec Vincent nous ne connaissions pas. Ces petites routes nous amènent au bas du mont des Cats que nous escaladons au ¾ car la bifurcation du 60 nous fait tourner à gauche direction Meteren.
+
+[![Image](https://lh3.googleusercontent.com/J-eIQf64ftnpcVfX_hfj2xkKao5HNQ8eepj0FfIeGutHWqpQdwpBOXe8KY85k7EDQ4Ot7FAKxDAWj3rT3rTKqaX8T9eDT6rgVx9omrP1tXhp5zg2_MFiPkDugT_nR-7IGRp8f9fLZ4bBPqn74RosxewbUdCfbzXlSKuZnyydZhdbPV0rfsjpNXfEEObIapr3Um5yYYw8cVMjd9IhFq532-AvtBK6Ptd0Ke5OzdAN-R48Vk5413-26ms6LBqd3gSEaFSuoWdq0xLo2oP3zu5CniFg0TPlPvWIdhJ8PW5aBHMo3GBDMsVMgJPz7pPD6ti8cAU8G9BhGHDSzHllU_caYX5sFmVXmXSFMQzdeuMUx1lcSeMV-fjfdkSSF7vIBX1W2M1vS2mCX-XTr0KzDHHlG9lWGvan3ksJvLk4qsgHRRKwrzPaVlnNCb8BytbUck3FB_yMTpYO9wXs21c8u4r_bVHiG6eD4rMwSAP-Oms2DVrq-xhlaXn8T-Ln5DJw891tdGFwqmyUxMG_R1vTNt_44KPA4eUDFlIDJXQw5u_XR9lgWeruW_ZldraZZnndraqlKiOU7tQhRANu5So5Bjcw8giB5EklXp72E1xGmt8Bf3jtHcFPAT6fY3tG7TcV-ZvpQsWleoe5p9MzrqvGQuqBS_Y1zMpp1Wds8-rc6MQBhmZCzVmf10WSRnEaZve0WNQbxltzwN5HzlVVK5oMxRpOtoaPgw=w1178-h883-no)](https://lh3.googleusercontent.com/J-eIQf64ftnpcVfX_hfj2xkKao5HNQ8eepj0FfIeGutHWqpQdwpBOXe8KY85k7EDQ4Ot7FAKxDAWj3rT3rTKqaX8T9eDT6rgVx9omrP1tXhp5zg2_MFiPkDugT_nR-7IGRp8f9fLZ4bBPqn74RosxewbUdCfbzXlSKuZnyydZhdbPV0rfsjpNXfEEObIapr3Um5yYYw8cVMjd9IhFq532-AvtBK6Ptd0Ke5OzdAN-R48Vk5413-26ms6LBqd3gSEaFSuoWdq0xLo2oP3zu5CniFg0TPlPvWIdhJ8PW5aBHMo3GBDMsVMgJPz7pPD6ti8cAU8G9BhGHDSzHllU_caYX5sFmVXmXSFMQzdeuMUx1lcSeMV-fjfdkSSF7vIBX1W2M1vS2mCX-XTr0KzDHHlG9lWGvan3ksJvLk4qsgHRRKwrzPaVlnNCb8BytbUck3FB_yMTpYO9wXs21c8u4r_bVHiG6eD4rMwSAP-Oms2DVrq-xhlaXn8T-Ln5DJw891tdGFwqmyUxMG_R1vTNt_44KPA4eUDFlIDJXQw5u_XR9lgWeruW_ZldraZZnndraqlKiOU7tQhRANu5So5Bjcw8giB5EklXp72E1xGmt8Bf3jtHcFPAT6fY3tG7TcV-ZvpQsWleoe5p9MzrqvGQuqBS_Y1zMpp1Wds8-rc6MQBhmZCzVmf10WSRnEaZve0WNQbxltzwN5HzlVVK5oMxRpOtoaPgw=w1178-h883-no)Après le ravitaillement, que nous faillîmes rater car il était caché derrière une haie, certes à l'abri du vent mais peu visible de la route, on récupéra enfin le vent de dos. Ayant le vent de dos je pensais rentrer paisiblement mais que nenni nos meneurs c'est à dire le président et le vice président se mirent à appuyer sur les pédales et c'est ainsi qu'avec Chantal nous eûmes pas mal de difficultés à suivre, le compteur dépassant régulièrement le 35 et proche du 40. Chantal le fit remarquer mais notre président répondit «&nbsp;mais non c'est dans la tête tout va bien&nbsp;» certes la tête à beau fonctionner normalement mais pour le vélo il faut aussi des jambes et les miennes commençaient à chauffer. Heureusement on ne faisait que le 60 km et le retour à la salle ne tarda pas avec même une pointe de Chantal pour finir.
+
+Comme il n'était pas trop tard je fis le retour sur Wavrin avec mon groupe ce qui me permit d'avoir 117 km au compteur et surtout sans une goutte de pluie ce qui n'était pas gagné à l'aube.

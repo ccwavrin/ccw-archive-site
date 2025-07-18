@@ -1,0 +1,24 @@
+---
+title: "2022.06.04 Championnat National VTT - LOUPES (33)"
+description: ""
+author: "vpoullier"
+date: 2022-06-08T18:28:38
+draft: false
+categories: ["vtt"]
+tags: []
+original_category: "blog-vtt"
+image: "https://lh3.googleusercontent.com/DHNEEV98YapYKMlaRWWazGHQqtZIgkZWKs9BglR-4hGZ81Upnh2pipuSnTxZb1WxfFIg6YcIOnipqsjp321hbTsdZiWGVu8cpNT_111MvN-1lxffSxHuHm1rZPd8J-o3ledykwXZOf1mzXSRu-_fQEELSurf_M3-q4h162W5Nr71U95So6eTcl3h76D4uUi8q4lhrPn-lQ-A1Cmcl3JixnRR8BdSOp6ApUKE4Y9L3jplWT5dtABwW_ZcTnjvgIxbEHWdasqvbr6xEh4auvr6-G7d_RggJ0BeBKvIKRKGqdgPRHtwO_4iC-brK54D6wDxTh_-SetpAfT_OYM28ijXEa8tLaFkNb93ra7rsPCy04Eyvl1it2Io58Ch7AV29AdbbgU0K7MuZMs8aZbTnTKygiGIkTvSS52ycTWY1RPhqiUtAWCvP-qsgndQt8yjZ8iS72DYHwsPwadXmOVegof6Ly44U3ojNL50GJNB-9OKdTlT8pZw8TNzcOUOYIZC59aNUHHAo1hHS2i8CmZ_x4P59ExH7KXmmKPhS3NT-HwBNM-ZY-eFT9uwTTWGoE908CabrFWEiJ1AEDCYLdeYDPLTmjZOIZNTNr9if1vDTcpsbsV55vvbJQ_Sa4a94DYIwi37kshVQwbWkfTwlXGWIq2_SwtzVAaQZ4MpLeSGajjVptqzh1V6IE-hkXubfhKx-xBUB8LhVP_sPgGkavpnxQ9Zts6T7zk4pcnIwOaBNcGE-CdHPFNkmuF8f83weczVb04gsU8Kg-5AUi0OLXyo8XBcw8ww1akRk5tjYJuAGygMvdUCRvoSvx7SWWvW_06EQQkzN3pgsCdVTA=w600-h899-no?authuser=0"
+links:
+  - title: "LES PHOTOS"
+    website: "https://photos.app.goo.gl/5Mf5BhBfn7XCshLH8"
+---
+
+[![Image](https://lh3.googleusercontent.com/WxANqvBZrjJfOkm2H3t75pVcEm6ChXuEiYgJnKGPRKL7F2YKpJSHSSCtKCjn9mkFwHUSd7jpeLQzk7yZ0lhWQ0_1vqEWoMIBh5D_Ct152lMzgqDXNYPezHCxyaxeImKDcwBGyQuxaemd4wxpoHY1SlPmyPX92ELbWNZGNdK6oOSZW03I9gP23EhcgAWAsEUa1KineQXC9m74ZPXPHr6EPVTNIgl9GXRxmgBkczWLJLU42HrNzDO9TW0HrWzP4fpFwxawjqw4QX3v8tVoj1KnB-yTuTGOGaWCf9lwtDrsF5bJd0_IUA06GE6QnQwvAZsiwA6BI10uS2JPQSk9epKu2JtVwNWY-kYzXi9UmR7eTu0SlT7xWDqtixD8SDoAWvzj1j0LGp3rI9zA6C1Dg-vMIqQDbMezd0rWAMs1GK-h5ke6FT7WuW-hZG09b6z6Ef6-0rt-GF_nBT5djs7NVbYK-sTSLxCtfX3ERDwfwGsRcsh-rOxTWGVPnIBBjueivt-6hfHP4owAzO2I51f5n9wKekCKoFQ7YkK2Jo5SnDD0xBSo-sboeS47-LYhlKVTJg2rKxZtZ8HP6RP_lKpybJkeHlso3mqPanK7XWktYMQ7G2CebpZw-q58FfuCt6py_akTdDZuucFummzgwEoNW40onlhuyhZ0OLk4C64weY1fa3EZcq5LSIJR8pqC-sNui7NJKnCO0Byiszd7MV8Nwm4kdrLoeKxtr5W9P3styNQbmJkpJLj6q3aTVumXAMHa5p0WrL_3S5EZ69JITMJVMCjdVp6Ce4_q9tgZneSvmS41UrryIHrQpzUbnh93s2Vkcqcfc00X782IjQ=w1349-h900-no?authuser=0)](https://lh3.googleusercontent.com/WxANqvBZrjJfOkm2H3t75pVcEm6ChXuEiYgJnKGPRKL7F2YKpJSHSSCtKCjn9mkFwHUSd7jpeLQzk7yZ0lhWQ0_1vqEWoMIBh5D_Ct152lMzgqDXNYPezHCxyaxeImKDcwBGyQuxaemd4wxpoHY1SlPmyPX92ELbWNZGNdK6oOSZW03I9gP23EhcgAWAsEUa1KineQXC9m74ZPXPHr6EPVTNIgl9GXRxmgBkczWLJLU42HrNzDO9TW0HrWzP4fpFwxawjqw4QX3v8tVoj1KnB-yTuTGOGaWCf9lwtDrsF5bJd0_IUA06GE6QnQwvAZsiwA6BI10uS2JPQSk9epKu2JtVwNWY-kYzXi9UmR7eTu0SlT7xWDqtixD8SDoAWvzj1j0LGp3rI9zA6C1Dg-vMIqQDbMezd0rWAMs1GK-h5ke6FT7WuW-hZG09b6z6Ef6-0rt-GF_nBT5djs7NVbYK-sTSLxCtfX3ERDwfwGsRcsh-rOxTWGVPnIBBjueivt-6hfHP4owAzO2I51f5n9wKekCKoFQ7YkK2Jo5SnDD0xBSo-sboeS47-LYhlKVTJg2rKxZtZ8HP6RP_lKpybJkeHlso3mqPanK7XWktYMQ7G2CebpZw-q58FfuCt6py_akTdDZuucFummzgwEoNW40onlhuyhZ0OLk4C64weY1fa3EZcq5LSIJR8pqC-sNui7NJKnCO0Byiszd7MV8Nwm4kdrLoeKxtr5W9P3styNQbmJkpJLj6q3aTVumXAMHa5p0WrL_3S5EZ69JITMJVMCjdVp6Ce4_q9tgZneSvmS41UrryIHrQpzUbnh93s2Vkcqcfc00X782IjQ=w1349-h900-no?authuser=0)
+
+&nbsp;
+
+&nbsp;
+
+Même si leur préparation a été studieuse et minutieuse, notre tandem rentre du championnat de France avec un goût amer et une certaine déception. La casse de leur chaine dans le 1er tour n'a pas arrangé les choses. Une 9ème place qui ne satisfait ces compétiteurs. Bien évidemement, ils sauront se remettre en cause et travailler sur les points faibles qu'ils ont déjà décelé. chut...😉&nbsp; &nbsp;Le club peut être fier d'eux !&nbsp; Le samedi à Loupes dans le 33 et le dimanche, ils étaient à Troyes avec les triathlètes pour un format L.
+
+&nbsp;

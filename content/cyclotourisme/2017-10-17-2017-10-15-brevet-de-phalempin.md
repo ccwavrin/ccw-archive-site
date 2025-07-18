@@ -1,0 +1,38 @@
+---
+title: "2017.10.15 Brevet de Phalempin"
+description: ""
+author: "jpamielh"
+date: 2017-10-17T20:50:00
+draft: false
+categories: ["cyclotourisme"]
+tags: []
+original_category: "blog-cyclotourisme"
+image: "https://lh3.googleusercontent.com/SM1K8kcSGfw1ZX5wBoVOopdFPAEMaAurESLPk97HN73eM1SJB__YBJSNuGxVCjJAuF1-wCjEIPeCmprN5rPEly2cU6IddxOfp2nklKEgtptufcWkN74sJLe87Wu0-m1wNT1AOh5KG2XR1S12nA163h9fUzLjoWGNIRkIntmqDbncoe-NefdjQ4QHxwcezw9oyKc3iTwOX2wsHi0MXgrQpzC77RJvSFHhOO7xda3HSjBXncFsFH0KOzm7CL3IHI2lBGB6u1bJQKjhmXS9vRDW8xbBVypFj95SytcUEjDhKk8OteGx9O7SvMWJ59JdZBQlNQnDN72QNBtcrpF7GH6gM-X4d0ebYvOAmuB8VTtU69zUgJF9_LDGLKnpgcYnuiMrP61JVPhngSyr8JGSYskQQvF11SpmkktVi6VXVa-LUeZQxZXUmHi6sZPrJ6rpbLNyy2xMA3eIGte2fAdG5zIODrUz9OpG2Olb50uSTLpFbC3dyh18u4obxErEKrEwvqSxLmymH3Zezdjo7XhwXisE0VcakZert1e0LgdjHwFHTJMotYCNV-9UEKZFhEjXc7xcGtczrOs0CfqY4B8rX-9_W4Oj89udC2TjB6C9nrUufjJvnZzwnlLVr6DMld7euYdGfeovTRH1XRIjzOTs-dTubNn0ucUGllCGvlkP=w918-h688-no"
+links:
+  - title: "Les photos"
+    website: "https://photos.app.goo.gl/FP15NF4q9sahXtVG3"
+---
+
+Il faisait à peine jour lorsque j'arrivais au RDV de ce dimanche 15 octobre 2017. De suite en arrivant je fis une requête auprès des copains déjà arrivés&nbsp;: «De ne surtout pas me parler du LOSC et du match de la veille&nbsp;» Tous éclatèrent de rire et Christian D. me suggéra même de mettre sur le bon coin mon abonnement en vente. On attendit quelques minutes pour permettre aux retardataires d'arriver et surtout d'avoir une meilleure clarté. Nous prîmes tous la direction de Phalempin sous la direction de Paul-André, ce qui lui permit de s’échauffer.
+
+A l'arrivée à la salle étant en pays connu (rappel pour certains je suis un ancien Phalempinois) je fis le tour de mes connaissances ce qui retarda quelque peu mon inscription et mon départ avec le groupe pour les 65 km. A peine partis premier halte au passage à niveau ce qui permit à l'ensemble du groupe de se reformer. Ensuite ce fut la traversée de la forêt où la cadence augmentant favorisa la formation des [![Image](https://lh3.googleusercontent.com/hI_5yOXjD0lKE3uInbQT3Dl0czbcPykzO4np08zaDlPImEodnwH5o0fe98XEgrtVxyztE0lkoXjDeLbnpeCoQqdga1RnFAic9WWN1Yh7AqS-DC3kEidk8pKa18ee7Yiv431u4NmmrIYrI6pBgWRVoa4rBD9SZYfTrHOxCnzI_Zl3x6aHjm5yaeg6mL84IGmPQcoaOu_RK3sxfDrZO5tyAmYzeblcOElr2Rx2VM_V-dPEGlNNPC9UbanepUDYeo_SGu4fyNhYzbM25bDDTGhNZstIQGcJzO_rHxe77EqQW79GPPqk3vf9HX4gM2tZQvgSOV85playcqVi4xMYl1e0cBiLquMcBSQE4OYDXSG7NF8qX0BP4aFuEIZMNBHnwwevyjm0_rw8zOSZl-0tRvRjTMqMNyIqJm3pyitdx0dD7DbWi46JicEenenwF9VnkG9jkE0K5vrafRLGnq8zeSoWqGNC4IKBCfnWhrye5L9wbd7t7o7GRm703ODo2ldBvFtLdG6FKwj93gVUUeTRqb2uJ29VrytVAqv9-RTuz1GG1CDcWoDVfumTRdN1E0SGsAqEs6ezXiKDfc4LGb4RwKyBHzjVuScTvunq--CPMiLSnl4O1iMQ0NzygunW2BcRNydb16uyj0f4OeQU4JTGwivJrH2_yGHleyAHz8it=w918-h688-no)](https://lh3.googleusercontent.com/hI_5yOXjD0lKE3uInbQT3Dl0czbcPykzO4np08zaDlPImEodnwH5o0fe98XEgrtVxyztE0lkoXjDeLbnpeCoQqdga1RnFAic9WWN1Yh7AqS-DC3kEidk8pKa18ee7Yiv431u4NmmrIYrI6pBgWRVoa4rBD9SZYfTrHOxCnzI_Zl3x6aHjm5yaeg6mL84IGmPQcoaOu_RK3sxfDrZO5tyAmYzeblcOElr2Rx2VM_V-dPEGlNNPC9UbanepUDYeo_SGu4fyNhYzbM25bDDTGhNZstIQGcJzO_rHxe77EqQW79GPPqk3vf9HX4gM2tZQvgSOV85playcqVi4xMYl1e0cBiLquMcBSQE4OYDXSG7NF8qX0BP4aFuEIZMNBHnwwevyjm0_rw8zOSZl-0tRvRjTMqMNyIqJm3pyitdx0dD7DbWi46JicEenenwF9VnkG9jkE0K5vrafRLGnq8zeSoWqGNC4IKBCfnWhrye5L9wbd7t7o7GRm703ODo2ldBvFtLdG6FKwj93gVUUeTRqb2uJ29VrytVAqv9-RTuz1GG1CDcWoDVfumTRdN1E0SGsAqEs6ezXiKDfc4LGb4RwKyBHzjVuScTvunq--CPMiLSnl4O1iMQ0NzygunW2BcRNydb16uyj0f4OeQU4JTGwivJrH2_yGHleyAHz8it=w918-h688-no)groupes.
+
+Les conditions climatiques étaient excellentes avec toutefois une visibilité affaiblie par les rayons de soleil pratiquement à l’horizontale et obstruant quelque peu notre visibilité et surtout la vision des flèches. A la sortie de Petit Attiches, apercevant un maillot Audax, je m'approchais du cyclo et reconnus notre fameux reporter André TIGON. Après quelques échanges amicaux avec André j'accélérai pour rejoindre mon groupe. 
+
+C'est ce soleil rasant qui perturba nos deux Christian D. et B. car, à la bifurcation du 45 km et du 65 km, ils ne choisirent pas la bonne direction. Après le regroupement notre groupe roulait toujours à bonne allure sous la direction de Frédéric si bien qu'assez rapidement nous arrivâmes au contrôle situé à Aix.
+
+Quelques minutes d'arrêt et quelques bousculades, certains ne daignant pas lâcher leur vélo, on se remit en route direction Nomain et Auchy les Orchies. 
+
+A la sortie de Bersée un appel fut lancé pour attendre Dominique V. Notre ami continuait à rouler mais relativement doucement et tout en regardant sa roue arrière. On pensa tous à un nouvel ennui mécanique mais en fait ce dernier se posait la question d'une possible éventuelle crevaison. De suite les mécanos prirent les choses en main et la photo montre bien qu'il ne pouvait avoir doute sur la crevaison. La [![Image](https://lh3.googleusercontent.com/rTv9QNDUdsndujnEW3c5qkNHZm9GjFdjuxcw7WvdKfumkZCh9NtShUaP0UXPIIoGfm3GgpYsHezJJ7QS-IXcZXTutKcp6wsgPfZ-5bHrIgE6eAHKFXd__JJDqZACjkkcmwp64NvRa5D0flxx0SMy6e41ezsY8i8YL_jlp7XuHEt7BafB21m8fB3CbWu21lNK7I-Xu8vNxFtvzXxX3cmOvspK8iWVfpv0jnIaKw3Q66gFrEBNV3xNBvRJKwwA9im2TC4V-mbMfrFaaTLDNVSaLlxXo1MQYrZP1uoYAX1cu9LENb0qxMlpk3Lu312Ode_25eIaomxp4PH-SnMXJbKQ4QnoN8YglBpwmXaAg4-c--MF6G_0LUf8pLWJhbBh6tJKR5tAYCOa8PCC0fQeY8pnvMJfxH2ooSJqNq1sWtAojky_yqlKOe2vVbQf3RYxsIKVvUxC5bFWvI6WVnyf--0MnjXxwNf5Ipw6D9SyRFhMNQiQCG5yzGCDDqply48bara7Yg4B8CckP7x7fL8inXSjaYWYoBmIyrklPWEupOHffXWkpAb-9Q_e6fEdokXqgVMMSVXO5iY42_8JYfoJJ4tPBZSGSprfvWzzZlM5ZsfZtT5oT9vEkIDK0fnh_CzsjHiP0orChj_Q3vmwXNlUMwxXbeEQYhKYjhsdWjRF=w918-h688-no)](https://lh3.googleusercontent.com/rTv9QNDUdsndujnEW3c5qkNHZm9GjFdjuxcw7WvdKfumkZCh9NtShUaP0UXPIIoGfm3GgpYsHezJJ7QS-IXcZXTutKcp6wsgPfZ-5bHrIgE6eAHKFXd__JJDqZACjkkcmwp64NvRa5D0flxx0SMy6e41ezsY8i8YL_jlp7XuHEt7BafB21m8fB3CbWu21lNK7I-Xu8vNxFtvzXxX3cmOvspK8iWVfpv0jnIaKw3Q66gFrEBNV3xNBvRJKwwA9im2TC4V-mbMfrFaaTLDNVSaLlxXo1MQYrZP1uoYAX1cu9LENb0qxMlpk3Lu312Ode_25eIaomxp4PH-SnMXJbKQ4QnoN8YglBpwmXaAg4-c--MF6G_0LUf8pLWJhbBh6tJKR5tAYCOa8PCC0fQeY8pnvMJfxH2ooSJqNq1sWtAojky_yqlKOe2vVbQf3RYxsIKVvUxC5bFWvI6WVnyf--0MnjXxwNf5Ipw6D9SyRFhMNQiQCG5yzGCDDqply48bara7Yg4B8CckP7x7fL8inXSjaYWYoBmIyrklPWEupOHffXWkpAb-9Q_e6fEdokXqgVMMSVXO5iY42_8JYfoJJ4tPBZSGSprfvWzzZlM5ZsfZtT5oT9vEkIDK0fnh_CzsjHiP0orChj_Q3vmwXNlUMwxXbeEQYhKYjhsdWjRF=w918-h688-no)réparation tardant à se faire, car il y eut beaucoup de palabres, l'on vit Guy L. nous doubler avec un beau petit sourire ce qui ne nous empêcha guère de l’applaudir ainsi que tous les groupes qui nous doublaient.
+
+La réparation terminée l'on repartit pour gravir Mons-en-Pévèle, ce que l'on fait au moins depuis un mois tous les dimanches, les parcours étant très similaires depuis quelques semaines. Ensuite ce fut la descente vers Thumeries où l'on fut quelques-un à attendre Dominique V. Alors que ce dernier était revenu à notre hauteur ce fut au tour de Jacques C. d'annoncer une crevaison. De suite Jacques et Christian B. s'affairèrent et ils retirèrent du pneu un petit silex. Pendant ce temps notre ami Dominique maugréait dans son coin en reprochant à Jacques de ne pas avoir crevé plus tôt afin de lui éviter ce gros effort de poursuite pour nous rattraper. Jacques en rigolant lui répondit être désolé et que la prochaine fois il essaierait de faire mieux.
+
+Il nous restait une petite dizaine de kilomètres à faire en passant par La Neuville et ensuite la forêt de Phalempin où l'allure augmenta fortement pour approcher les 38Km/h, je soupçonnais mes compagnons d'avoir peur de ne pas avoir de sandwich.
+
+Il était 11h30 à l'arrivée en salle, juste à temps pour recevoir la coupe des premiers avec 44 participants.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;

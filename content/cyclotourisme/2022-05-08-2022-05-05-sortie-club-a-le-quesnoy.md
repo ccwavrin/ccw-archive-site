@@ -1,0 +1,36 @@
+---
+title: "2022.05.05 Sortie club à Le Quesnoy"
+description: "Nous étions 10 au rendez-vous : Adélino, Pierre, les 2 Pascal, Daniel, Pierre-Gilles, Fred, Jean-Paul et Sébastien qui se proposait de nous accompagner un bout de route."
+author: "jpamielh"
+date: 2022-05-08T03:42:28
+draft: false
+categories: ["cyclotourisme"]
+tags: []
+original_category: "blog-cyclotourisme"
+image: "https://lh3.googleusercontent.com/DeJZJzjPF9Uq_HOeuMwqgQnBYh7l4x2E6vjrhbsqYg0du2a1AZjBnjfoMGfCQjp_j_dy3GZC774hEFj0emYhET5zlLQi9WlbXKfWu1eYHqVQAcTFA9Abx-1DZ88qN1MqYIz4-e2QylbTEdesfNTwxyVg6HqBQcfhciaS76CS1C7mxNkOL3d8-KN7359JID0G1wKKmb94K-42jOIKIHP3kKbQjkNTIqGtvv6p-O81INSM2KTgvZm7egsfBqGMTIal-stjnQfYbREeqTtJFAJiLR9OiUTxLQjggriM0JH8pHt-aQoKxgPQpqJNl1mqJy4jlkykiuCgUsYBoWDrNpROMjfo5_6_BDiJhGkDypiEBp478BTRLD4Y5ZnUy3nJ5KD18LD-gstm4gLWhLAVvaWXxEsWKxe5wC5yHz8Bo8R7GEjFZUGOl7cgjpIWZHTXj7rFR5HX2nN1Lf4mQjAXnk80mDT5DexQLisxTtDPbszyhSNKQo8tHJzfzUAeNpNI-byDL9hemhH1V5jaPxvg0fJJEFMA65M8GWdC4QNYwqoRYs-KbL7L3LjlQQs55AYf6akwVEI2YD6FQlgmiCaeadE1WoUvJfg4G7EP4fWgTwNu4rFaoH1iAzO8QlYphBlRaUVKKeqd9X1ks6ltdVF9qySaeQ1qHea9gCnfmGOA0cwhoOEfJmHTYqxVWjN0Febw5AM5TpJmS7LY7zMe1WgAooyQJ1XubjzVHzcecDCNw-KUx-jjmXbH87GMCSmVBpLyGNI=w1130-h848-no?authuser=0"
+links:
+  - title: "Les photos"
+    website: "https://photos.app.goo.gl/RW9NV1yh4jCtRX5D9"
+---
+
+Nous étions 10 au rendez-vous&nbsp;: Adélino, Pierre, les 2 Pascal, Daniel, Pierre-Gilles, Fred, Jean-Paul et Sébastien qui se proposait de nous accompagner un bout de route.
+
+<!--more-->
+
+On était sur le point de partir quand nous vîmes arriver en VTT notre vice-présidente Chantal et notre président Vincent. On leur proposa de[![Image](https://lh3.googleusercontent.com/UCAvYJYUhAXHdpB5LrDsNk-NpWh_aF2cODlyqujcS7hZrf4kXIEDr4LMryY0wBRTXWzT0Mznof8rocezcOqbOh_xmMuRTpLX6brC6F0G6-kKYufjHT14XZ18a2W4GJJ4Xl-k7DlRqKo7VqkWh2MylZ3lGF_ggU9j3jk9BD0i6yLkwyXSrkidibGnkja0TzjlvOWDAUC3yWgr_dy0m74ofrX1hweBb-beRYhcnffJDTeNnqpE5CUnF1IUGuVcMRxrrHVlIvrflQJXxYtg-PS6G6We6IR7uFoPg7CKDNXR8-ThKXcKBEz3sbbbzs_j05EUT5HxRtBnPD3hJDyOQH1uS9me9VcB6iES58Fk6X4hSaTT1nWpXh6XlXAxHMTC52vJ1PfROmW_vhnPfibZ2mOPu6Y1VSeHUahH6s_xOCP-9_5Ev3JoXpt5LVFg35nH4O8N0o-gofGDBQCCBUWcOywKaaNqq1dK8BABv_n-_Nlf7XPaW2DZnNbQ9Xs2LjXrHGfnLIePNzUZ1leZzrRemFC4bFyIzIrM_fi7noBQl-1C1jprdDWnh1fbicJlgtfGHZh9GUzv2vHU3O2m4bwzO0xdsUDfowUPXPjuRiAWCazaZGN_tsKWNotlMfZRf9a4VFrB_leTjoaqgATLFnd0G2jN-9e1D6QATr2O9Kv9NagJ061F2bkBVCuMSGrns0w-piMqqZTrsxM7vpgOIf7pAYFnLXx6ToycSYjrpiGz7sMyzPFaEoF_zMwup5aYq8LJOZw=w1130-h848-no?authuser=0)](https://lh3.googleusercontent.com/UCAvYJYUhAXHdpB5LrDsNk-NpWh_aF2cODlyqujcS7hZrf4kXIEDr4LMryY0wBRTXWzT0Mznof8rocezcOqbOh_xmMuRTpLX6brC6F0G6-kKYufjHT14XZ18a2W4GJJ4Xl-k7DlRqKo7VqkWh2MylZ3lGF_ggU9j3jk9BD0i6yLkwyXSrkidibGnkja0TzjlvOWDAUC3yWgr_dy0m74ofrX1hweBb-beRYhcnffJDTeNnqpE5CUnF1IUGuVcMRxrrHVlIvrflQJXxYtg-PS6G6We6IR7uFoPg7CKDNXR8-ThKXcKBEz3sbbbzs_j05EUT5HxRtBnPD3hJDyOQH1uS9me9VcB6iES58Fk6X4hSaTT1nWpXh6XlXAxHMTC52vJ1PfROmW_vhnPfibZ2mOPu6Y1VSeHUahH6s_xOCP-9_5Ev3JoXpt5LVFg35nH4O8N0o-gofGDBQCCBUWcOywKaaNqq1dK8BABv_n-_Nlf7XPaW2DZnNbQ9Xs2LjXrHGfnLIePNzUZ1leZzrRemFC4bFyIzIrM_fi7noBQl-1C1jprdDWnh1fbicJlgtfGHZh9GUzv2vHU3O2m4bwzO0xdsUDfowUPXPjuRiAWCazaZGN_tsKWNotlMfZRf9a4VFrB_leTjoaqgATLFnd0G2jN-9e1D6QATr2O9Kv9NagJ061F2bkBVCuMSGrns0w-piMqqZTrsxM7vpgOIf7pAYFnLXx6ToycSYjrpiGz7sMyzPFaEoF_zMwup5aYq8LJOZw=w1130-h848-no?authuser=0) nous accompagner mais ils nous expliquèrent aller travailler pour financer notre sortie.
+
+J’avais décidé de tester mon Garmin en chargeant le parcours donné par Daniel et Pierre et dès le départ ils m’annoncèrent qu’étant donné les travaux à Carnin ils changeaient légèrement le parcours. Inutile de vous préciser que mon Garmin n’apprécia pas du tout et se mit à sonner pour me dire de faire demi-tour. Je le laissais râler et au bout de quelques kilomètres il me proposa de rattraper le parcours ce que nous fîmes à hauteur de Wahagnies.
+
+Vers10h nous eûmes droit à 5 minutes de pluie très faible. C’est à la sortie de Famars que Sébastien nous quitta, il nous restait un peu plus de 20 km pour atteindre le Quesnoy, bourgade que l’on atteignit vers 12H. Ayant plus de 80 réservations et avec 30 minutes d’attente on changea de restaurant et l’on ne perdit pas au change.
+
+14h approchait lorsqu’on se remit en route et à peine 500 mètres plus loin on eut droit, cette fois-ci, à une vraie averse qui dura une quinzaine de minutes, le temps de bien nous mouiller et de salir nos vélos. Heureusement il ne faisait pas froid et dès l’averse terminée le soleil eut vite fait de nous réchauffer au point que l’on commença à nous dévêtir, ce qui est quand même plus agréable pour rouler.
+
+[![Image](https://lh3.googleusercontent.com/BmS2s7H2OL8Xpn7iT8A2Ah-Ui_Y47pzKnshthXOn5_GOmeH2E7cs9nFfw60FGXDfvV6TpPHh2OBX4vpzvfxJIhkBE3ZvmvWMOzQFWtnlaVHTk-jB77K5NCv39sNBL4FsmnprMyAdH1AkETIfC8fVVPV8MzF8TVmGRnQUknISGX0ONGGu0R0g26Hy1N5SQA1GqV21XqEhdUFL_zHvXxWMun6866QCALNt-DoP2M3tWKI-OGGwFeclOy1nklUVCIyOMgUGxGsApbQMjPfYUrOBQsy7wiVc2HB-Ga0ZuRwU_ENCL6w-4dicMm6NpTH2SlC9NTUWIn7wUaoMpKuDAWYaRk_nqMJ0lqbOzk4LQx1QfdPeBBu0fZHYvLjj48QNouzS9skXf5piQLSGtuNqhtEC2w-SvRvZnzBxs1Lno3aUDLQ75Q_YJJPSKfEnY_3lPRnVAgeVBFBDEZHcU3cUg-iuIF8SGK9wBeU5SJAHxXPdfK83oqH7dn5JK8dPmX2TMKJPO_YBhWUyZE-wvSlzylvuJZPs7vCCKuGZXMC-6vWnZA-nBuBpj6Ogj5mc_Bb93VAvASWcLykVbX08H2aeOiGo1mv6pqjEvKtq4DxDG4ZzgRy8j-y8avTvMJMHhZ9MiTax1tui0TcArW_lyTBTmlFTWVEHLXsL6FglFZ-E9_aTZXJnUfyB-rv9TPAkxaGyUpcQb3XOI3TA7rNRTphHjFaoP4HB-15ext7m0rtE_DJTfJTJZ5QV13Bwuyx3BEdX5Vo=w1130-h848-no?authuser=0)](https://lh3.googleusercontent.com/BmS2s7H2OL8Xpn7iT8A2Ah-Ui_Y47pzKnshthXOn5_GOmeH2E7cs9nFfw60FGXDfvV6TpPHh2OBX4vpzvfxJIhkBE3ZvmvWMOzQFWtnlaVHTk-jB77K5NCv39sNBL4FsmnprMyAdH1AkETIfC8fVVPV8MzF8TVmGRnQUknISGX0ONGGu0R0g26Hy1N5SQA1GqV21XqEhdUFL_zHvXxWMun6866QCALNt-DoP2M3tWKI-OGGwFeclOy1nklUVCIyOMgUGxGsApbQMjPfYUrOBQsy7wiVc2HB-Ga0ZuRwU_ENCL6w-4dicMm6NpTH2SlC9NTUWIn7wUaoMpKuDAWYaRk_nqMJ0lqbOzk4LQx1QfdPeBBu0fZHYvLjj48QNouzS9skXf5piQLSGtuNqhtEC2w-SvRvZnzBxs1Lno3aUDLQ75Q_YJJPSKfEnY_3lPRnVAgeVBFBDEZHcU3cUg-iuIF8SGK9wBeU5SJAHxXPdfK83oqH7dn5JK8dPmX2TMKJPO_YBhWUyZE-wvSlzylvuJZPs7vCCKuGZXMC-6vWnZA-nBuBpj6Ogj5mc_Bb93VAvASWcLykVbX08H2aeOiGo1mv6pqjEvKtq4DxDG4ZzgRy8j-y8avTvMJMHhZ9MiTax1tui0TcArW_lyTBTmlFTWVEHLXsL6FglFZ-E9_aTZXJnUfyB-rv9TPAkxaGyUpcQb3XOI3TA7rNRTphHjFaoP4HB-15ext7m0rtE_DJTfJTJZ5QV13Bwuyx3BEdX5Vo=w1130-h848-no?authuser=0)A hauteur de Rosult, c’est-à-dire vers le 130ème kilomètre, on eut droit à une crevaison de la part de Jean-Paul. Avec un bon coup de main d’Adélino la réparation ne se fit pas attendre.
+
+Comme certains d’entre nous devaient ne pas rentrer trop tard, Pierre décida de rentrer au plus court ce qui fit bien sûr sonner une fois de plus mon Garmin.
+
+Il était à peu près 17h15 lorsqu’on déposa notre pilote Pierre à Gondecourt et, personnellement je fus de retour sur Lille vers 18H (185 km) car, moi aussi j’avais une petite obligation, nous allions à un concert au Nouveau Siècle à 20H.
+
+Comme à chaque fois ce fut une sortie très agréable avec par moments de belles petites routes et surtout avec la traversée de la forêt de Raismes, qui est toujours un moment très agréable pour ensuite traverser Saint Amand les Eaux et admirer sa très belle architecture.
+
+On continue nos randonnées hebdomadaires avec une randonnée un peu plus courte (130 km) dans les monts d’Artois pour ce jeudi.

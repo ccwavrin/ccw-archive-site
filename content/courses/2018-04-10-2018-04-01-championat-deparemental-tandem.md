@@ -1,0 +1,22 @@
+---
+title: "2018.04.01 Championnat départemental Tandem "
+description: "Retour sur les championnats départementaux tandem."
+author: "vpoullier"
+date: 2018-04-10T14:25:16
+draft: false
+categories: ["courses"]
+tags: []
+original_category: "blog-courses"
+---
+
+Retour sur les championnats départementaux tandem.
+
+<!--more-->
+
+[![Image](https://lh3.googleusercontent.com/xXx46v4c1rcs0b2pe6zeH-msoNCaw1lD-_aNMz43Z_fcsFT5FYkkX0Tu-kOD5zWWcgAc7UkYJCC3EJC52PzgmLQWHclJP_e88Me4fT4I6kRoUyKA3w-sjeIGE_O8cych1TR5exowhIiALzTv58SfHun4zJsblT4zTvBRkSfLy-DR7JN0luT2qVpPP83eybRWLZh_0CqvQxehS0WeXPqKY9zq1LZprZ_WFIssVOb5sjTLPsCl7TazOb0enifMiknTs757zpGTGjwpSZePLdtXNnTGM9DijxXTcuk3Qc6FaT9U49XdyrFYRkDROY_kHuKFB8vKmWMniPOFGJM_9702l6z0KKhtWJx-AjCdpMkyB3r9Q3Wq6-UKH5GTnHkUd8YsX3Fv7ehEDoT6xC8Y-9tHjo1Fw6XjjoKn1u2zyXlOibP623Spbu9hBZXuFh2VOC7oWFnxfMQi1b1nZWUpjABafeY_NxPsQbUedF7yDBrb8VrdhnevARRT6DJ61W5texiZ67GwCM39ZFVeAhf48stckaJpppfmfzJI7NF0pzL6K02H_33jEAfcxm644vLslPp5ZFraEDWWxyP891F4dklL1BV_S4kPm7so601TlBywPFusB6f3UFfc3gads-oMc1fWqOjq79xHiXcRwhkHeyMviqzt791u99jYZgFib_kE7HdIsYy4gvjFdafr5A=w519-h922-no)](https://lh3.googleusercontent.com/xXx46v4c1rcs0b2pe6zeH-msoNCaw1lD-_aNMz43Z_fcsFT5FYkkX0Tu-kOD5zWWcgAc7UkYJCC3EJC52PzgmLQWHclJP_e88Me4fT4I6kRoUyKA3w-sjeIGE_O8cych1TR5exowhIiALzTv58SfHun4zJsblT4zTvBRkSfLy-DR7JN0luT2qVpPP83eybRWLZh_0CqvQxehS0WeXPqKY9zq1LZprZ_WFIssVOb5sjTLPsCl7TazOb0enifMiknTs757zpGTGjwpSZePLdtXNnTGM9DijxXTcuk3Qc6FaT9U49XdyrFYRkDROY_kHuKFB8vKmWMniPOFGJM_9702l6z0KKhtWJx-AjCdpMkyB3r9Q3Wq6-UKH5GTnHkUd8YsX3Fv7ehEDoT6xC8Y-9tHjo1Fw6XjjoKn1u2zyXlOibP623Spbu9hBZXuFh2VOC7oWFnxfMQi1b1nZWUpjABafeY_NxPsQbUedF7yDBrb8VrdhnevARRT6DJ61W5texiZ67GwCM39ZFVeAhf48stckaJpppfmfzJI7NF0pzL6K02H_33jEAfcxm644vLslPp5ZFraEDWWxyP891F4dklL1BV_S4kPm7so601TlBywPFusB6f3UFfc3gads-oMc1fWqOjq79xHiXcRwhkHeyMviqzt791u99jYZgFib_kE7HdIsYy4gvjFdafr5A=w519-h922-no)
+
+&nbsp;
+
+Le 1er avril nos camarades Samuel et Laurent dit Boule et Bill dans le milieu sont devenus champions départementaux après une course tendue à causes des conditions météo délicate un terrain très exigent et glissant. Même si leur expérience s’enrichie de jour en jour, elle n’aura pas empêché 3 chutes dont une spectaculaire qui aurait pu leur coûter cher. Un coup au moral et sur le nez pour Bill suite à cette dernière chute obligera Boule à motiver son coéquipier qui se ressaisira très vite.
+
+Bravo à eux, prochaine échéances les championnats régionaux à Pont sur Sambre le 22 avril 2018.

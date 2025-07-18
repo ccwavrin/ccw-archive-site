@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Calendar on Cyclo Club Wavrin</title>
+        <link>http://localhost:1313/categories/calendar/</link>
+        <description>Recent content in Calendar on Cyclo Club Wavrin</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>fr-fr</language>
+        <lastBuildDate>Thu, 12 Jan 2017 20:44:52 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/calendar/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Dates</title>
+        <link>http://localhost:1313/calendar/2017-01-12-dates/</link>
+        <pubDate>Thu, 12 Jan 2017 20:44:52 +0000</pubDate>
+        
+        <guid>http://localhost:1313/calendar/2017-01-12-dates/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;Samedi 4 Mars :&lt;/strong&gt; notre Assemblée Générale : &amp;ldquo;Les Retrouvailles&amp;rdquo; à &lt;strong&gt;14H00&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Samedi 4 Mars :&lt;/strong&gt; Soirée Anniversaire des 40 ans  du Club à &lt;strong&gt;19H30&lt;/strong&gt;.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

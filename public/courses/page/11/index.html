@@ -1,0 +1,957 @@
+<!DOCTYPE html>
+<html lang="fr-fr" dir="ltr">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Résultats et comptes-rendus de courses">
+<title>Courses</title>
+
+<link rel='canonical' href='http://localhost:1313/courses/'>
+
+<link rel="stylesheet" href="/scss/style.min.946cca6c6259ef94ac55abfae7c7bf3291ea3ed5eea17ef77500b257217c6710.css"><meta property='og:title' content="Courses">
+<meta property='og:description' content="Résultats et comptes-rendus de courses">
+<meta property='og:url' content='http://localhost:1313/courses/'>
+<meta property='og:site_name' content='Cyclo Club Wavrin'>
+<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2024-12-23T16:25:33&#43;00:00 '/>
+<meta name="twitter:title" content="Courses">
+<meta name="twitter:description" content="Résultats et comptes-rendus de courses"><link rel="alternate" type="application/rss&#43;xml" href="http://localhost:1313/courses/index.xml">
+    </head>
+    <body class="">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu_f509edb42ecc0ebd.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">Cyclo Club Wavrin</a></h1>
+            <h2 class="site-description"></h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                <span>Accueil</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/news/' >
+                
+                
+                
+                <span>Actualités</span>
+            </a>
+        </li>
+        
+        
+        <li  class='current' >
+            <a href='/courses/' >
+                
+                
+                
+                <span>Courses</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/vtt/' >
+                
+                
+                
+                <span>VTT</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/cyclotourisme/' >
+                
+                
+                
+                <span>Cyclotourisme</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/jeunes/' >
+                
+                
+                
+                <span>École de cyclisme</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/club/' >
+                
+                
+                
+                <span>Le Club</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Rechercher</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Dark Mode</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                <form action="/search/" class="search-form widget" >
+        <p>
+            <label>Search</label>
+            <input name="keyword" required placeholder="Type something..." />
+        
+            <button title="Search">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+            </button>
+        </p>
+    </form>
+            
+        
+            
+                <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-infinity" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M9.828 9.172a4 4 0 1 0 0 5.656 a10 10 0 0 0 2.172 -2.828a10 10 0 0 1 2.172 -2.828 a4 4 0 1 1 0 5.656a10 10 0 0 1 -2.172 -2.828a10 10 0 0 0 -2.172 -2.828" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Archives</h2>
+
+        
+        
+        
+        
+        
+        <div class="widget-archive--list">
+            <div class="archives-year">
+                    <a href="/archives/#2024">
+                        
+                            <span class="year">2024</span>
+                            <span class="count">62</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2023">
+                        
+                            <span class="year">2023</span>
+                            <span class="count">77</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2022">
+                        
+                            <span class="year">2022</span>
+                            <span class="count">71</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2021">
+                        
+                            <span class="year">2021</span>
+                            <span class="count">22</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2020">
+                        
+                            <span class="year">2020</span>
+                            <span class="count">37</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2019">
+                        
+                            <span class="year">More</span>
+                        
+                    </a> 
+                </div>
+            
+        </div>
+    </section>
+            
+        
+    </aside>
+
+
+            <main class="main full-width">
+    <header>
+        <h3 class="section-title">
+            
+                Section
+            
+        </h3>
+
+        <div class="section-card">
+            <div class="section-details">
+                <h3 class="section-count">152 pages</h3>
+                <h1 class="section-term">Courses</h1>
+                
+                    <h2 class="section-description">Résultats et comptes-rendus de courses</h2>
+                
+            </div>
+        </div>
+    </header>
+    
+    <section class="article-list--compact">
+        
+            <article>
+    <a href="/courses/2019-04-01-week-end-de-courses-vtt-route/">
+        <div class="article-details">
+            <h2 class="article-title">2019.03.31-30 Week-end de Courses VTT &amp; ROUTE</h2>
+            
+            <h3 class="article-subtitle">
+                Un Week-end bien chargé en compétitions VTT et Route
+            </h3>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2019-04-01T07:07:31Z'>Apr 01, 2019</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        2 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/pawTdDbOEBA-Ll_8nqjBsUQBagIXTgQDNt6FzQR320pb-Nqq-6x-NknoqLJoJiMDL84NsxgIYoda8rAvFb-lb2fpscu4sMthhqGFNDe0v3k7FVNkWg2ltads6hy0j_KdHjuOy6HMCerTB46pesz7lU0E1BfxUZsZeKM42ZPlGmPwyKttJmDovWPRcHksIh1tnUixEQvgD2hvKDyMMcM4A3Nkpl4IXSVLRUZ5BJZ5q3gGKJqED3s6PrTk9calmvgfOmQsZ9AH6Ycjr5R9UTfv0h15NZ0riprwBmcnxfurtXKJsKCiZdZHRf0mCYoAqHMcAIAie3JP3EAYCCyenrgHEIYodjyf8fYQ9K-mi6OKox3S1-Fwz1JHFny6LXlg7qrNwZjiyOD6fHwszMcpgShi9B6-aDCo5aJIp1uXBrFAdMU-UPfe9vtk1PTQkSw-j5GrPAtWTQjt6FBbiCDgT24dcFKKjVXBQVWrVdNeWAiesEzR8hpD4fGqpJSg-5qUyOiO8xCO36J0F4G_5RmQV4jdzjRBFtEpcdM6Uot9ncyPN18IxnDiOTOSC33fg01Ussuj-nC8EcgATKNj1tsRrFCwMOTCOAOYHdpCGUDWM9P9Bozsbx7gs2H2A8fv3apWtJKw93cxKBhSH7eOsvbV4L1Z0yBLqDe63r38=w725-h966-no" loading="lazy" alt="Featured image of post 2019.03.31-30 Week-end de Courses VTT &amp; ROUTE" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/courses/2018-11-08-2018-11-04-course-b-twin-village-lille/">
+        <div class="article-details">
+            <h2 class="article-title">2018.11.04 Course B&#39;twin Village Lille</h2>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2018-11-08T18:12:17Z'>Nov 08, 2018</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/tBqa7Q2Xz4BiWuHsmyOT1xOV94fEDauN4uZ-omZuCLgYyiybq-Bv3onfft1e1ww9zz_-PxoImtAQbJRCdwpFeR0bCMXfKQgbK0McwsExp0JcpTbdCFbjQaolEwJdWr8yne3UvNENINKwxOu1FlxO7nfi0f-5zOMmSreV3RLUAZuF7wP614fDtqbMD3g1nCADwOkLVr81NKckV-OSgb8bX0PpGrCQMaeb6FBqhx5Mjjoxb959xyIhXYLCYmUjleIzan3RINSxDt7gD8DTGTOmM3rgHXLbh4Szp3piXYyZyeqP-iD_iZ13IMmSPRw_Fa_uVYW2x12u-nbMHdJ1euPp_zPMN3-_nywMpIlNSoe_in0rvuqsrrEH4YH0GspUY9bJQezYwXKwJd_mh-nKKppyu_n27K1fAYAN9wm6t_-crq--ZDo23h6czbtAqoHsx1DOnBrtlWhuRHWtDetDIXSo9r7mBSrh-ENnTNUPVSjcuYNEq3qFh_vdu2GqXg_A8gQVrB7Fjixqea_jKDrpi-y3vytqqULAG7arb1UNLag262paTmGyoiKVocnR7uUdLpzFHwvo6lJHBjIw6cnO5gZPk4t5xiMEQCOnF9xMpAUKXHXsWRSD5Fvqs9g0StH1KhpINpwOOjGlY_PuGGQz8ie6bLwRKzVytMFLV2d1-C16QsmRBzjtoBW4P9ZL-fgIuMJ1cFTEa1G8ROjB-qGDuwAUuKqeciXc0YRquYvRiN0=w946-h709-no" loading="lazy" alt="Featured image of post 2018.11.04 Course B&#39;twin Village Lille" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/courses/2018-10-09-grand-prix-2018/">
+        <div class="article-details">
+            <h2 class="article-title">Grand Prix 2018</h2>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2018-10-09T18:18:38Z'>Oct 09, 2018</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                jpamielh
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/courses/2018-10-04-2018-09-29-course-de-nomain/">
+        <div class="article-details">
+            <h2 class="article-title">2018.09.29 Course de Nomain</h2>
+            
+            <h3 class="article-subtitle">
+                Nouvelle licenciée à Wavrin, Aurore effectuait sa première course ce samedi à Nomain. Novice en Ufolep mais très aguerrie en cyclo, elle était habituée à faire de longues distances comme des cyclo sportives (la JPP), Lille Hardelot, etc..
+            </h3>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2018-10-04T07:02:14Z'>Oct 04, 2018</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/0hwgv5cJdMwXbZV-exDBxl96hm3y1XyKTK-QUUUzfW0CvKi3BIxpjiw5smDnU_viYyjrwD5KmyacYAgnRVQj0SRoXYkN13iG-_QU6lXC5Td7jPfqdlWW5Kg16Y0WeQda_biimTuuBrbDodJbHkkUEziLlHLlmcEStL1TIxsHbcetZYfJDpn5LQhJu5XuYzlw0c8HiU_xnkHairGJm1NcN_MRsJs1VaChRRw8g4eqxNxVpXBOB5k04CEO6LSVHQCtMrPBFPo2DKtVksBIpW9wGJjU9DAfH5q3ZjRWOj5L3CV3wFt8TIk-iQHAm5XGmRaVRcBJciMvjnq5fVuUyzH3YjxOc27Ze0madePCzFyggpVxIPCgPTgAjf1CATZazUlsvblrL4S6fReVkOMzx5NDROYP-1ssqLdO1FojekxM5k4oa12vFW_7W0Btm8yKlD_ptBI1jWnVmkmSwrpvGThALTSTM_9jNhLjpSqaGDvX9oYQc19FUfmQRRCfKIZxyTY-831d2-sEcyc8bi9afhtaNVEMBihjJWmzkqpdIFqDM7Qtc9iOR-Wkh5tC3B3CRL1VM6JIjf2l9SjJOZLYSjrAC331OT3o-nawSGlj6Ew5d7nMrGpWADi0SvpGR0DiTzFM=w1182-h665-no" loading="lazy" alt="Featured image of post 2018.09.29 Course de Nomain" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/courses/2018-10-03-2018-10-03-horaire-des-epreuves/">
+        <div class="article-details">
+            <h2 class="article-title">2018.10.03 Horaire des épreuves</h2>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2018-10-03T13:07:57Z'>Oct 03, 2018</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                jpamielh
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        0 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/courses/2018-09-25-and-prix/">
+        <div class="article-details">
+            <h2 class="article-title">2018.09.25 Présentation du grand prix</h2>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2018-09-25T14:54:55Z'>Sep 25, 2018</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                jpamielh
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        0 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/courses/2018-09-25-2018-09-25-informations-riverains/">
+        <div class="article-details">
+            <h2 class="article-title">2018.09.25 Informations Riverains</h2>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2018-09-25T14:40:01Z'>Sep 25, 2018</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                jpamielh
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        0 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/courses/2018-09-22-le-trace/">
+        <div class="article-details">
+            <h2 class="article-title">Le tracé</h2>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2018-09-22T11:17:37Z'>Sep 22, 2018</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                jpamielh
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        0 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/courses/2018-09-06-2018-09-02-course-de-linselles/">
+        <div class="article-details">
+            <h2 class="article-title">2018.09.02 Course de Linselles</h2>
+            
+            <h3 class="article-subtitle">
+                Une belle présence wavrinoise en ce week-end de braderie pour la course de Linselles. Rappelons également que le parcours est l’un des plus beaux de la saison avec presque 11km et côte et de nombreux faux plat.
+            </h3>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2018-09-06T05:38:33Z'>Sep 06, 2018</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        2 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/ekBbRL--AJTeerfcmGOUcMA-yAuzoFKovPxBml_RkD0BtHT6V_BXlDmxD1frbgE_YrJ99HkHn9lUpMEYYABqfZiyVGJ6vdH2QnL3xngEyF61rGmLHMQQVBFPAxwq82EKgop94o4_HiDJ9GUCtq_AFkfRIokmapzgQ3ivHpu2I_dVUKUg8dfnRZRAUgP-ctW0eaU5DLrIrkxGeRVqOFkV7Ftc6EDgummOhozKEbkNxMbK0duEGEvSIXwF9e7_5-zmTdXzVEhIurHE9AyqPSubVXCZUv4B51Ep35nIBWTkLdLDfeE0IgbDpyeqHB2_fGrahbdAI65KV4TQeRG6zfii3jYqk-Zi3pfp7uOdwiXl9125SFaiIUSaiBrbcwOHdd0iQV9IUmZG8i0PhOqzq71eMGvy9TYE07GLBYcZR9QP6r-j5DwOkGkcWSx56biW7fBRfy7e8Yp6TCPLsT5kppoNMsB8u9AF7VPeXOg5tOrPEN18NOctkbYL6T9G7DyGdEQYMrrjfXJlAMPVOldeWxnwoAnPxOWAygAFE-EDTm30-BkpjC-7eIXMV-3Qzn9zDb6_1qxHk8UFMN2JAc11LbuHWcNR_MS0QdNIfNHPzQ23TIa4okh26MwammBGlPFdg13i=w1979-h1113-no" loading="lazy" alt="Featured image of post 2018.09.02 Course de Linselles" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/courses/2018-07-20-2018-07-15-championnats-nationaux-boulogne-sur-gesse/">
+        <div class="article-details">
+            <h2 class="article-title">2018.07.15 Championnats Nationaux Boulogne sur Gesse</h2>
+            
+            <h3 class="article-subtitle">
+                Tout commença lorsque l&#39;annonce de notre sélection fut officielle. Ainsi notre président nous trouva un petit endroit pommé prêt de... rien. Sans rire, un superbe gîte à [**Moncorneil-Grazan **](https://photos.app.goo.gl/552jcs26Axa47FAQA)On a passé un très bon moment, Vincent, der Letuffe family, et moi. Nous étions donc 5 à profiter du grand air à la campagne. 
+            </h3>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2018-07-20T10:01:33Z'>Jul 20, 2018</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                geoffrey.desailly@gmail.com
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        2 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/84fLTjKpo3oZ41MxdKaWVInvlcwrLjDeF9_MPLTytpDn9aeMwmFCbTae5DJZRtEsuoL_YZkRi9VzReX2CEQ_eAhTJ_keNDDxewZjQ7e6O58Ju6u5y55LVb4Z6FCL_8RQq0a-Se2jzm1BruAMEXoTndUiJXpCRU3uz3s-ntG9f9qJ1T9tI-EaCTHkNQbZJtU6KMOV8WcRhC77sji86tMNNPrjCdoTkzwPvtKQ99NsuSuvvWgL6BXtaA6Q5iTogY6ZChDJjG4sYgl04H0x7HTXTGlg135uDSu1IBd43Uqhs-SYbKO-74y82ARAlXi2Ubl79qyZShDKr02nYw1xpLhzN1MQ1_Ow30qQVPg2TzeGU2mYerV6vfMtwlo1tQ1YBSjD4O5dM-YHS3KY_vMbhEkqdMMDzpLC1trp34IugwqS_7vHKa20yn7CQfflPV4aBGcM7-_gEQgfbDpaQ_GQ5XuVqwvon1UMsJT7NxaP_SMz6wAx95Qu7yN7o5jJycMBZsrhlUOfrnZzP13BrYCn_CBVf2wqNEnvQsQairvqPcKLyeTa4_og-LlQOoNZdcyEDdTKyt51jTRrCWykoWAoR5iA5CtCHuNOQEGim2OjapUY=w477-h358-no" loading="lazy" alt="Featured image of post 2018.07.15 Championnats Nationaux Boulogne sur Gesse" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+    </section>
+    <nav class='pagination'>
+        
+        
+
+        
+            
+                    <a class='page-link' href='/courses/'>1</a>
+                
+            
+            
+                    
+                        
+                        <span class='page-link dots'>&hellip;</span>
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    <a class='page-link' href='/courses/page/10/'>10</a>
+                
+            
+            
+                <span class='page-link current'>11</span>
+                
+            
+            
+                    <a class='page-link' href='/courses/page/12/'>12</a>
+                
+            
+            
+                    
+                        
+                        <span class='page-link dots'>&hellip;</span>
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    <a class='page-link' href='/courses/page/16/'>16</a>
+                
+            
+    </nav>
+
+<footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2025 Cyclo Club Wavrin
+    </section>
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.30.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.e1ed32035d17402b57bc694fa15202aae34347475608a6fc7528c58a1ea384ca.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>

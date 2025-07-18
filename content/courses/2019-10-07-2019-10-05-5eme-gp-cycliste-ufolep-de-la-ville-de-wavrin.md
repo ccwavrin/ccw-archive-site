@@ -1,0 +1,32 @@
+---
+title: "2019.10.05 5ème GP CYCLISTE UFOLEP DE LA VILLE DE WAVRIN"
+description: ""
+author: "vpoullier"
+date: 2019-10-07T19:54:05
+draft: false
+categories: ["courses"]
+tags: []
+original_category: "blog-courses"
+image: "http://www.cyclo-club-wavrin.fr/images/fixed_links/505-images-38923004-w1266-h844-no.jpg"
+links:
+  - title: "ECOLES DE CYCLISME"
+    website: "http://www.velodom-photo.com/5eme-grand-prix-cycliste-ufolep-de-wavrin-ecoles-de-cyclisme.html"
+  - title: "2ème CAT, GG  MINIMES"
+    website: "http://www.velodom-photo.com/5eme-grand-prix-cycliste-ufolep-de-wavrin-2eme-4eme-cat-et-minimes.html"
+  - title: " 1ère CAT, 3ème, CADETS, FEMININES "
+    website: "http://www.velodom-photo.com/5eme-grand-prix-cycliste-ufolep-de-wavrin-1ere-3eme-cat-cadets.html"
+  - title: "PHOTOS DE MANON DE-MUYNCK"
+    website: "https://www.facebook.com/media/set/?set=ms.c.eJxNWm2uZSEI29EElC~%3B3v7GJ7bXnZZL54VOEAgU8d~_3OvdK6bGbS~%3Bi0srLITa8V~_C961OnNi3g6zsjme~%3BVvIWPeIa0f4ukJP5DviG0cifgv7GHZU69pzd9joFnfo0ecJ3YEjaz8Ztu~_OPZIReTVtHcmBHt1Pj~_2GHf70yOUwf5dsOXdHfEcotD49gsb52xG9IWMk9GChK6T6XE1Xrt9CWd4FG8kwHDn5jngCDz8jxCjjLN1C4~_rJSD9wQ~%3BvnOcgYl3GbjnqIRfY1LuWG6KQtS6rD~_ym~%3B5Glea3J2ACDXwlpYMMlIImbCdA12HKG~_eO2WcTF0Q~_kWGLdk3PZFV~_qWYSS3InnB2pBxu3htSqg1VdeObITU3sLDiIcAmsFCKca6gOkXUvDctDznFXSlAncjxurzftL7pvS4ITLHlhAr7jiKj4M0TXvWpjGSP~_MS5q~_tNDWm6efKHqaHbCnEmC~_5oQBy1JJiTsVKisHaI6HeyNv0J3Rt5pxUX6uBhxgmpui5L3CDMnRLOv3yhBbZwfpb2NDUn4xaXDAFTBP1j5TWoWJyQzHGlmRYMU2F~_lB1xVgeBIzJtzlBTOXsQ9oqLTiZbn9Mhygc~_6KQCdTr8xx9q3BoZtR8uc9ElozVcHa4nF1J38r8ofn7LfgB0816mO5BVh7p4UXfaocXQJ76Ibanrozw~%3BO3Y5VcPt~%3B7psbv97li538Kliovr75Yd3JF~%3BdhwceUy307jjlYIdUMzXU2wH2NL9seVO48Ijtj11PWcjGXVL33XcuyUiIfQFzC437Hj0udOgWLp2bFqbI6GFhVcKdlDGkYyeBeNiSUbhlheFOxDaUS~_0dwWstXjWNjj5UreEDoS~_srbTaX7L~%3BMaRmHck1w3LnvVUn02A5IYiHiY8cjWElnbkTfXY~%3BazNDUfF~_XY4d2zpsRkwriPUNBUOqEChCrQjCeGL9R0exHR~%3BC0TMdAR~_WVsyNnbkMSl2YNyWHkE95JeJAh6vh9kTQCxtdOTwiDw3wCN1pBqImcv8GMpQvoD63FyeC4Is43o2A0bhUFT9C5hNPL7QLoalfNunIWMpkpuhPVooZsNRNmzachTJTQhTEII~%3BYisJa2itSY9T3PG5ctGV75Y2RtBSBBUSyLUwzP315f7Qt~%3BYZR7pYEorgN~%3BHYrh6CLN8mE8iUQEzCEqaN1sm~_vB20LJcEpQcwzVdvd6G7iHBhOjA~%3BFIW9EVLq~_nYwb1N5207EPuOMtojHGn1QbNlSaCW7JTSHSagImoLnXHQxa9MWHTlBTZVABTzmCI9CwOT58ABAU98CdwiPPA7F6mdcRF3Fdj7~_iEQzUf1SPW6OxbJt78g619rdD~%3BWIbsh4fomNfsz268ei1kDoC8u4AYId~%3Bq6dG7g7XncRiQmn5k04EZiBLifoiOHIy~_wICl0Syo6~_5NubOXeHHZmP9usmyVMsae3WDowJtl6Zv5rClpb5i~_YfaXooNGXLHmg6T2g6eN0fBQczeyuzI86hDFmLjn7nK9G34lGGFEO~_1Cz~%3BbsFC2BOKsak0NsXGpLVLMoppajIuaUvLluK19h1BS2uaGiO2A7HvyOaOz5YCyP462KjktQqpMvp2CQ~_nUDlqIT12v~%3BSI3IygkSsdqLcCN9GhmCsKc~_gG298tACi~_WGckyy8VyJc978guHvlCCq11nU~_xpC2vIscij8WXL4XQrg~_gpCtf4xwcRlrDSGTSlv35xemXI2dTsVfFYhOg~_gAqJqEC5s7VF7HXkMRmVbcQQKiVdUxuaNryCDaKLYulCAUzkPmWtWitt1rrYJ9s6pNvANFzKTc43SDVl3GHMMXIY~_FfItO4~%3BRnHHSHVN29RZt8mF6SkazGKWrxR9La4BNkVDsj93TIu6MrXa0dhrqxPU877W~%3BN~_rKQeJT1209nK2yQZHAG00faYfxmFa0MRtBKe~_0J7sbuwEUslWUqYnmu~_n37m57LrqDVvFI1zB14~%3B~%3BUp0~_uUxP~%3Bl4LFfjSL~%3BOMW8T2bkUMLdfxY74boGMGMkAr68Wr5~_bhH7~%3Be0JR1kpjddrZ0ONR8CXLu8PfIJEOQllHhHLQ9G57TW~_uQb7Ye~_64XTKEvtKYvoYLS0eAWChOzxlqqh0YNMtfu5GX4~_61yrkzxNSFKfr1Na9fT9vA9EjoDphvLvNBSut8EKINXKq3aXtThqxd3PG8n34Z1Y~%3BK651FcEvpyDl3x5YM2wCoUgCh6S31hXkH7QtQSg8G3dK15jC~%3BHuUkWXuJtdONqj~%3BEcqP7XK1btnPBpUcc2vKOeCKC1FwlX66WXq5uosK4~_HbAFlFfejDGHmunR3Ih5QZ0BmoD04rB~%3B5kPulin5Tk8h62TshZksKYklEFXCjo32vIeRHLRcyHPOXrL23K9HXgiWC1X3tGic1UpLJmVei2~_~%3B2C~_6ZYkyEp1cyrWspYgl0B29IVrPsSSC6U0jaDqJWsJ4ZZQRxTuz5Xs2PzVudyYG8pESkYOOuIgluhUiU4buuHjj7UI8sPjvqAiChWWDf6o~%3BIwbGleypQjQhykgXHKUHSom4zZeWdaXQDaMdVmLZuRyiMKS7FBih81Eri~_RjcE~%3ByttqcrJQLwb~%3Bx2Mkx1m6peGX~%3BXqH5HPp0nPpfZgD6iqvp5Ev~_~_Mgpqked9LR4q~%3BZ0hRPBOuI~_qovW6aK530LxYL8MgGA9Jyeg1qZ~_WplNsIhS54rYvpFUGPkWUu8fu7c4NOuHXi0zw~%3BCxpx9n3olY1HGkmKIMT2X3m810FTl5JCk7QFU5hfkKe0YFPHlr4gn3~_mW3unygGEyxDCHmNrDtJiV82XlQThNqwIdksHH64d0YaKLg~_9RGbL2Dp3hM7p27lDk9zVUtwxlyJYxyBDTDR6YM1rX3r7wKvZ29KG1r9vKNuw4ox34UpS1P8TgOY082fi4tDR55qAi34eYFw6H4bB1BMPZWm84K8OXEf~%3Boog9vUeE7eLq5LagiiLaoIk8SIPUfB2N17pEbMInfmU2KMXA~%3BNyAJp12K3YeFST3MZIMcsxTa948IOhlH1FMLw2q6PsTQ081RvjRG0UuITw8feE5526hAc0RsZzk0fR9kbg0DQOrH7qcXuOHtGKceyrkhHiE8jnNBBHsO4~%3BQNVpfy6YZ4C5hf~%3BKiZaOZLffliTLHXOJdxQZ109oLnzivAZeDTqUcGZU43xAcQ8OiWHkZNP1IiGayPDBbzRTF22OSZ4nQYUqOQOuQxk7MLj~%3BbZ70WgDEPirQjaUdzxHUG3ZSFyLBC9viXlOPlUO2YxHFSBmqVADyLXODLukVBG8vl4nW4YGbfohiNe30Yal7WYcFIz4a0B1PRZi~_HMR8NZBVzpJd8u5v5~_mBaLVqpo3YcJLLzH0AoMI7NE0mx6R01v7YBx9orWfRDgtboleOQ5qgIgz3ogV8CWWX9soR4Pj9r4RHH7xd9Corkaf81VbUdG7dcHVVKoPhxWkLWXFMvGEX8zMvuVvF~%3B6ZMt11H2ckYwbUiGir504Ui~%3BV75cS6KEk5PjmGt8qMFfOenNlBSLZ1Z7Xwuuod8iVwyNvsKpET~_eRUmzRuNLCcEHZEAeo~_0uxSnRKdzbQjoYeL~_gq6GyXs5NJ6C43YOAdPdxVYvbwfLPHTai7Q2la~_OTro0~_~_lQh~_Dzmbb58ugq1g9VivehRTPb5U52ew0GewChqXMm4Po9Ckx1B1k6aoHtHStArxYUshtanYaIE0bh~_E3JHfDnybD5WCShsCVFKMAfMIpfCo4qNHlcqDI6F8uRyMa02oHwhVfOzDJNwCCA2ab8VH4Vku9F5YhfoSHYoPzMge8n6xFJhKQRXcoPG~_Ep~_fYt6ngSr8UsW~%3BrKygoxRBFXSlsrI2MU1hCj4NPZncny7A2lLuL4S2eofCZ6TrqI~%3BpNplOWYkO1jtFW~_swgcRSwaxUnVsMh1A4LHYoahTrTrYgx88N8K16hwp2n~%3BroV8lb4s8tVExCN5uaPwkExo0R4yaZ38X8Z26adr~_vkW3wvh15~%3ByScHe9Vofm403rcacOw~_n1captrfqusXRlXU1Pun~%3BuZw1u~%3BZGq7z9jeXxQe~%3BOwk9tERPFR1vcaoHfxh5~%3BFHOyrh91mwDaTUqbA8eMkL~%3BeaqDuaG74t3sbeMLz5ONzWVHhgCXENAG14E7LxJq92gumaP5ijaGkXbnAC9WG~%3BHzz3smIQ2Zcxn3M1bUzlp28QjP2spQyX6IMa6jo4UATqfs4n6K3zNwao1WNVB~_~_V62mvDk0lXCDEmcrxEbsPPCtxc16LrC3V9bUY3pNyAetvK7DbMpvet~_pkfxEPOvu~%3BV0OP8B2jOIgA~-.bps.a.2375307136090644&amp;type=1"
+  - title: "VIDÉO ARRIVÉE 2ème CAT"
+    website: "https://www.youtube.com/watch?v=RTvoxqTv-SM"
+  - title: "VIDÉO ARRIVÉE GS"
+    website: "https://www.youtube.com/watch?v=Q__ci0D9gls"
+  - title: "LES CLASSEMENTS COMPLETS"
+    website: "http://www.cyclismeufolep5962.fr/Route/2019/WAVRIN/Classements.pdf"
+---
+
+Comme pour les éditions précédentes, nous avions fait appel à Dominique de Velodom-Photo pour couvrir notre 5ème GP Cycliste. Une fois de plus, il a couvert l’événement très professionnellement et je vous invite à lire via les liens ses 3 résumés des 3 épreuves ainsi que les très jolis clichés. Un travail d’une grande qualité…comme d’habitude... &nbsp;Je vous mets également pour le plaisir des yeux, les photos de Manon Demuynck et les 2 vidéos faites par Chantal. Merci à elles.
+
+&nbsp;
+
+&nbsp;

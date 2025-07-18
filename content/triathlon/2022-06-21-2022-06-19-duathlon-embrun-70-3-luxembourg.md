@@ -1,0 +1,24 @@
+---
+title: "2022.06.19 Duathlon Embrun / 70.3 Luxembourg "
+description: "De belles perfs pour nos triathlètes ce week-end."
+author: "vpoullier"
+date: 2022-06-21T17:11:00
+draft: false
+categories: ["triathlon"]
+tags: []
+original_category: "blog-triathlon"
+image: "https://lh3.googleusercontent.com/pw/AM-JKLU-nWgcEukiMco-CE5dJycna5EuxomSGPXJs6ZsfnaAczTMzL4NPTzULpaC02JQLj9zIixH9hr6Lgde075UwmfxhAPU_1-oEfKD4QSve1xnZZvOcG2xB9nWeRh0qLrf-p-dLlw-adtucZZPoQ99Wcw2xw=w1024-h768-no?authuser=0"
+links:
+  - title: "LES PHOTOS"
+    website: "https://photos.app.goo.gl/WvsmQjBFpxbNzvy1A"
+---
+
+De belles perfs pour nos triathlètes ce week-end.
+
+<!--more-->
+
+![Image](https://lh3.googleusercontent.com/U_TfnTImKt1c1gqx95jL0zJjIh9T-dzqyH0a9PsFkLV0Bc6q-UITxVgbCVRqtd60nc7vpFnKx0IyehTAX16P5lKMhzs3k6jxBwualhehoC-2AvuXn3BurOnJerx7aRT0D4WOnGMWGxzPmKjrByLBHnjsJ7Jmeg7OL3bxW4vq4-2KBt8z9gdzKWGgSJm35G7mi_iUke0NHYoPqfkS9a5SlAihwLSM11E7EwwDYGfgpAW4T6uhQxkDn5F4UmbW1qQGZh5ePz6M0s10SE-waTtSp-I2dfJ_cd3C0O7Sv8qzU4L-8bENltAqdUSJ3VK0Nl06rNu7Npi9Km0eEHzeZEkm6FaZq-sbdtu3shKoRJ1efR0-GO5Lrwa7ny1gJ6anpidTiexG6O9HOhSyCRJXHhGTbcFQcSrkTVnNwRdnsa1faCvmhBSniomt9P8WV09jPZLEPCW05MXBFge9MOYuUkJX5-FwXKPK7YRIqDebLhHk-_xPZQGyP33X3QnpnxOvh_qM6_PR68vEyX5KE3MXJNuw42MkzomV2-BL7oN44PG-izkNSTIw7WrPOLG9uwvY9WcUwI8P7fX1G15qzhvThuh6hO-SOEvNYt6_YObvJtzvho7A5MlCiIthBBSFOmDbVd4K-qcza0ed8Nnf0A5QMo3901Zr7YClsM7YooBKuhGoEE19kFxAaR7Of5zLCmBM4JCkCh-lmVvGMFhWun2b_cjrVsxM19xPFiNSRm8hCgRx2GJxeWWwuEQ-CJ97Aufs_-8P1YmYfFZc-xTyOoFBZi6E5XK38NUeLDHIB8_RZttlWfRbC5VbhV61QZkgNM6j9AITZPOHUuT5IQ=w1024-h768-no?authuser=0)D’abord Sam 3 ème dans sa catégorie au duathlon Powerman d’Embrun sur une distance de 10km en cap puis 64km de vélo et enfin 10 de cap. Un bon entrainement encourageant pour son embruman. 
+
+[![Image](https://lh3.googleusercontent.com/68MAPaCQcNUDXeTEEBcQlyAh5TSuMSPkcMs6BESo5hCHXeChPkW-0Ghl5DTtW68Ce2LkaddDuFI2MloYWOXTSejPItOhgaCpk0ZjlIdp_6LjXcKJnY7KZO_LcO6wwzhFuySW4wHVnbzi7Kebv-YsoEDBek1G9F8eSBoW286qeMnXVnlr-TnhiYJbfLZdboS-LAnT1WRls3rfntxhDfcDGvjHkKB3yIUN7fLWaga6pFdQ42WCFtMpEkwD9pyjMuh96d62RM6XCYkO1nOXPNU2zTv4qC_Uz2I9lX0LmrONu6yQ7qJ0PF-7nSA_uUIZ3u_1QvXJy3GXNpNnkAPqCdLnoFTPC6pSIgMOSxt965yoaLv6YaO_RUGeL-fCct72J-GVPQo88Xn_ld8_heOm7N7YS6HNqsmabXD_xft-6fKyUvhgxeDq5IS_s7JQcxrzRsxZlh4NXg_OyHQocd1mhHk7Vx5RaeFgKH4PVF2NTnp4zbOYJCUPLkHLh1Wv9sd3e0AqeTX-jnmqzmlfgakaxcsQGbgYEw3JTyFXF3XIOKu0oHj6oUyv63NJp1yzDXU2YgcoN_H3_iMQ1IlyXk5xrhgh-6OLjyonXrXHcL9AqKSB2qHhdpcS1ZrRqzicTTHIZULxxygCEFolYVYCp7hQlx2L6G2kmM6Lw6PtKVUDqBqsYALdNk4Q4iXUqYhh0sy7KRXjb2v6xVr0raAe2O4PmrwT4rC7W27_bS5-ZEh3M7cYqc8WM1ns2T6yKHZPXHhgvyBfTAX_ogyT6L6QS0DGCVlMW57wZjC3QJ4juuBFL0UtXUGXXr3C8tBVhvR42ZBE7AmB9WbjPorD1A=w1024-h768-no?authuser=0)](#link_tab)Félicitation également à Rodolphe, finisher du 70.3 IronMan du Luxembourg. 
+
+Belle prestation pour nos camaradele jour de la fête des pères surtout par les températures caniculaires qu’ils ont endurés.

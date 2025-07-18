@@ -1,0 +1,44 @@
+---
+title: "2018.01.14 Championnat Cyclo Cross Verlinghem"
+description: "Seul représentant wavrinois aux Championnat régionaux Ufolep de cyclo-cross, Samuel était présent ce dimanche pour 50’ de course sur la base de loisir de Verlinghem."
+author: "vpoullier"
+date: 2018-01-17T19:29:31
+draft: false
+categories: ["courses"]
+tags: []
+original_category: "blog-courses"
+image: "https://lh3.googleusercontent.com/D2kO4Icpf9azL0aI8xe7GZyEm7cudPz4n9SNvQJ_RaxKeVakbtVPG10EiqhKP0pmbvCpel-rpSzPJ0TtajuOExLwEF7JyN-aEssmWybGmAszk6bKy1Ehqs8_21jL8FvGYcJat5UNH2ZHpoS7BOJlg0xKChksOQ29Spqi_kLeUDWdBuZby5PvV6lLbGG2iYVBVxTUaiHobTqO6bY4erJ5iPc4MkT9F8q2vb8kVXZO2X733RESBkAKzvZ4aNN7ui6YlQpaV4GPOGb4T8ijs-cJtUsAVUdE8eVsK6S8URbm_OoHgAwFxhK8rOVhuMTgfXoMn-Dj1Ip19LGGfC8brcVdE6MedFbPL9_q2fXCXR834KJkJEwnbT2Jn56lFu_OOfrkTmRexfhKgerRaPsjng3yKmTS7JGDzXA_ohPZdr2rFmEa5qhhTfmvI0DN1XoFPyuGbd42SDco0ZgXRC4w1JE9NK83calT7HvkNFyolQEbtqoDLNiTBaBiAAoCDEQtjtU4kxlgF0GyhEyIsoFs_o9tKIVzUwyuASnkOWOKXJUsBs4D0DXyuiJyDRDHJwazoN65kHcRs3eV5fkpwTniK3NIrLukkL68eSVQHTPRxkfgelARGsDrKgrXRiNke1DxCjfRMMpduD_4caLRHDWHdC4D-z6wARhvVb5c_g=w1248-h702-no"
+links:
+  - title: "VIDEO DU DEPART"
+    website: "https://youtu.be/PnPAlmrY0oU"
+  - title: "VIDEO DU DERNIER TOUR"
+    website: "https://youtu.be/ti2TILv21eM"
+  - title: "LES PHOTOS"
+    website: "https://photos.app.goo.gl/eMuPjRJCv8ofLw163"
+  - title: "LE REPORTAGE ET PHOTOS VELODOM"
+    website: "http://www.velodom-photo.com/championnat-regional-cyclo-cross-ufolep-veterans-a-b-et-c.html"
+---
+
+Seul représentant wavrinois aux Championnat régionaux Ufolep de cyclo-cross, Samuel était présent ce dimanche pour 50’ de course sur la base de loisir de Verlinghem.
+
+<!--more-->
+
+[![Image](https://lh3.googleusercontent.com/D2kO4Icpf9azL0aI8xe7GZyEm7cudPz4n9SNvQJ_RaxKeVakbtVPG10EiqhKP0pmbvCpel-rpSzPJ0TtajuOExLwEF7JyN-aEssmWybGmAszk6bKy1Ehqs8_21jL8FvGYcJat5UNH2ZHpoS7BOJlg0xKChksOQ29Spqi_kLeUDWdBuZby5PvV6lLbGG2iYVBVxTUaiHobTqO6bY4erJ5iPc4MkT9F8q2vb8kVXZO2X733RESBkAKzvZ4aNN7ui6YlQpaV4GPOGb4T8ijs-cJtUsAVUdE8eVsK6S8URbm_OoHgAwFxhK8rOVhuMTgfXoMn-Dj1Ip19LGGfC8brcVdE6MedFbPL9_q2fXCXR834KJkJEwnbT2Jn56lFu_OOfrkTmRexfhKgerRaPsjng3yKmTS7JGDzXA_ohPZdr2rFmEa5qhhTfmvI0DN1XoFPyuGbd42SDco0ZgXRC4w1JE9NK83calT7HvkNFyolQEbtqoDLNiTBaBiAAoCDEQtjtU4kxlgF0GyhEyIsoFs_o9tKIVzUwyuASnkOWOKXJUsBs4D0DXyuiJyDRDHJwazoN65kHcRs3eV5fkpwTniK3NIrLukkL68eSVQHTPRxkfgelARGsDrKgrXRiNke1DxCjfRMMpduD_4caLRHDWHdC4D-z6wARhvVb5c_g=w1248-h702-no)](https://lh3.googleusercontent.com/D2kO4Icpf9azL0aI8xe7GZyEm7cudPz4n9SNvQJ_RaxKeVakbtVPG10EiqhKP0pmbvCpel-rpSzPJ0TtajuOExLwEF7JyN-aEssmWybGmAszk6bKy1Ehqs8_21jL8FvGYcJat5UNH2ZHpoS7BOJlg0xKChksOQ29Spqi_kLeUDWdBuZby5PvV6lLbGG2iYVBVxTUaiHobTqO6bY4erJ5iPc4MkT9F8q2vb8kVXZO2X733RESBkAKzvZ4aNN7ui6YlQpaV4GPOGb4T8ijs-cJtUsAVUdE8eVsK6S8URbm_OoHgAwFxhK8rOVhuMTgfXoMn-Dj1Ip19LGGfC8brcVdE6MedFbPL9_q2fXCXR834KJkJEwnbT2Jn56lFu_OOfrkTmRexfhKgerRaPsjng3yKmTS7JGDzXA_ohPZdr2rFmEa5qhhTfmvI0DN1XoFPyuGbd42SDco0ZgXRC4w1JE9NK83calT7HvkNFyolQEbtqoDLNiTBaBiAAoCDEQtjtU4kxlgF0GyhEyIsoFs_o9tKIVzUwyuASnkOWOKXJUsBs4D0DXyuiJyDRDHJwazoN65kHcRs3eV5fkpwTniK3NIrLukkL68eSVQHTPRxkfgelARGsDrKgrXRiNke1DxCjfRMMpduD_4caLRHDWHdC4D-z6wARhvVb5c_g=w1248-h702-no)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+[![Image](https://lh3.googleusercontent.com/z202PKX9XMdtJiDAKOo8VHO2EQPyDFoULrOZa8Dd4LwFtZSTWqSxrkQFewvTswdVfKpl6Oka456nawEVJ1Dt2aP8LZ9Q40L9u4EVTIYHZhlmPi5Mr-fLQjGme0lN9-BjD8JkKXWQlTv5OktCDIijmiCwPVux5eOiFrufclkjryvHKVsgUxO2Q4N1R7OJ-nkA6unr8FFpb1mM-4gWv537WoDYc_g-r_zaRC5Ds3uKmARxAQz0qieCyySJsQCy80Ml1YWBGlIqqvj2c6HZnaF6vWiXdgIJYDOQILWq54Um783iqthdpP4B_uGf2pIrDa9auzzXJgPLhD9--UmAACRdnlff6MZyGsTB4BB7YaqCcUlh8dlfKi_Rj-P8X1juhHNTWxVAUkw85YFSwjKidiLk3udY1mKwVQj9QOK6l2xlypSb-G39c5eGYq0p0k9Ii9xsdFKXe6qpbfzDp85QJZBTsbS206Bx_Tzh-e28uEz0xjUoFVzls351hCrSTW9WnSa8aWx9ok_oI1LMP4sJ-7QhtVX4vKaDLkB-wOC63pXtCN_OHlqPCoGtxKKswJSKEdaR4v316Km25fJK70GLcmHnc9vPLzIDkPzogNm8xjAmSjOapXNe9brrNsPz84sGh_yrvbulhB5oX5ZpZDBvLICa2F6qkByEx1rmsQ=w1248-h702-no)](https://lh3.googleusercontent.com/z202PKX9XMdtJiDAKOo8VHO2EQPyDFoULrOZa8Dd4LwFtZSTWqSxrkQFewvTswdVfKpl6Oka456nawEVJ1Dt2aP8LZ9Q40L9u4EVTIYHZhlmPi5Mr-fLQjGme0lN9-BjD8JkKXWQlTv5OktCDIijmiCwPVux5eOiFrufclkjryvHKVsgUxO2Q4N1R7OJ-nkA6unr8FFpb1mM-4gWv537WoDYc_g-r_zaRC5Ds3uKmARxAQz0qieCyySJsQCy80Ml1YWBGlIqqvj2c6HZnaF6vWiXdgIJYDOQILWq54Um783iqthdpP4B_uGf2pIrDa9auzzXJgPLhD9--UmAACRdnlff6MZyGsTB4BB7YaqCcUlh8dlfKi_Rj-P8X1juhHNTWxVAUkw85YFSwjKidiLk3udY1mKwVQj9QOK6l2xlypSb-G39c5eGYq0p0k9Ii9xsdFKXe6qpbfzDp85QJZBTsbS206Bx_Tzh-e28uEz0xjUoFVzls351hCrSTW9WnSa8aWx9ok_oI1LMP4sJ-7QhtVX4vKaDLkB-wOC63pXtCN_OHlqPCoGtxKKswJSKEdaR4v316Km25fJK70GLcmHnc9vPLzIDkPzogNm8xjAmSjOapXNe9brrNsPz84sGh_yrvbulhB5oX5ZpZDBvLICa2F6qkByEx1rmsQ=w1248-h702-no)Même s’il savait que cela allait être dur car peu de km dans les jambes et des entrainements tout juste repris, il fit quand même belle impression sur un parcours très exigeant et assez gras. Peu d’endroit où il posera pieds et montrera donc toute sa vélocité. Même si en cyclo-cross, courir à côté de son vélo dans certains raidillons permet 
+
+très souvent de passer devant le camarade resté sur sa machine. Il y a 2 écoles.
+
+Quoiqu’il en soit, Sam terminera à une très belle 8ème place et sera très probablement selectionné au vue de ses résultats, de participer une nouvelle fois aux championnats de France afin je l’espère d’y faire briller les couleurs de Wavrin.

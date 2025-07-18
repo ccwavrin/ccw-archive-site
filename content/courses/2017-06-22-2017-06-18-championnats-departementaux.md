@@ -1,0 +1,45 @@
+---
+title: "2017.06.18 Championnats départementaux"
+description: "Commençons par l’exploit de 2 de nos coureurs ce Week-end, Christopher Rambeau et Samuel Letuffe  qui sont devenus Champion Départementaux Ufolep respectivement dans les catégories 20-29 et 40-49ans. Au nom du Club, je leur adresse toutes nos félicitations !"
+author: "vpoullier"
+date: 2017-06-22T15:33:06
+draft: false
+categories: ["courses"]
+tags: []
+original_category: "blog-courses"
+image: "http://www.cyclo-club-wavrin.fr/images/fixed_links/130-images-2ce39ec8-w200.jpg"
+---
+
+Commençons par l’exploit de 2 de nos coureurs ce Week-end, Christopher Rambeau et Samuel Letuffe&nbsp; qui sont devenus Champion Départementaux Ufolep respectivement dans les catégories 20-29 et 40-49ans. Au nom du Club, je leur adresse toutes nos félicitations&nbsp;!
+
+<!--more-->
+
+![Image](http://www.cyclo-club-wavrin.fr/images/fixed_links/130-fulltext-24a0cc9c-w516-h688-no.jpg)
+
+En effet, ces championnats étaient organisés par le club de Flines les Mortagne sur la dite commune. Un parcours  de 6km assez roulant et sans réelles difficultés. Les premiers départs furent donnés à 14h15. Ainsi Stéphane et moi-même partions dans la catégorie de Sam pour 71km. 
+
+![Image](https://lh3.googleusercontent.com/prFvbpy8c6t5frfK9nNAEOmxu73wq02Qcyw7oGuTLB-YHyWCGA6EenTcZf1ieCzXq-1WkKpZCAJHqAiIxvz0-T6-rj-y-7eGy5CljE-FHT5WbQwf1uptxCgw2pO1W5HYV8Ur-XA1XRi8jrTzM68tbwi-9DAsH2i766uIe0BGEwckhLccG0jLnrni6Z1335QrUFy2X7j-FL5Q3YnGwhNXWQEgiWK7t0R9GAjakWUTuwsX70Am91ZXTA5pl0zW85KDIpYEqRNRnBai807kByHrGe3GK8Qu36q-zFMbO-gw0BAfvFQbp5dtQznQeLjR_TIFoep196ajJcixBHHvhHHUHA2_pw5WD7Dgif_vluiYayZwT1sSFGkmEkAirszq6zQhTe3MGhTVNNog3MlFiqohdrNRQ7PlHkjoHbrq6SYCBKXNYQOs6TNKHtKOmj3O0lO-aOrkxIG33rYNu1RCRAgPD0pjaaqNTkTAiFHthw27BSWLjfm_gwEVJHX4tWDXBJQgt9scZ4bCi_9donqp3_5xvNhPsKsy-gNuVuDUg-TP2RwKc3lfuJPB2yex-iDqHR6thiq39tde9GLS2-9oZqfbodC5Mu_DpyZ-NFILzeO6UVPo3GOQgjud9_XPx0STJJlazMe7pPVcD6mHiQNocsmNM9psByvJcnur9w=w720-h540-no)
+
+Dès le 3ème tour Sam se trouva dans la bonne échappée. Stéphane et moi-même en tête de peloton tentions de le contrôler pour que notre leader puisse prendre de précieuses secondes, obligeant les favoris à rouler s’ils voulaient le rejoindre. Ce fut le cas et c’est 20 hommes qui se retrouveront en tête par la suite. Sam portera son attaque décisive à 3 tours de la fin et fera plus de 15 km seul. La conclusion, on la connait, le titre !
+
+[![Image](https://lh3.googleusercontent.com/XRsRvRvkbLsTT3F_SprsmwlTwchUKYQVd2wjEfzaziUfW1kW5yK13D72Q-hytT6WJJbRbdcI18i0J031cbl3-xXHeK-GrcQ8Vszwv1aR-nNFyGyiHrz3i4K9Zc_tHaVhOlALETuKqtGg5NezbTp2FkxUuOv7-9JMFUiuzka6RNl1F5Z2kl5fjtqIv3XNCoXbkpHXNRkt2otruvvwuXPoEolVl--3fFBBvjV2-yRJux6BhKJrQ-RoLdF-FTTjnDbC7jBjypDC3mncjA2M_f23868qIUcwZdMMiST-JpnQxfNNMCRZuQrKBOvnZLOs-Gf5XChcls8_kdahab05SaTrW83r8Y_Sbdpj0bZWlShLWbplwz9mI7NGnpyX7bc-b3xTvlpMwEnBEy64jXJANTriQH4ndJqFylDxt-173pcDyVDvkvlfZTG0wSqf3HWcRI03ZO4PANMVRCgWFXdWV3nZYOZmF9BZt3iGudSURuSzQwVh1pafTOv-XWRMaxrqjb5W-j3X86WM83lXMEweN-WPnae6XA0kHKjyLizVTQ_44abafPiuorwZRlYgLkOan1nn0RR3oJANEzvYxhCJ3LQ5RBrXgC-nhYXtbiWCai60xZzD3TtHcdhBI6keKaSIRMNt8HTkmtRoWzadEe6ikUiBvp7JdVnvXC1r_ntNZB7OmnU=w1194-h672-no)](https://lh3.googleusercontent.com/XRsRvRvkbLsTT3F_SprsmwlTwchUKYQVd2wjEfzaziUfW1kW5yK13D72Q-hytT6WJJbRbdcI18i0J031cbl3-xXHeK-GrcQ8Vszwv1aR-nNFyGyiHrz3i4K9Zc_tHaVhOlALETuKqtGg5NezbTp2FkxUuOv7-9JMFUiuzka6RNl1F5Z2kl5fjtqIv3XNCoXbkpHXNRkt2otruvvwuXPoEolVl--3fFBBvjV2-yRJux6BhKJrQ-RoLdF-FTTjnDbC7jBjypDC3mncjA2M_f23868qIUcwZdMMiST-JpnQxfNNMCRZuQrKBOvnZLOs-Gf5XChcls8_kdahab05SaTrW83r8Y_Sbdpj0bZWlShLWbplwz9mI7NGnpyX7bc-b3xTvlpMwEnBEy64jXJANTriQH4ndJqFylDxt-173pcDyVDvkvlfZTG0wSqf3HWcRI03ZO4PANMVRCgWFXdWV3nZYOZmF9BZt3iGudSURuSzQwVh1pafTOv-XWRMaxrqjb5W-j3X86WM83lXMEweN-WPnae6XA0kHKjyLizVTQ_44abafPiuorwZRlYgLkOan1nn0RR3oJANEzvYxhCJ3LQ5RBrXgC-nhYXtbiWCai60xZzD3TtHcdhBI6keKaSIRMNt8HTkmtRoWzadEe6ikUiBvp7JdVnvXC1r_ntNZB7OmnU=w1194-h672-no)
+
+Pendant ce temps, Didier dans la catégorie des +60ans, terminera 7ème  lors d’une course où tout s’est décidé lors du sprint final. Du côté de notre trésorier Laurent, les 50-59, il tentera à de nombreuses reprises de partir, malheureusement pour lui, sans résultat. C’était son avant dernière course et il terminera le vélo à Beaulancourt lors des Régionaux. Paroles de Pinocchio…
+
+[![Image](https://lh3.googleusercontent.com/8x6UnTpW0Xnk_1LwT_pIgRFRrti3V30VKSQTNSN8EsUmTXX8RWBS5LW_qFXy4qwJwseNlJl6sL--IFLOGf6bGdXYWVpqate7Lq8X7DDGnYavLhRBOhNsTQ4_01rxYC4mmzNNsYpn4gic7ZoYBzpCrL4DF8K06TeG6d0r3xYBKnFN7ds7_iTnboK_3Q5ZYqtwrJVUmCPggBghat3ho3oL96tPwPWYY041psUE6Qt6xg9RBskW0XCMfZYgBhewztBlRq4yIakIK4RHP_lDLSgYwDqZKt0lvwVEDVwQ-07ufkPmX2o50WuxL0_54_q-YD_liUhRsnP1lxyuT_m5mlofxylffHWhiovvQtsDw_J1URXCW29bS5AXlpSSRV08VVQcUAtgFpUm10J75_oEyH-O2O2C6YCUoW9OInJ_NduE6rCZunWTQv8gKWgZXZ03Gy5D7jHMWR9OOGIlZRa9ONgf_ltRXF0n6QYPXOdiH0zejywLsAGvrHkz6o2LGiCukFIDhtuUIx5q-2FwWuUJz3QzGTAo_XCb4ANa48uzb-9IuktB5CnZssF3Mxw0EbN5WqnjqOZKEH4g002rA4qpglCzesNoPiShiCHAJAYYm7c47ZfQ8-Nh2xEuLSg7diuUW8WfBOjNGRpnfO4m2KLF_Rq82puWHOXt9z51_AQ7EvirdM0=w1194-h672-no)](https://lh3.googleusercontent.com/8x6UnTpW0Xnk_1LwT_pIgRFRrti3V30VKSQTNSN8EsUmTXX8RWBS5LW_qFXy4qwJwseNlJl6sL--IFLOGf6bGdXYWVpqate7Lq8X7DDGnYavLhRBOhNsTQ4_01rxYC4mmzNNsYpn4gic7ZoYBzpCrL4DF8K06TeG6d0r3xYBKnFN7ds7_iTnboK_3Q5ZYqtwrJVUmCPggBghat3ho3oL96tPwPWYY041psUE6Qt6xg9RBskW0XCMfZYgBhewztBlRq4yIakIK4RHP_lDLSgYwDqZKt0lvwVEDVwQ-07ufkPmX2o50WuxL0_54_q-YD_liUhRsnP1lxyuT_m5mlofxylffHWhiovvQtsDw_J1URXCW29bS5AXlpSSRV08VVQcUAtgFpUm10J75_oEyH-O2O2C6YCUoW9OInJ_NduE6rCZunWTQv8gKWgZXZ03Gy5D7jHMWR9OOGIlZRa9ONgf_ltRXF0n6QYPXOdiH0zejywLsAGvrHkz6o2LGiCukFIDhtuUIx5q-2FwWuUJz3QzGTAo_XCb4ANa48uzb-9IuktB5CnZssF3Mxw0EbN5WqnjqOZKEH4g002rA4qpglCzesNoPiShiCHAJAYYm7c47ZfQ8-Nh2xEuLSg7diuUW8WfBOjNGRpnfO4m2KLF_Rq82puWHOXt9z51_AQ7EvirdM0=w1194-h672-no)
+
+Dernières épreuves en ce qui concerne les wavrinois, les 20-29 avec Geoffrey et Christopher, les 30-39 avec Jérémy B et les 17-19 avec Alexy. Pour ce dernier, menant le peloton dès les premiers tours comme très souvent, une sortie de route lui sera fatale et il préférera abandonner. Pour Jérémy B, il fera une belle course dans une catégorie extrêmement élévé ou bon nombre de participant roulent en 1er cat.
+
+Pour Geoffrey et Christopher, ce fut une allure soutenue dès le départ. Dans les premiers tours, ils tenteront de s’échapper et ce n’est qu’à mi-course que Christopher se retrouva  dans la bonne. Une fin de course haletante car à l’entame du dernier tour, Christopher était toujours avec ses 4 compagnons d’échappée. Pour Jérémy B, conscient qu’il manquait de rythme dans sa catégorie très relevée, il fera bonne impression dans son groupe de retardés. Un joli sprint permettra à Christopher de l’emporter avec quelques centimètres d’avance comme on peut le voir sur cette vidéo où le commentateur que vous connaisez Stéphane laissera éclater sa joie. Centimètres qui seront décortiqués par les commissaires et discutés par le 2èmede nombreuses minutes.  Et de 2 pour le C.CWAVRIN !
+
+[![Image](https://lh3.googleusercontent.com/ZsZpFv3d8198ZPnATvFRvqGNtRdePjFbL5GiB1rV8hSp-yLDSA1Xr1h8YHPikBa78QwHkOYijKdT0tqD1xiFFR8am1GQw780pmxhInUlW66C85G3B8W6IHflevo7bTO_8SrfaHohZV_paRQP3t3cC4VuqkjAPhU6u9ixo_VYTASN9K9BBsN1CsppZ-Nhi03s5AkD4y4LrWj-l1Nc5tEY8OkiU7DebY37yUaWHnov6us081Y2XIwNqdHRv0Abqe6IzcCMWUUzWb3DmtjzbjIXhbyVhPlx2oK5RfhsPA-cZTzV9A4qxMDWmxNUM_Yt5Z3_ytQgW2Qj28QWlg3xCZS6MUikhXn1lGuonVFKxFhw0S_ri8FAzMggrbYncodu1nO7QQrgVbk3hP3xEnLnpsL3EKFi23cay6bKoz5XGk8tyzADRpnNUFBBObJXKZpSjBBprpu89Kob7lYfM5zfpBgwIXYiCCat5emISCaQh2GaleyW1W881hk9IEPneNbIkBhJdKgNJGkGjs2frT0NmkH4P8cZD-twM9GnMVwn8OpefyuUN8E0AurDQhoz-cBKyg8KLPQcLLMJZ63T3M15Ltk3AjHaj8PSmILkUV6oiazDQsejcJp4hR2W3Flz0IFJVtvIugklw3YlArhZ7ghfh3GhkapLB_HJII5-6my3bjSPZTg=w918-h688-no)](https://lh3.googleusercontent.com/ZsZpFv3d8198ZPnATvFRvqGNtRdePjFbL5GiB1rV8hSp-yLDSA1Xr1h8YHPikBa78QwHkOYijKdT0tqD1xiFFR8am1GQw780pmxhInUlW66C85G3B8W6IHflevo7bTO_8SrfaHohZV_paRQP3t3cC4VuqkjAPhU6u9ixo_VYTASN9K9BBsN1CsppZ-Nhi03s5AkD4y4LrWj-l1Nc5tEY8OkiU7DebY37yUaWHnov6us081Y2XIwNqdHRv0Abqe6IzcCMWUUzWb3DmtjzbjIXhbyVhPlx2oK5RfhsPA-cZTzV9A4qxMDWmxNUM_Yt5Z3_ytQgW2Qj28QWlg3xCZS6MUikhXn1lGuonVFKxFhw0S_ri8FAzMggrbYncodu1nO7QQrgVbk3hP3xEnLnpsL3EKFi23cay6bKoz5XGk8tyzADRpnNUFBBObJXKZpSjBBprpu89Kob7lYfM5zfpBgwIXYiCCat5emISCaQh2GaleyW1W881hk9IEPneNbIkBhJdKgNJGkGjs2frT0NmkH4P8cZD-twM9GnMVwn8OpefyuUN8E0AurDQhoz-cBKyg8KLPQcLLMJZ63T3M15Ltk3AjHaj8PSmILkUV6oiazDQsejcJp4hR2W3Flz0IFJVtvIugklw3YlArhZ7ghfh3GhkapLB_HJII5-6my3bjSPZTg=w918-h688-no)
+
+Une cérémonie des récompenses ou nous étions fiers d’applaudir nos 2 héros du jour avec notamment Lucien notre entraineur.
+
+A noter, nos félicitations à Sophie ancienne licenciée du club et fille  de Stéphane qui sera sacrée Vice-championne féminine.
+
+[Les résultats](http://www.cyclismeufolep5962.fr/Route/2017/FLINES%20LES%20MORTAGNE/Classements.pdf)      [Les photos des épreuves  ](https://goo.gl/photos/SiVVuskfb2A6pDeg7) 
+
+[Les photos des podiums](https://goo.gl/photos/4pqnTMAofaA9j3TZ9)  
+
+Pour terminer cette partie course, à noter ma 4ème place à Maulde samedi… Pour une fois, j’ai pas fait peloton mais échappée. Encore 3 marches pour lever les bras. Peloton pour Stéphane, Laurent et Didier.

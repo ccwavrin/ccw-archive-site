@@ -1,0 +1,110 @@
+---
+title: "2017.09.03-04 Course Linselles et Bachant"
+description: " Dimanche, Linselles et son très joli parcours de 10km avec sa côte et ses nombreux faux-plats. C’est une reprise pour notre ami Jean-Luc qui n’était plus revenu en compétition depuis plus d’un an suite à sa lourde de chute et son bassin fracturé"
+author: "vpoullier"
+date: 2017-09-07T06:05:27
+draft: false
+categories: ["courses"]
+tags: []
+original_category: "blog-courses"
+image: "https://lh3.googleusercontent.com/GFRPknGFHzo97t5GMWwfD55TsmXk--QMX8yy3RoJ-UYs4LIHwvWRlZgvlMy_1Ixs5PQ_oVK15dNlVHUERyRIHJ32r93MivAyqKxOw9jZjcVZk46HUTv1S31Q3QM16mo7XQyI4JMHjX2lkoLu-eGWqIutJNmij8K_cn-R4ZWX9ldaOyKIdEN70eyV5nLJpHojmPzr6ywbgUF8caUVKmSabo9Ut7Ct0IRDuhcgrU4TMhJIHsBJ1ZAUHX4DuvzLz1qs4ix8YOyt13FEdIKpZCIqWc7MxC4mVrxN6cms_mSdDAequaXsDbXqnxMpzWUFyK9xLB7D3Yg-2W5NloEL4Z6A0sRnEpfnU4t3fpwZR3e_ejomUf8eQIo1PAVGU9yCSk2TF9PMaup7fW164_1lRdB-wwaIDikZwGhtl4Xk9qYCzo4ID2GjyZvFSOHGLa4oeII2GxLPIZE-kJaoFuCG3BsYJQTacbZQyN-YPXlBIgjn8ckp7sJfgTlO3SltFX1OC669tM0sEY1tDpx1lPFBTzfHeFqeXfb_fSGQbb1j_A0CqFl2V6HqD6dlNOfvwbsWJxIj4yk-l8aIFIfU5yuM-FVDiXBpcs2FWBhhXANnhsuUiScE52C9LCj_T-CCKjtXaxsuOXibMsZaN6Koxp92TH7_I8xxHpfxT_79PQ=w960-h540-no"
+links:
+  - title: "VIDEO D'ARTHUR"
+    website: "https://www.youtube.com/watch?v=wYASCfmawMQ&amp;t=80s"
+  - title: "PHOTOS DE LA COURSE"
+    website: "https://photos.app.goo.gl/RKWH9rRiheoCRT383"
+  - title: "LES CLASSEMENTS LINSELLES"
+    website: "http://www.cyclismeufolep5962.fr/Route/2017/LINSELLES/Classements.pdf"
+---
+
+&nbsp;Dimanche, Linselles et son très joli parcours de 10km avec sa côte et ses nombreux faux-plats. C’est une reprise pour notre ami Jean-Luc qui n’était plus revenu en compétition depuis plus d’un an suite à sa lourde de chute et son bassin fracturé
+
+<!--more-->
+
+&nbsp;
+
+[![Image](https://lh3.googleusercontent.com/GFRPknGFHzo97t5GMWwfD55TsmXk--QMX8yy3RoJ-UYs4LIHwvWRlZgvlMy_1Ixs5PQ_oVK15dNlVHUERyRIHJ32r93MivAyqKxOw9jZjcVZk46HUTv1S31Q3QM16mo7XQyI4JMHjX2lkoLu-eGWqIutJNmij8K_cn-R4ZWX9ldaOyKIdEN70eyV5nLJpHojmPzr6ywbgUF8caUVKmSabo9Ut7Ct0IRDuhcgrU4TMhJIHsBJ1ZAUHX4DuvzLz1qs4ix8YOyt13FEdIKpZCIqWc7MxC4mVrxN6cms_mSdDAequaXsDbXqnxMpzWUFyK9xLB7D3Yg-2W5NloEL4Z6A0sRnEpfnU4t3fpwZR3e_ejomUf8eQIo1PAVGU9yCSk2TF9PMaup7fW164_1lRdB-wwaIDikZwGhtl4Xk9qYCzo4ID2GjyZvFSOHGLa4oeII2GxLPIZE-kJaoFuCG3BsYJQTacbZQyN-YPXlBIgjn8ckp7sJfgTlO3SltFX1OC669tM0sEY1tDpx1lPFBTzfHeFqeXfb_fSGQbb1j_A0CqFl2V6HqD6dlNOfvwbsWJxIj4yk-l8aIFIfU5yuM-FVDiXBpcs2FWBhhXANnhsuUiScE52C9LCj_T-CCKjtXaxsuOXibMsZaN6Koxp92TH7_I8xxHpfxT_79PQ=w960-h540-no)](https://lh3.googleusercontent.com/GFRPknGFHzo97t5GMWwfD55TsmXk--QMX8yy3RoJ-UYs4LIHwvWRlZgvlMy_1Ixs5PQ_oVK15dNlVHUERyRIHJ32r93MivAyqKxOw9jZjcVZk46HUTv1S31Q3QM16mo7XQyI4JMHjX2lkoLu-eGWqIutJNmij8K_cn-R4ZWX9ldaOyKIdEN70eyV5nLJpHojmPzr6ywbgUF8caUVKmSabo9Ut7Ct0IRDuhcgrU4TMhJIHsBJ1ZAUHX4DuvzLz1qs4ix8YOyt13FEdIKpZCIqWc7MxC4mVrxN6cms_mSdDAequaXsDbXqnxMpzWUFyK9xLB7D3Yg-2W5NloEL4Z6A0sRnEpfnU4t3fpwZR3e_ejomUf8eQIo1PAVGU9yCSk2TF9PMaup7fW164_1lRdB-wwaIDikZwGhtl4Xk9qYCzo4ID2GjyZvFSOHGLa4oeII2GxLPIZE-kJaoFuCG3BsYJQTacbZQyN-YPXlBIgjn8ckp7sJfgTlO3SltFX1OC669tM0sEY1tDpx1lPFBTzfHeFqeXfb_fSGQbb1j_A0CqFl2V6HqD6dlNOfvwbsWJxIj4yk-l8aIFIfU5yuM-FVDiXBpcs2FWBhhXANnhsuUiScE52C9LCj_T-CCKjtXaxsuOXibMsZaN6Koxp92TH7_I8xxHpfxT_79PQ=w960-h540-no)
+
+&nbsp;
+
+Une certaine appréhension de sa part accompagna également une envie grandissante de reprendre qui se faisait ressentir depuis quelques semaines.
+
+Il fit une très belle course et fut très content pour une reprise de tenir et même de l’animer. Il me raconta que malgré ses limites dans la côte, le reste du parcours était taillé pour lui et il fut un bon coéquipier pour son camarade Thierry.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+[![Image](https://lh3.googleusercontent.com/oI8OXHjdTKXgOAUHbSODmLMggmB22tGfpLtHekPd5Qi8rfCG7r-1LAvJFWXn90rUqtlm1t7M7QyATZMZhcG27U-O-_bqnzb4XL2HMsTqxbFcN88-JmZafV-EPEQMKebU7jijk_0hDxcRyBpWYmtuQf82iUAZUX5yWz8in7dImOxhIv2goDvhGni2CnIqxhFR_RrUtyXsxo8fWVFVVZTrVKdBKtW-iBZhffyDi7zYE6MvmK9gvcHSusK1xYnF6xsbaYNArwKVB8ivW-bFQZHU2xZbx8QTxd-7vMbiQ6XTUYYRsAirJ_VlfPHPFRPqY35gYbDkHAi90yPvG0d8AlvkxnUJjXM320iqxdwG77WV1C2TCKgdO2Guol88KGMz-yojJCe-EyrTkrfjewDK8l9DD1WFHTmi31w1I-v2t2fmEC3CuwNwzKWiQmXZyaQJGIKQxmw76vVA-ROdw8f72gKeaj93taRI14LM5IO5eVT9RXev-HGTp3eCoMIuyFwx09dEuuShALb0k15ojsPS40XWABfGgwDlqtRpFgfl9cGC9YbRt6J0vRihJ9tKk3czylaoH08N70groL9R8yZckahBSFtfllaMRB_nKEPlIQGsFKsxyMeaMipQmYjubYnCCfR9GdfP0Ap_8gwY8AyS5dd_9rxplpuSs4W07Q=w960-h540-no)](https://lh3.googleusercontent.com/oI8OXHjdTKXgOAUHbSODmLMggmB22tGfpLtHekPd5Qi8rfCG7r-1LAvJFWXn90rUqtlm1t7M7QyATZMZhcG27U-O-_bqnzb4XL2HMsTqxbFcN88-JmZafV-EPEQMKebU7jijk_0hDxcRyBpWYmtuQf82iUAZUX5yWz8in7dImOxhIv2goDvhGni2CnIqxhFR_RrUtyXsxo8fWVFVVZTrVKdBKtW-iBZhffyDi7zYE6MvmK9gvcHSusK1xYnF6xsbaYNArwKVB8ivW-bFQZHU2xZbx8QTxd-7vMbiQ6XTUYYRsAirJ_VlfPHPFRPqY35gYbDkHAi90yPvG0d8AlvkxnUJjXM320iqxdwG77WV1C2TCKgdO2Guol88KGMz-yojJCe-EyrTkrfjewDK8l9DD1WFHTmi31w1I-v2t2fmEC3CuwNwzKWiQmXZyaQJGIKQxmw76vVA-ROdw8f72gKeaj93taRI14LM5IO5eVT9RXev-HGTp3eCoMIuyFwx09dEuuShALb0k15ojsPS40XWABfGgwDlqtRpFgfl9cGC9YbRt6J0vRihJ9tKk3czylaoH08N70groL9R8yZckahBSFtfllaMRB_nKEPlIQGsFKsxyMeaMipQmYjubYnCCfR9GdfP0Ap_8gwY8AyS5dd_9rxplpuSs4W07Q=w960-h540-no)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+Pour les 3ème , Mickael, Alexy et moi-même animerons la course malgré la suprématie de Linselles qui protégeaient leur collègue échappé dès le 3ème tour. Aucune de nos attaques souvent tranchantes ne pu se concrétiser à cette course d’équipe des Linsellois. Une belle 5ème place quand même de Mickael.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+[![Image](https://lh3.googleusercontent.com/hB6Kpt7XQJ8Qop-4PjXMvetYPNfoGRlQ18CvdvWeB8vMatX6-GMWxSbSNnujIYqKTCuYXUUESR3VRlyLcIW7e1Wq_1Ukmxk0AuWQ6BkmQRsMwnQYE1H0lhfMzFG3YgllNeZoSdr4HQT6ya7JYSy3ANyYtjHSmUCCddbYvgEx1p2wL8HGWZSjE4kvCTpRua4gsDluh-UgGk6obKLxqHDDRjNvU5B6IY210rRnZMUxLYJDBWZs0DD5_mZJNplgfb_gTbGtlFSYVgus4RnZmJJbgXwKPFDc0g_ApLV7b22W_nRFrsD3NK80U5iRQfHRoOK_JvnE8WEuUIssDrU1DGcLVooA0sN4XxDdqdGIxMkw3RcOSWbcD682QY1BQBX-YU37jtCyH29cTndmvjkh72aYQ4dmiAbCX-rhG6wER18Ctxi5S7fOUvFd4wLpicq-VqIo9xF2KPVaLe29ImKP02cOqT9SuQs42M8fjwdNccZ-K_q8RCXFfV2ggkaVhU17_WPvh3e3swe00FSbW3x6jDQHTQk_bp2PX9xrST5-v2x2E1Jo8ySvqYDGDIbiilauJ17UU5xNkd7ZLjpkURM2Pi4it7bWxsjNWoYlPwE87GG_bzn1Se_neEYAYJIGwTBUak8ab3aHwIyN7yOG0rkxMXuKV2gJbyncdnQpqA=w434-h770-no)](https://lh3.googleusercontent.com/hB6Kpt7XQJ8Qop-4PjXMvetYPNfoGRlQ18CvdvWeB8vMatX6-GMWxSbSNnujIYqKTCuYXUUESR3VRlyLcIW7e1Wq_1Ukmxk0AuWQ6BkmQRsMwnQYE1H0lhfMzFG3YgllNeZoSdr4HQT6ya7JYSy3ANyYtjHSmUCCddbYvgEx1p2wL8HGWZSjE4kvCTpRua4gsDluh-UgGk6obKLxqHDDRjNvU5B6IY210rRnZMUxLYJDBWZs0DD5_mZJNplgfb_gTbGtlFSYVgus4RnZmJJbgXwKPFDc0g_ApLV7b22W_nRFrsD3NK80U5iRQfHRoOK_JvnE8WEuUIssDrU1DGcLVooA0sN4XxDdqdGIxMkw3RcOSWbcD682QY1BQBX-YU37jtCyH29cTndmvjkh72aYQ4dmiAbCX-rhG6wER18Ctxi5S7fOUvFd4wLpicq-VqIo9xF2KPVaLe29ImKP02cOqT9SuQs42M8fjwdNccZ-K_q8RCXFfV2ggkaVhU17_WPvh3e3swe00FSbW3x6jDQHTQk_bp2PX9xrST5-v2x2E1Jo8ySvqYDGDIbiilauJ17UU5xNkd7ZLjpkURM2Pi4it7bWxsjNWoYlPwE87GG_bzn1Se_neEYAYJIGwTBUak8ab3aHwIyN7yOG0rkxMXuKV2gJbyncdnQpqA=w434-h770-no)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+Dernières épreuves, les costauds des 2 et 1ère. &nbsp;Pour les 2, Stéphane et Laurent loupaient malheureusement «&nbsp;la bonne&nbsp;» et ce fut plusieurs groupes de poursuivants qui se formaient. A noter la belle course de notre ami Laurent sur son nouveau vélo après plus de 3 semaines de vacances.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+[![Image](https://lh3.googleusercontent.com/vmb5h6r5w-qnj5_Lm9aN9chwkffOM_HJtYvvxp8zZGRvfhN-qFHZ2FfLqgSA7FPiArAcM1vRQV-eY74XJ8xLdOZQ1fkXTcysWkvhVYJiNnTjPU8WeN2QEtQU9fNe4vPR4AjV0C4-083cShofey-ViDMdc_cSK_ILLyYSPx-rUvbMymQTjjruXt8P2HSm9mCShl5oT8ECiXXgZgt-xiV1gfzhwbGRaRrjX85jlqM90g-Qo-9cKffwKzMmBh7UhZgFkREKKrGDZcnK7Km9qnOekeh1EkDfJm8IiwOg1RLcu9RO7dfH47kDqHE2C38pNWIVoXe7MCBRX-rCyeljGw-muxuq64I43iH9y4oAC5dxfO7k2_RK7t48ymidWZoU5zH6Uiej-fAkKlZ6wtwckr3syuWHJM6pjs1rIiGu4yAN1bCotUP7_uQuTajfKVrH_jXlG_IYkUhx4JFZyr5SYfeh4rKram7JfLk-7fLTTFSgW5c8shqFV5P1VwqF_GQVJ4gGzgeacF0qG6ypdGICmShH4jLd0cq2KlNWIzS6_RMwQ4bTsHN4kgvtc6s0GVlsZGbTxbCeL5toczSv8Ugubk01SSVmtwjBChjIDriUifX0IEHusL1Yzg6580A23ESvuaDaKpSlLebdqANTPMiOV234MjVXqGbrNwFKeQ=w960-h540-no)](https://lh3.googleusercontent.com/vmb5h6r5w-qnj5_Lm9aN9chwkffOM_HJtYvvxp8zZGRvfhN-qFHZ2FfLqgSA7FPiArAcM1vRQV-eY74XJ8xLdOZQ1fkXTcysWkvhVYJiNnTjPU8WeN2QEtQU9fNe4vPR4AjV0C4-083cShofey-ViDMdc_cSK_ILLyYSPx-rUvbMymQTjjruXt8P2HSm9mCShl5oT8ECiXXgZgt-xiV1gfzhwbGRaRrjX85jlqM90g-Qo-9cKffwKzMmBh7UhZgFkREKKrGDZcnK7Km9qnOekeh1EkDfJm8IiwOg1RLcu9RO7dfH47kDqHE2C38pNWIVoXe7MCBRX-rCyeljGw-muxuq64I43iH9y4oAC5dxfO7k2_RK7t48ymidWZoU5zH6Uiej-fAkKlZ6wtwckr3syuWHJM6pjs1rIiGu4yAN1bCotUP7_uQuTajfKVrH_jXlG_IYkUhx4JFZyr5SYfeh4rKram7JfLk-7fLTTFSgW5c8shqFV5P1VwqF_GQVJ4gGzgeacF0qG6ypdGICmShH4jLd0cq2KlNWIzS6_RMwQ4bTsHN4kgvtc6s0GVlsZGbTxbCeL5toczSv8Ugubk01SSVmtwjBChjIDriUifX0IEHusL1Yzg6580A23ESvuaDaKpSlLebdqANTPMiOV234MjVXqGbrNwFKeQ=w960-h540-no)
+
+&nbsp;
+
+En 1ère, &nbsp;Sam et Geoffrey nos wavrinois, firent une très belle course. Après être revenu sur un homme échappé pendant 3 tours, c’est Sam qui contre-attaqua avec un coureur de Verlinghem. &nbsp;Regroupement général en fin de course et on pu assister à un joli sprint lancé de loin ou Geoffrey restait au chaud prit une remarquable 2ème place. Sam fera 5.
+
+&nbsp;
+
+MERCI à Guillaume et Arthur de nous avoir encouragé et à notre futur jeune coureur d'avoir fait une très belle vidéo.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+[![Image](https://lh3.googleusercontent.com/vUZEfrq4IWR28SpYOqNISb-RCpY10BBHQqm12Ub0E02wHhbboYoqmUluJZuybWa6g3G422vVAYdUF7xgNYLFCsvu5_C-CnhVbagtOM9UreL8KJTEiVBYoGnYtanjxpO_CXxDYeKXOcru7bykC3r01vveaio6qYx5_K85QC3nd5gUrk7pE3__bA34FkcVBGJKHtNOrR76nLOJOwRrP--DKNf2OZ_0_FSwLV5egAm2-kKRKsJ61fgIsS1rrE58jSBTCOYw9_KyK6u3qiey4y8XrnFgi_WbtW5dCYiRHYmgFmU5uNMv3IeiDElTP3ZfqhddBv5MRp-vKcS80ZjqYU2boN8R4OxN727jgeO51SnMpBxrRHQot9_I6UfGPppoAWkEYwNiTOL1YBFEQ0cOupLZCzd7bUAarl0eED5gJQ30_AYjsvRMgWJAtG-M1ZMlOSgyU4sUA7yWlrslgT4xiSiB0WZ6jTf2lkY7DOqjRgWqrKtHAIhEU2QuggmHKTFpkXOyMCgkDYNE9WxbKO7DjU3JY0eLzzE-hpvyM945DM5jVfJwScozXb8AkHLAUgjoBjVZ8eGESdrrV-4OjYjV_37mzzJjYBEPzTuCun1pqwtP7eaLMIGHgpyRg_FVsqHZ00vWHMiBETmK51LdeT5aRyjNExJ16aTfJ7ggyw=w480-h640-no)](https://lh3.googleusercontent.com/vUZEfrq4IWR28SpYOqNISb-RCpY10BBHQqm12Ub0E02wHhbboYoqmUluJZuybWa6g3G422vVAYdUF7xgNYLFCsvu5_C-CnhVbagtOM9UreL8KJTEiVBYoGnYtanjxpO_CXxDYeKXOcru7bykC3r01vveaio6qYx5_K85QC3nd5gUrk7pE3__bA34FkcVBGJKHtNOrR76nLOJOwRrP--DKNf2OZ_0_FSwLV5egAm2-kKRKsJ61fgIsS1rrE58jSBTCOYw9_KyK6u3qiey4y8XrnFgi_WbtW5dCYiRHYmgFmU5uNMv3IeiDElTP3ZfqhddBv5MRp-vKcS80ZjqYU2boN8R4OxN727jgeO51SnMpBxrRHQot9_I6UfGPppoAWkEYwNiTOL1YBFEQ0cOupLZCzd7bUAarl0eED5gJQ30_AYjsvRMgWJAtG-M1ZMlOSgyU4sUA7yWlrslgT4xiSiB0WZ6jTf2lkY7DOqjRgWqrKtHAIhEU2QuggmHKTFpkXOyMCgkDYNE9WxbKO7DjU3JY0eLzzE-hpvyM945DM5jVfJwScozXb8AkHLAUgjoBjVZ8eGESdrrV-4OjYjV_37mzzJjYBEPzTuCun1pqwtP7eaLMIGHgpyRg_FVsqHZ00vWHMiBETmK51LdeT5aRyjNExJ16aTfJ7ggyw=w480-h640-no)
+
+&nbsp;
+
+&nbsp;
+
+Lundi critérium de Bachant près de Maubeuge, et malheureusement chute sans gravité pour Sam avec quand même de belles égratignures et des courbatures. &nbsp;Chute arrivée dans le dernier tour et au dernier virage suite à un concurrent qui tombe devant lui. Comme à son habitude, Sam toujours très zen me dira&nbsp;:&nbsp;«&nbsp;à la fin c’est le macadam qui gagne&nbsp;»
+
+&nbsp;

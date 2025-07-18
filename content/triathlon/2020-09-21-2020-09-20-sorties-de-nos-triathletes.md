@@ -1,0 +1,28 @@
+---
+title: "2020.09.20 Sorties de nos triathlètes"
+description: "La courte saison n’est pas encore terminée (du moins je l’espère) qu’il est déjà l’heure de préparer la saison prochaine."
+author: "aiolia12@yahoo.fr"
+date: 2020-09-21T09:01:43
+draft: false
+categories: ["triathlon"]
+tags: []
+original_category: "blog-triathlon"
+image: "https://lh3.googleusercontent.com/ykhiWSyhP_mICx4dnYiuJIqsfJZDuYbkdbkdUTKgOpHlN7eU0JngVhMAAZHpIR8aqgSVl634riSVMjN5N6nwXM32_mDmpD6HdS4b1SORVcvidsdn7KwYjpABqQjI4UYIDV-WUYlenIGgRFFc6naaBwI8kbo8o1feusFGNfXMRdeFKtjSZiBMWMYttyZO52yLYR8APLSZ92i7d9NE16Fw8erxuz7N8uykjKxm0hnfLjKJQctv7xe-kOxjKCxXuECpREcpvfzgu-xveEvQ9lBV99lkvK4WW1TfWlMpiBRroWEvorxdq3TGAWEmUWnuKma4NzXTJtNHOhPTERI5DmjMFWNWMXz7kty8LxIwnhgOZ_fw_Cj4Kr8pkZScQxLrWy_1fKKMs5sQ30hdTVnI3vGAj3l5rnfYVwly_LFzYXjP5aRH7BFq56JWwWOGov-hxz_pK879xeC2wXyEwzhCYWRCci3x4Lc5aBWgURS7dKGijUYbnO8bvIqRY92QS5hi08mLvhBXtV3npuFxGoyU0pKMQO9rrSt7mvjuWlUkV9ySZo1jjPYNs3DFYKN8EtxAeVVGaMUB9pKxHUwPy3O1DIFRQ_I-RzAe0if5R7Qh8ZeGeXn2zrefDm31KBuWIFyXZJyRJOVp7J5gcE2BLEhUMWEvlri5HthrHFvAFmrhmcVYCjAwkwSdWoAOEoftGglhbA=w1126-h844-no?authuser=0"
+links:
+  - title: "Les photos"
+    website: "https://photos.app.goo.gl/7CNsRr1FCuchZsXHA"
+---
+
+La courte saison n’est pas encore terminée (du moins je l’espère) qu’il est déjà l’heure de préparer la saison prochaine.
+
+<!--more-->
+
+Premier objectif&nbsp;: reformer le groupe après une période marquée par le confinement et la période estivale.[![Image](https://lh3.googleusercontent.com/nNN5rHLpL_LzlpGQoBnWIWMdnV4IpD17Sbyg8jSoOYDP8Q-GoBdGJ4Bq4EjusleYsJGItQUsife2v4Tuq0o0e2CXJe0uyEEkbmMDDag5t_d-ZxwYV6GfY1_IsTkDkvWtUeHcBho3AjjySTu7PfzRHHNW3TIIl5CPRpYlBUuMQft0Rnhvt3xo4JgqM4-rmsMZBQdex3MN1mrji_DXGePQ79xHTW9xo2K3SnXzgB8DMZ6a9gi1F5gtHS15TlFCXjEDkNn_gZNG0nNDi70zBeIcMWqYP5qQ5BcaK6kqDmijB84-1greT2xnegiSPqAc0dAKZfLvv6D6ZbJp7dAOKFPt65R6vznTvVqRCI56ilLOJsuCRp4f-Jcy-ioZvTvX-0hsH6EPnNcVLuJiBPtl2eztZ6XR7ibr1hLas8ORtuhqxP2P8rm4BOQjVesaRA7dim8DRlaojTnk5sgOxFzPirs6-2DOSC2h3bxi3RIpvUdrhN8YmOSoEAcWLoBybOGUObqqA5Yb2nT8ZI4x_KpIfWikzgt1w1H1GK_ZbqaltOKB95ddsJEAPWC90J65l9zg1NmbLTDMkweYleXKocrWRFBs06ARa_EONAIY3UaWSw5qgi_tGppepSq-buFQfuZCyhpFX9syVdQz97MH4ycuGgKW9RCvDPgJi3s_n8nuY6TiHKy06hj2ObBTBvLdCymyZg=w1365-h648-no?authuser=0)](https://lh3.googleusercontent.com/nNN5rHLpL_LzlpGQoBnWIWMdnV4IpD17Sbyg8jSoOYDP8Q-GoBdGJ4Bq4EjusleYsJGItQUsife2v4Tuq0o0e2CXJe0uyEEkbmMDDag5t_d-ZxwYV6GfY1_IsTkDkvWtUeHcBho3AjjySTu7PfzRHHNW3TIIl5CPRpYlBUuMQft0Rnhvt3xo4JgqM4-rmsMZBQdex3MN1mrji_DXGePQ79xHTW9xo2K3SnXzgB8DMZ6a9gi1F5gtHS15TlFCXjEDkNn_gZNG0nNDi70zBeIcMWqYP5qQ5BcaK6kqDmijB84-1greT2xnegiSPqAc0dAKZfLvv6D6ZbJp7dAOKFPt65R6vznTvVqRCI56ilLOJsuCRp4f-Jcy-ioZvTvX-0hsH6EPnNcVLuJiBPtl2eztZ6XR7ibr1hLas8ORtuhqxP2P8rm4BOQjVesaRA7dim8DRlaojTnk5sgOxFzPirs6-2DOSC2h3bxi3RIpvUdrhN8YmOSoEAcWLoBybOGUObqqA5Yb2nT8ZI4x_KpIfWikzgt1w1H1GK_ZbqaltOKB95ddsJEAPWC90J65l9zg1NmbLTDMkweYleXKocrWRFBs06ARa_EONAIY3UaWSw5qgi_tGppepSq-buFQfuZCyhpFX9syVdQz97MH4ycuGgKW9RCvDPgJi3s_n8nuY6TiHKy06hj2ObBTBvLdCymyZg=w1365-h648-no?authuser=0)
+
+&nbsp;
+
+C’est chose réussie sur ces deux sorties où nous avons pu arpenter les routes du Pévèle sous un beau soleil. Mieux encore le groupe a eu l’occasion d’accueillir de nouvelles recrues très sympathiques. Bienvenue à eux&nbsp;!
+
+J’en profite pour remercier les initiatives du groupe, qui en mon absence le 20 septembre, a su planifier et orchestrer la séance avec brio (purée ils n’ont déjà plus besoin de moi).
+
+De bon augure pour la suite&nbsp;…

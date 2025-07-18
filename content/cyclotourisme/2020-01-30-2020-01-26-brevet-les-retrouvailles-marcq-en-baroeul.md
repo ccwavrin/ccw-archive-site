@@ -1,0 +1,34 @@
+---
+title: "2020.01.26 Brevet les retrouvailles Marcq en Baroeul"
+description: "Une petite quinzaine de cyclos présents de dimanche Seul brevet au programme, les retrouvailles à Marcq en Baroeul. Vu l’heure de départ et la localisation de cette randonnée, j’ai proposé de contourner Lille pour se rendre à Marcq en passant donc par Lomme Lompret, Wambrechies etc."
+author: "vpoullier"
+date: 2020-01-30T12:49:06
+draft: false
+categories: ["cyclotourisme"]
+tags: []
+original_category: "blog-cyclotourisme"
+image: "https://lh3.googleusercontent.com/T374lF840qPiC52jET4NwRjxy3NqXn-QaYO1dzd5JsOJFegimjtGuPoPSFVLFLiTZUvqQLj5qLteoxmO_rqEloWOl5pmKbzs25XG0vhIS2_urf7tG0u3gaI4EyP8N2Yj5epoKU6DZFCe_0u1uDXsQubXyFjfC2ML69eHNwQtY8F-4A1YHLDQ7Kk67SEVcS-DtF5I_LL_vNeOnRtr34Ha1Nw8dDc8PRfD5CppETy2vANO2s0wXHFl6OeVyIWJ4YayyJ_S33yYFy_F-l5x1fzH8Ms_mBVo9TuwubY9x_lN7kd6pUbTUdiimEMjWqtrhI6aYB_EV6Uu3IYfDeYnF5YfLk2PVxwJVN_71fFIqxUqunAd7tzA51MOhXVEepJotPH57AKmzQj_WQI8V0Jf6Fxvq3IP6vOsjx8gVMP1kTcGjKoAI9Y9lEsVt1UleXFfLSL1htzcBssjqLAtLNwe_cH9Ea6eCRfqkzN-jXPoadTEgQhtpmn53xlep4Bet8p_npEhq9CbgkH1Z6tjh8YK2IbuKq3L2OUw17L86Zwt3inBhlNrTw4MpTdczVKyjFRrP9-KKk3xqJQu4Ww2bt-W5sYPzngOw1BnL6anXqdHqUQNyOmHenRxR1bZdhRSf7E0zgCrWWNQacVAh7ICCVU5agA5TZBTzM2ZJHqMvHFYhM6tuPvxHjW2mg5A0Vs=s264-no"
+links:
+  - title: "LES PHOTOS"
+    website: "https://photos.app.goo.gl/zm2Zq2HaM1buXCL99"
+  - title: "UNE VIDEO"
+    website: "https://photos.google.com/share/AF1QipM6KG2S2A0TXdUVVP3NQZLeHaq1AMNViUQxguGwXpZkQlUA8ldJ8LYPbpIO-1IrAw/photo/AF1QipP79YOwSogGu5Rold0pgpvU14Di38iyZP_Ey_5K?key=dmR6RC02TTV4aWxzTHhVeWE0bHRIOXRaM0NzeE1R"
+---
+
+Une petite quinzaine de cyclos présents de dimanche Seul brevet au programme, les retrouvailles à Marcq en Baroeul. Vu l’heure de départ et la localisation de cette randonnée, j’ai proposé de contourner Lille pour se rendre à Marcq en passant donc par Lomme Lompret, Wambrechies etc.
+
+<!--more-->
+
+[![Image](https://lh3.googleusercontent.com/DKP1xvkIxMgAbwhoqtBYOw9NHp69yNV5lK2zAVYkkAjlmq9-kREikuNQahLg-siUrFViQoaWrQzVVmshhEWubJ_OVlkJ4rAysFKgaudXZiKuP6u8MGiPdwAccKRtERMY5WFmkZBaMwYeNXqaQmRLUnNI80hvKOd0i2ugVla1U8Z1ga3YfGD8ecHukkKwQKGCsnnWZMDAeVi_mN7yVrqbTaTPer1vTtLrkCoT1F2j861vtQ5ankfs11AFtxmzysAPPUYnTeTvcrRwgEMDnKpNV-MQjHcvFmx21biCGlsFTG3YISWMaQaKnlO3iqS1MaryEVCg5HMeuTCm5r9vsWaXd1WMVQ3gs4v1NZkOs-mN1IRaJbK0QvUkrTa-6HscFjzvjpQD_fY8wdPWoyQytB8lHlTBi76EtmE9WcSbAkXcav6BDEABcXHsT-ouSfemAoM7UN6lJbQMAdTm-QXn6cbtUq68eUKjhHDXmN6dVkuH6t0ijaZw5Ea8uGvSFVFWim2LrLsmOpNpe-fWeOsMBLPxYZkQkDYGGhnisSqB4-K5XqXXy2UXbXMbpC3clvO5fEp4dL0JtWD3xtHig00RNBVUSVndyD_DWqbRkMrQ23L8UMo5hcK_1qjkRjhiruOWtmEg2vRXevNIobpyD3jDFPp11eFhikeT6iWB-VFbP8oWrT3iovqjcslWStPeTdQMtLxmk_YBNGTSU_CAxl_AvlS4fNbknrc-IqsVlsf6daRKIMPdARMY=s764-no)](https://lh3.googleusercontent.com/DKP1xvkIxMgAbwhoqtBYOw9NHp69yNV5lK2zAVYkkAjlmq9-kREikuNQahLg-siUrFViQoaWrQzVVmshhEWubJ_OVlkJ4rAysFKgaudXZiKuP6u8MGiPdwAccKRtERMY5WFmkZBaMwYeNXqaQmRLUnNI80hvKOd0i2ugVla1U8Z1ga3YfGD8ecHukkKwQKGCsnnWZMDAeVi_mN7yVrqbTaTPer1vTtLrkCoT1F2j861vtQ5ankfs11AFtxmzysAPPUYnTeTvcrRwgEMDnKpNV-MQjHcvFmx21biCGlsFTG3YISWMaQaKnlO3iqS1MaryEVCg5HMeuTCm5r9vsWaXd1WMVQ3gs4v1NZkOs-mN1IRaJbK0QvUkrTa-6HscFjzvjpQD_fY8wdPWoyQytB8lHlTBi76EtmE9WcSbAkXcav6BDEABcXHsT-ouSfemAoM7UN6lJbQMAdTm-QXn6cbtUq68eUKjhHDXmN6dVkuH6t0ijaZw5Ea8uGvSFVFWim2LrLsmOpNpe-fWeOsMBLPxYZkQkDYGGhnisSqB4-K5XqXXy2UXbXMbpC3clvO5fEp4dL0JtWD3xtHig00RNBVUSVndyD_DWqbRkMrQ23L8UMo5hcK_1qjkRjhiruOWtmEg2vRXevNIobpyD3jDFPp11eFhikeT6iWB-VFbP8oWrT3iovqjcslWStPeTdQMtLxmk_YBNGTSU_CAxl_AvlS4fNbknrc-IqsVlsf6daRKIMPdARMY=s764-no)Nous arrivions chez nos amis Marcquois vers 10h15. Un accueil chaleureux avec café et sandwiche puis connaissant le parcours, je proposais à mes camarades de prendre le 35km et de quitter le parcours au niveau du ravito de Comines pour retourner à Wavrin en estimant à 12h30/12h45 l’heure d’arrivée. Pour certains, ils décidèrent de manger leur sandwich puis de rentrer directement à Wavrin
+
+L’organisateur préviendra son ravito de nous attendre. Une belle initiative de leur part.
+
+[![Image](https://lh3.googleusercontent.com/wJWttCpCUQ_vhPoIwITMIS5qUTSUUrsk_98RmFGQKvqdYK-LLMwIShk38uHBiSlLr9TJztH-rQDuV04MNbvlsBL2J1gQkThuV9YPmjid1Vf4CudHDCuSNThmS4jTKy3jdmM6CtIIqbMBAYDLOaOx7pd8u7XpwwBF92AVqTPpnk8ZmrBQ3gEoc-a4dFfYgOJxojgnrXLRHHwgBOVVkS7w-lEOGfPsr_FFxWoUBVArCxpS1i0y6_qnO6VkqmPzRL1ipNo_Yf3c0145ddsl_TG6-eILGLpvwz1-nTwGVYLEkNdY0jFbP0TwPCO1nb4GlVR6VyVlv4sjQwgb_aW4is84zcBneXjMY_gv12Yxdc22UWFbbIuueR1C2MoIHmd9Xfkt0GqH-skmY_GN4MBj29rgm1WY5Vll6NXvNqPssZVyjsb7VgQqgMSMgSGFbkPYr8yAW1Aa67BhVUnbW6NR2fyk2Wto7gL9syXnKKWp8w2yeugBw50oPN-Br84DU0_zfDuzbNvH6ZZhl2ns72-yJSTmOsrU09FF9r0cdAXxDYcd4yvYut6FfRpHWfv8wdW_unYsfW71-A-xKvWlMe-4FoBH49ceZL-dqUoQDrWkIT1MxwTslUqN9h5MoBSYwccGMw__deXxKDlnHTGom4PAOz9pb2puDcfd43r41KAB8CeOLVM6cAmRqUmjeOraJUsrGhxp5kMRyLoMTb1hro6FqxB_0dMvenQ1WnbF1TMor6h9i7pw2nSW=s764-no)](https://lh3.googleusercontent.com/wJWttCpCUQ_vhPoIwITMIS5qUTSUUrsk_98RmFGQKvqdYK-LLMwIShk38uHBiSlLr9TJztH-rQDuV04MNbvlsBL2J1gQkThuV9YPmjid1Vf4CudHDCuSNThmS4jTKy3jdmM6CtIIqbMBAYDLOaOx7pd8u7XpwwBF92AVqTPpnk8ZmrBQ3gEoc-a4dFfYgOJxojgnrXLRHHwgBOVVkS7w-lEOGfPsr_FFxWoUBVArCxpS1i0y6_qnO6VkqmPzRL1ipNo_Yf3c0145ddsl_TG6-eILGLpvwz1-nTwGVYLEkNdY0jFbP0TwPCO1nb4GlVR6VyVlv4sjQwgb_aW4is84zcBneXjMY_gv12Yxdc22UWFbbIuueR1C2MoIHmd9Xfkt0GqH-skmY_GN4MBj29rgm1WY5Vll6NXvNqPssZVyjsb7VgQqgMSMgSGFbkPYr8yAW1Aa67BhVUnbW6NR2fyk2Wto7gL9syXnKKWp8w2yeugBw50oPN-Br84DU0_zfDuzbNvH6ZZhl2ns72-yJSTmOsrU09FF9r0cdAXxDYcd4yvYut6FfRpHWfv8wdW_unYsfW71-A-xKvWlMe-4FoBH49ceZL-dqUoQDrWkIT1MxwTslUqN9h5MoBSYwccGMw__deXxKDlnHTGom4PAOz9pb2puDcfd43r41KAB8CeOLVM6cAmRqUmjeOraJUsrGhxp5kMRyLoMTb1hro6FqxB_0dMvenQ1WnbF1TMor6h9i7pw2nSW=s764-no)Ainsi c’est accompagné de Chantal et Jean-Luc, Thierry C, Daniel V, Jean-Philippe et Benoit T que le groupe quittait a métropole lilloise par des chemins que nous empruntions quasi jamais en direction de Bondues. Commune où une crevaison survint sur ma roue avant. Une réparation rondement menée par Jean-Luc et moi-même devant un public peu actif mais très attentif (lol)
+
+Nous nous dirigions donc vers Comines et plus particulièrement vers le ravito à Ste Marguerite, ou j’ai passé 23 de ma vie (+9 mois si je compte la grossesse de ma mère). Un ravito où nous étions attendus et où l’on nous servit une très bonne soupe multi-légumes avec biscotte.
+
+C’est à cet endroit que nous quittions le parcours pour rejoindre Wez-Macquart puis la côte d’Ennetières, unique "difficulté" du jour.
+
+Un retour vers 12h45 comme l’avait prédit le Président.qu’il est fort…
+
+Une belle sortie, un beau parcours et un bon groupe…quoi demander de plus… un peu de soleil..

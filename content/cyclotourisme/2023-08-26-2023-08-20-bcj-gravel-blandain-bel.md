@@ -1,0 +1,30 @@
+---
+title: "2023.08.20 BCJ Gravel Blandain (Bel)"
+description: "Retour d'expérience sur le brevet Gravel du BCJ Blandain (mon 1er evenement gravel)"
+author: "jeremy.duchemin@gmail.com"
+date: 2023-08-26T16:30:38
+draft: false
+categories: ["cyclotourisme"]
+tags: []
+original_category: "blog-cyclotourisme"
+image: "https://lh3.googleusercontent.com/pw/AIL4fc_ZJx0-r1Gkn25fXh3yDUuGH0BPHB7I-KTKl_7oH9rhKaeZgslnT_AmphhIvORQIaSM48PDcnMMOPChC4Lh2WZYfrY_7pnQ7vC3wogtstK_o0d9gB-OJjp7H0B2CdYAkz09CRMBu_Ig5q5KdCJbE6RXPw=w1785-h1005-s-no?authuser=0"
+links:
+  - title: "LES PHOTOS"
+    website: "https://photos.app.goo.gl/ZG2iNJs1NdTiSUVT7"
+---
+
+Retour d'expérience sur le brevet Gravel du BCJ Blandain (mon 1er evenement gravel)
+
+<!--more-->
+
+[![Image](https://lh3.googleusercontent.com/pw/AIL4fc8UpJZshiIo3aTO_gAJoRylfNzQ0dE2cVUEFgVq8ojEn14GSxl-5jLvfBSjiUN6GKCjy0kxHH1VqGM4FlVmkL8BVzty4eEk9fAvR4wJBLZCqSVPEJ5T1QeJgPTDu9HH3G7GSIr-YvRCgraNHag1GVbByQ=w1785-h1005-s-no?authuser=0)](https://lh3.googleusercontent.com/pw/AIL4fc8UpJZshiIo3aTO_gAJoRylfNzQ0dE2cVUEFgVq8ojEn14GSxl-5jLvfBSjiUN6GKCjy0kxHH1VqGM4FlVmkL8BVzty4eEk9fAvR4wJBLZCqSVPEJ5T1QeJgPTDu9HH3G7GSIr-YvRCgraNHag1GVbByQ=w1785-h1005-s-no?authuser=0)Distance retenu 65km, je le fais avec des amis que n'ont pas beaucoup d'expérience en Gravel ni en longue distance.&nbsp;Je pars de Sequedin de bon matin avec le soleil et une T° agréable , j'arrive sur place au bout de 29km.&nbsp;Inscription sur place en donnant mon N° de licence , pratique et rapide !
+
+La ce qui change par rapport au VTT et Route, tu ne peux pas partir sans avoir téléchargé la trace GPX, car il n'y a pas de fléchage pour le Gravel (et c'est valable pour tous les event pure Gravel).&nbsp;Donc effectivement les gens pas familiarisé et ou sans compteur GPS/ ou smartphone, il ne leur sera pas possible de le faire.&nbsp;Sur place, les organisateurs accompagne ceux qui ont des difficultés a integrer le parcours sur le periphériques de navigation.&nbsp;Bref, je connaissais ce détail, je n'ai pas eu de difficulté a le faire ![Image](https://static.xx.fbcdn.net/images/emoji.php/v9/ta5/1.5/16/1f642.png)
+Allez c'est parti avec les potos pour 65km de gravel , pas evident au début car on a tendance a vouloir suivre le flechage VTT... mais non faut pas !!
+[![Image](https://lh3.googleusercontent.com/pw/AIL4fc-ao8CLd6M3PQKaPPThBm9Ev4MYANj8YrV_b54Yza34iz5XfZwXegRXocUeAo0Hz-57PQRl2f2bDEqcnNwDfYgngcIaQBB6ZxCMSEnA8hesQEX8vLdh2AO1ASgJ9o-elg-ANlXc2vdAMd46OpQNBDkwcvs-yyTNQo7kpiKC8oqN_gqZs6ZTLRytfKrXknxMHJDHcXotlN7OGRKJE6N9nVpEFcUP7KRZpGbeZYDrdvg4XwfImP7zt3vdosaetNLdjQTFZlzWDB-2XJmXXQLZX_TpmW2ownn7Y2FDlIiu1jVj_-AF5ujY5s5yKSUzKkZIldt1dxGnLt_IynA86KXxpK9PHIyyKasXMPRiqlV2rIXn5d7yo2Pv2JODpAhtKIPSnPn9ehYbzzr85lT46g1BDNvihZBpO7BuRyIyP72k80jriXy_2B_u2kLGiyky61AgIRSWzINteQpz4tC55ZHI3mNeSqLYZvUo4Pt9Hc7zpUz_41-skIz6RZsc34qNFCORd2Q_IhKF9ZXxE1SvX9zvDGgNY6vsYrXPklVdTuEC6RHCyvTV7saFdlWvHb-VSGIzsCEYcwimVSfAeP42etyqnK5QAGeqe4fPowrHcSJ1-IW1EaAU-U9jdw5VcXd9OPo4SE-S9Gi8c8-Nrp4Lu7bNgd1vrnAg44fLUG1JZni0GKdbOdOip5EO9EF72jNxJ2YlHF5ZtlBIVSYRqDC8il79unNNvubHKAQPHtFjUhOzRG47-ynedWBpnYTU97pwwRvMl8VSJhhV2YZ-p6oBRF64yDE5kQMPc505xTlTl2nXcYANr1ugtFHJpbTJgiy7t94uqWisR-YF_cKFTka0XvoVOzLc0oC8sVLQmmrd2R8Du7He9dsp221riN922KyHk_gQniggJkicLsXMIQnNnWrquWbk668OgiW62Hku36-IJ6_IOpgDe_s2dC0aCq_h_8s=w1785-h1005-s-no?authuser=0)](https://lh3.googleusercontent.com/pw/AIL4fc-ao8CLd6M3PQKaPPThBm9Ev4MYANj8YrV_b54Yza34iz5XfZwXegRXocUeAo0Hz-57PQRl2f2bDEqcnNwDfYgngcIaQBB6ZxCMSEnA8hesQEX8vLdh2AO1ASgJ9o-elg-ANlXc2vdAMd46OpQNBDkwcvs-yyTNQo7kpiKC8oqN_gqZs6ZTLRytfKrXknxMHJDHcXotlN7OGRKJE6N9nVpEFcUP7KRZpGbeZYDrdvg4XwfImP7zt3vdosaetNLdjQTFZlzWDB-2XJmXXQLZX_TpmW2ownn7Y2FDlIiu1jVj_-AF5ujY5s5yKSUzKkZIldt1dxGnLt_IynA86KXxpK9PHIyyKasXMPRiqlV2rIXn5d7yo2Pv2JODpAhtKIPSnPn9ehYbzzr85lT46g1BDNvihZBpO7BuRyIyP72k80jriXy_2B_u2kLGiyky61AgIRSWzINteQpz4tC55ZHI3mNeSqLYZvUo4Pt9Hc7zpUz_41-skIz6RZsc34qNFCORd2Q_IhKF9ZXxE1SvX9zvDGgNY6vsYrXPklVdTuEC6RHCyvTV7saFdlWvHb-VSGIzsCEYcwimVSfAeP42etyqnK5QAGeqe4fPowrHcSJ1-IW1EaAU-U9jdw5VcXd9OPo4SE-S9Gi8c8-Nrp4Lu7bNgd1vrnAg44fLUG1JZni0GKdbOdOip5EO9EF72jNxJ2YlHF5ZtlBIVSYRqDC8il79unNNvubHKAQPHtFjUhOzRG47-ynedWBpnYTU97pwwRvMl8VSJhhV2YZ-p6oBRF64yDE5kQMPc505xTlTl2nXcYANr1ugtFHJpbTJgiy7t94uqWisR-YF_cKFTka0XvoVOzLc0oC8sVLQmmrd2R8Du7He9dsp221riN922KyHk_gQniggJkicLsXMIQnNnWrquWbk668OgiW62Hku36-IJ6_IOpgDe_s2dC0aCq_h_8s=w1785-h1005-s-no?authuser=0)Le gravel sur des chemins qu'on ne connait pas n'est pas focément evident et il ne faut pas foncer , car il faut bien suivre le GPS qui nous fait passer par des tous petis chemins et on peut facilement les louper.&nbsp;Dans l'ensemble on s'en sort plutot bien !&nbsp;Sur le parcours , on nous envoyer monter le St Aubert 2fois avec a chaque fois une partie hors route, encore plus dure que le bitume ![Image](https://static.xx.fbcdn.net/images/emoji.php/v9/t1a/1.5/16/1f62e.png) mais super beau !&nbsp;on passe aussi dans des petits single en Belgique ou mon GPS avait du mal a être précis.
+On a longé aussi un peu le canal, passé par des petits chemins cachés dans les villages, du pavé et des passages rempli d'orties ![Image](https://static.xx.fbcdn.net/images/emoji.php/v9/taa/1.5/16/1f603.png), c'était vraiment sympa !&nbsp;
+J'espère trouver d'autre évènement gravel , car cela change beaucoup par rapport au brevet route la tête dans le guidon !
+La on est obligé de lever la tête et on en profite pour admirer les paysages ^^
+Une fois arrivé, en Belgique point de sandwich et boisson (il faut payer, c'est un peu le regret cotes Belge, par contre les ravitos sont toujours aussi bien et copieux !)
+Il était temps de rentrer par d'autre sentier avec un petit 28km ce coup ci ![Image](https://static.xx.fbcdn.net/images/emoji.php/v9/ta5/1.5/16/1f642.png)
+Un dimanche de gravel a 120km, plutôt content de moi ![Image](https://static.xx.fbcdn.net/images/emoji.php/v9/ta5/1.5/16/1f642.png)

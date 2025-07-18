@@ -1,0 +1,19 @@
+---
+title: "2024.03.10 Course de Rieulay et Eppeville"
+description: ""
+author: "vpoullier"
+date: 2024-03-12T06:38:41
+draft: false
+categories: ["news"]
+tags: []
+original_category: "publique"
+image: "https://lh3.googleusercontent.com/pw/AP1GczMrbqsM9GcPXDn7tMLFV1x7ICtnPkfg-Z5jVdEOaDpHRXHB5E_jZVCqotz3Z6oIp7k9JseFzcwlusrdxvOOzPZPTtbJt9Ixl7DUcG5DWk80X3_xV3rfEHeowFVqeLfTo-d5CBinw9Y8RaTL54MzWGd9VQ=w1418-h945-s-no-gm?authuser=0"
+links:
+  - title: "LES PHOTOS"
+    website: "https://photos.app.goo.gl/F81mUb6aQdqRNiRy9"
+---
+
+[![Image](https://lh3.googleusercontent.com/pw/AP1GczPjkzarIhgCECOilvMF3iAVme5GxM--e7TUA94JGxmHgsv7pTGTbDlRnfephzs2sfpi9koU8mcOIvFnWuhKwfwR5QhQiXuxuVW--zAKYZPp8lV55pheJK7eQIRraVnOpsJVXaT85FG6ibflateeLMMm22DcE6dfzW4eyZMip12f7V4L_vCkjx30bxnZPomcHzf4L7M1HAuKK00vmgNbPV1NqT01NJ7RC3wyKiZtvzr8vNgFHn3OA5D9SmXGAgIuioC5_5eQaRqmiq4y6AQGPDZecYk0riM5UzG3D8Ss5Hu8METsL3Wr9V75gsRWG4j2UpPnK8wpm1DtWN-1NsYutCgK1q3wkjos3Yl2djM9gHVZj276Ytm9owBZ7WwiKjacmhf6iIX5CvQl6Lj-zck68Vx6GxuvwSxJIseZWxuInPa8zirxHArJAzhaXwyEQEjg8dlif-FFBpFuusxJqHVmoNfPjsMdq6ZN-DHG_nR-1F6ONrEigUnheslnif0Yi8eS5H8qCvwUd7URiHhJLYFoi3fHjc7yuIpC-5nVCCAZjb20Zxi6a9uXwq_GMLHb_IDe3-2YmguXJd1fr9V-fxPUqOLKRwKssYPxqnWM-8qWsNYR9Gc0rgz1QktZHS1tCiJ3fGWmKfgAivSsZj7XgDO3xQTq3z6q6vLTAndHMVaAqCVbBnjlmPRP93xBLQl3q73cgSn0ER2fSc9376P_zf4hEgjc3Gd3sWhHtu6lkxvbF_ZgP4PTVdC7QDVMGmgX8u-S-R3q9AabPD1yP_XzWMtYbWExFdSJMkVkRxwjt7oWVOS2Ic5Mi0fOlUlUam5mQfU57Bc3ZYXbbLen4OiyNNO3Et9spR7MW8YNTYHhxOIA31ndVJ22j2ey_wtok4rOkXpzNdykxScAo080Ai1eaXJo7s0i=w496-h331-no?authuser=0)](https://lh3.googleusercontent.com/pw/AP1GczPjkzarIhgCECOilvMF3iAVme5GxM--e7TUA94JGxmHgsv7pTGTbDlRnfephzs2sfpi9koU8mcOIvFnWuhKwfwR5QhQiXuxuVW--zAKYZPp8lV55pheJK7eQIRraVnOpsJVXaT85FG6ibflateeLMMm22DcE6dfzW4eyZMip12f7V4L_vCkjx30bxnZPomcHzf4L7M1HAuKK00vmgNbPV1NqT01NJ7RC3wyKiZtvzr8vNgFHn3OA5D9SmXGAgIuioC5_5eQaRqmiq4y6AQGPDZecYk0riM5UzG3D8Ss5Hu8METsL3Wr9V75gsRWG4j2UpPnK8wpm1DtWN-1NsYutCgK1q3wkjos3Yl2djM9gHVZj276Ytm9owBZ7WwiKjacmhf6iIX5CvQl6Lj-zck68Vx6GxuvwSxJIseZWxuInPa8zirxHArJAzhaXwyEQEjg8dlif-FFBpFuusxJqHVmoNfPjsMdq6ZN-DHG_nR-1F6ONrEigUnheslnif0Yi8eS5H8qCvwUd7URiHhJLYFoi3fHjc7yuIpC-5nVCCAZjb20Zxi6a9uXwq_GMLHb_IDe3-2YmguXJd1fr9V-fxPUqOLKRwKssYPxqnWM-8qWsNYR9Gc0rgz1QktZHS1tCiJ3fGWmKfgAivSsZj7XgDO3xQTq3z6q6vLTAndHMVaAqCVbBnjlmPRP93xBLQl3q73cgSn0ER2fSc9376P_zf4hEgjc3Gd3sWhHtu6lkxvbF_ZgP4PTVdC7QDVMGmgX8u-S-R3q9AabPD1yP_XzWMtYbWExFdSJMkVkRxwjt7oWVOS2Ic5Mi0fOlUlUam5mQfU57Bc3ZYXbbLen4OiyNNO3Et9spR7MW8YNTYHhxOIA31ndVJ22j2ey_wtok4rOkXpzNdykxScAo080Ai1eaXJo7s0i=w496-h331-no?authuser=0)Encore de beaux résultats en course ce week-end:
+🏆🥇2ème week-end de course et 2ème victoire pour Robin L ce week-end à Eppeville(80). 💪
+🚴‍♀️🥇Côté jeune, reprise des compétitions pour Zélie et podium : 1ère féminine et 1ère au challenge CCCO.. Elle annonce la couleur dès le début.
+👏Bravo à eux et à l'ensemble des participants!

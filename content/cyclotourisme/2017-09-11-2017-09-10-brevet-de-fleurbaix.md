@@ -1,0 +1,36 @@
+---
+title: "2017.09.10 Brevet de Fleurbaix"
+description: "Nous étions une quinzaine de cyclos à repésenter le CCW au brevet de Fleurbaix."
+author: "gmbourgois@gmail.com"
+date: 2017-09-11T08:27:59
+draft: false
+categories: ["cyclotourisme"]
+tags: []
+original_category: "blog-cyclotourisme"
+image: "https://lh3.googleusercontent.com/fH4WBebPgGZmAvsuGFiJqQdHc9Mmdg1El_XlRMHRIxJuaCAYLq-GjwTgY7DWCEvjUHMWPtkOu_qAVHaSV3qL68PeSVh7jiz4S867P-0gtJWO_coMoiQVgAXdw8SH5iufQjLStgrbIASg6YBMP55862zv8zoqDiy7ppc1_amPK93hlH4mcJspdZocmq5SdHYgD2x_U_AGXFYWNzFghbuaYbCSE0snKEK4D0Ga8U6DOnPdQgjTuKGYLTXlAPhKk4x_g7C0yVYsusYPJFbI6PtKe4vtx-S8Lbl5kDebhSDGDee2z5er5i1sYLRS2-Gx_zNMp5XCo3ktm_cYtMoJtFu1gHqtvkAMiAgbmAKUijk7PzJacwYq9cSpR_eiuD7mj43fb8fAp6Z-Mgvt0tqBUwS1IlCCFVUMfsLFPJ60jLO4oofHYkxZNusVOFenjImrb2QZJ_dY7woHaPnhLguPfnnac1AeDUTluArLzRtP9zYhBD846c2A-0xUXJdjXD5g42pVViedRcD4NKtJN2JKegboC6c_NWQ-9SdTPUbGU7WUKN2hisD5vFmcHEiras8raLYHDlBM5pLGK3MkH5qJBJTkYGP7vzUdilHaY9-IFFwxTadVhPOfAy3N8LwjS8k1Ylzqcm2oHfzH3pXxDo75oq9XBIUc6VNjjd238wz6oWkOmZEyV64=w918-h688-no"
+links:
+  - title: "Quelques photos"
+    website: "https://photos.app.goo.gl/5w4GYueBBkfb8oJT2"
+---
+
+Nous étions une quinzaine de cyclos à repésenter le CCW au brevet de Fleurbaix.
+
+<!--more-->
+
+Départ vers 7h35 de Wavrin sous la direction de notre homme de base Pierre-Gilles.
+
+[ ![Image](https://lh3.googleusercontent.com/fH4WBebPgGZmAvsuGFiJqQdHc9Mmdg1El_XlRMHRIxJuaCAYLq-GjwTgY7DWCEvjUHMWPtkOu_qAVHaSV3qL68PeSVh7jiz4S867P-0gtJWO_coMoiQVgAXdw8SH5iufQjLStgrbIASg6YBMP55862zv8zoqDiy7ppc1_amPK93hlH4mcJspdZocmq5SdHYgD2x_U_AGXFYWNzFghbuaYbCSE0snKEK4D0Ga8U6DOnPdQgjTuKGYLTXlAPhKk4x_g7C0yVYsusYPJFbI6PtKe4vtx-S8Lbl5kDebhSDGDee2z5er5i1sYLRS2-Gx_zNMp5XCo3ktm_cYtMoJtFu1gHqtvkAMiAgbmAKUijk7PzJacwYq9cSpR_eiuD7mj43fb8fAp6Z-Mgvt0tqBUwS1IlCCFVUMfsLFPJ60jLO4oofHYkxZNusVOFenjImrb2QZJ_dY7woHaPnhLguPfnnac1AeDUTluArLzRtP9zYhBD846c2A-0xUXJdjXD5g42pVViedRcD4NKtJN2JKegboC6c_NWQ-9SdTPUbGU7WUKN2hisD5vFmcHEiras8raLYHDlBM5pLGK3MkH5qJBJTkYGP7vzUdilHaY9-IFFwxTadVhPOfAy3N8LwjS8k1Ylzqcm2oHfzH3pXxDo75oq9XBIUc6VNjjd238wz6oWkOmZEyV64=w918-h688-no)](https://lh3.googleusercontent.com/fH4WBebPgGZmAvsuGFiJqQdHc9Mmdg1El_XlRMHRIxJuaCAYLq-GjwTgY7DWCEvjUHMWPtkOu_qAVHaSV3qL68PeSVh7jiz4S867P-0gtJWO_coMoiQVgAXdw8SH5iufQjLStgrbIASg6YBMP55862zv8zoqDiy7ppc1_amPK93hlH4mcJspdZocmq5SdHYgD2x_U_AGXFYWNzFghbuaYbCSE0snKEK4D0Ga8U6DOnPdQgjTuKGYLTXlAPhKk4x_g7C0yVYsusYPJFbI6PtKe4vtx-S8Lbl5kDebhSDGDee2z5er5i1sYLRS2-Gx_zNMp5XCo3ktm_cYtMoJtFu1gHqtvkAMiAgbmAKUijk7PzJacwYq9cSpR_eiuD7mj43fb8fAp6Z-Mgvt0tqBUwS1IlCCFVUMfsLFPJ60jLO4oofHYkxZNusVOFenjImrb2QZJ_dY7woHaPnhLguPfnnac1AeDUTluArLzRtP9zYhBD846c2A-0xUXJdjXD5g42pVViedRcD4NKtJN2JKegboC6c_NWQ-9SdTPUbGU7WUKN2hisD5vFmcHEiras8raLYHDlBM5pLGK3MkH5qJBJTkYGP7vzUdilHaY9-IFFwxTadVhPOfAy3N8LwjS8k1Ylzqcm2oHfzH3pXxDo75oq9XBIUc6VNjjd238wz6oWkOmZEyV64=w918-h688-no)
+
+&nbsp;
+
+Le groupe qui se rend au brevet de Pérenchies nous quitte à Radinghem.
+
+&nbsp;
+
+Inscriptions à Fleurbaix après 15 km, sur les différents parcours proposés (Cf. Carte-photo jointe).&nbsp;Les routes empruntées sont connues de tous et agréables, les voitures étant rares. L'air frais mais le soleil radieux, ce qui nous réchauffe un peu. Retour à la salle entre 10h30 et 11h30 pour déguster l'habituel sandwich avec une boisson.
+
+&nbsp;
+
+Le retour sur Wavrin est plus difficile que prévu à cause du vent.&nbsp;
+
+&nbsp;

@@ -1,0 +1,31 @@
+---
+title: "Assemblée Les Retrouvailles du 8 février 2020"
+description: ""
+author: "jpamielh"
+date: 2020-06-08T13:48:51
+draft: false
+categories: ["documents"]
+tags: []
+original_category: "documents-licencies"
+---
+
+Les retrouvailles du samedi 8 février 2020
+
+Après un petit café d'accueil avec nos ecocups, la séance est ouverte à 14H30.
+
+Nous sommes une soixantaine avec plusieurs personnes excusées par mail, ce qui montre l'intérêt de ces absents à la bonne marche du club.
+
+La réunion se fait à l'aide d'un **[Power-Point](https://docs.google.com/presentation/d/10NO-CLwrVFKP5qWfGjBuz6dRqXbb42wNc4RxzRJBt-U/edit?usp=sharing)** et pour vous aider à mieux le comprendre vous trouverez ci-dessous quelques explications complémentaires&nbsp;:
+
+**Slide 1&nbsp;:** Pour les nouveaux adhérents Jean-Paul explique le nom de l'assemblée&nbsp;«&nbsp;Les Retrouvailles&nbsp;». Ce n'est que depuis quelques années que les cyclos roulent toute l'année il y a encore quelques années pendant les mois de décembre et janvier l'activité cyclotouriste était pratiquement nulle et le premier brevet se déroulait souvent fin février. Le club, pour motiver ses troupes a donc instauré cette assemblée pour informer ses adhérents du déroulement de la saison à venir et de ses projets et l'a tout simplement appelée «&nbsp;Les retrouvailles&nbsp;».
+**Slide 3** : Jean-Paul explique que la charge de travail est assez lourde car il faut scannériser le certificat médical, le stocker et réaliser le renouvellement sur le site. Il souhaiterait que cette opération soit faite en 1 ou 2 fois et surtout qu'elle soit terminée dès début février car là commencent d'autres tâches comme la préparation administrative de notre randonnée. Cette remarque est principalement adressée évidement aux retardataires.
+**Slide 5**: Intervention de Geoffrey pour expliquer le déroulement des entraînements coureurs. Vous trouverez ses explications sur le site à l'onglet Accueil puis Les entraînements vélo&nbsp;: [http://www.cyclo-club-wavrin.fr/index.php/accueil/les-entra](index.php/accueil/les-entra)înements/entraînement-velo
+**Slides 6 et 7**: Petit rappel sur l'organisation de Lille Hardelot avec les départs échelonnés, la possibilité de ne faire que les 80 derniers kilomètres avec Guy, le retour en bus après le repas pris en commun et surtout l'annonce d'une participation spéciale de notre Sponsor Avime (Jean-Philipph00 ) pour cette sortie que l'on répercutera sur le prix du bus et du repas. Vincent en profite pour remercier nos sponsors ou plutôt nos partenaires Jean-Philippe, Samuel et Rémy qui n'hésitent pas, en plus de leur engagement financier pour 3 ans de nous aider ponctuellement par des ajouts financiers ou carrément par le prêt des véhicules pour certains transports. Pierre intervient pour présenter le menu, le lieu du repas ( à Boulogne) et en profite pour inviter les participants à consulter le parcours avec ses nouveautés.
+**Slides 8 et 9&nbsp;**: Vincent explique la volonté du club pour l'incorporation des jeunes. D'autre part il demande à tous de ne pas commenter sur les réseaux sociaux l'arrivée sur Wavrin du nouveau club de Triathlon, il n'y pas de concurrence, le temps simplement fera son effet.
+**Slides 10 à 36**: Vincent aborde un gros morceau de la séance qui est l'organisation de notre randonnée. Certains problèmes sont résolus en séance avec l'acceptation de Johan et Daniel de prendre la responsabilité des ravitaillements du 60 et 100 km. Nous tacherons de les aider au maximum et surtout de répondre à leurs interrogations. Vincent demande à tous de se positionner sur l’organigramme sachant que ce jour là **on ne roule pas**. Il demande aux absents de cette journée de nous prévenir très rapidement par mail. Soyez tous attentifs à vos mails car au fur et à mesure de l'approche de la randonnée nous vous enverrons des mails pour l'organisation du fléchage route et VTT, des contrôles route et VTT ainsi que pour le défléchage du lundi. Surtout si vous êtes absent du tableau nous le signaler afin que l'on vous affecte une mission.
+**Slides 37 à 47**: Second gros sujet de la séance&nbsp;: les nouveaux équipements. Les nouveaux équipements sont présentés en séance mais malheureusement nous les avons retirés de la présentation car nous ne voulons pas qu'ils soient diffusés avant la livraison aux adhérents c'est à dire début septembre. Vincent annonce qu'il y aura 3 séances d'essayage, les 28/02, 7/03 et 14/03 de 9H 17H salle de réunion du Moulin au centre culturel du Moulin, salle à l'entrée 3 rue Roger Salengro. Vous serez avisés aussi par mail des dates, heures et lieu ainsi que des groupes de préférence cyclos, coureurs et triathlètes afin d'éviter une longue file d'attente. Si d'ici la fin du mois vous n'avez pas reçu de mail de la part du club pour ces séances d’essayage veuillez nous contacter car parfois certaines adresses mail sont rejetées et nous ne pouvons rien faire, pensez aussi à aller voir dans vos spams. Vincent et Laurent expliquent le long cheminement du projet et surtout les négociations pour obtenir de beaux prix. Laurent explique que si nous avons obtenu de tels prix c'est grâce à nos partenaires, à la bonne gestion de notre club et à la négociation tarifaire avec le fournisseur. On arrive quand même à vous proposer un maillot à 15 euros, défiant toute concurrence, ce qui nous permet de souhaiter que tous vous prendrez au minimum ce maillot afin que lors de nos sorties du dimanche nous ayons une parfaite unité. Comme vous le verrez sur les slides Laurent explique le principe des réductions en prenant plusieurs types d'équipement. Tout cela, si nécessaire, vous sera expliqué lors des séances d'essayage.
+**Slide 48**: Pierre fait un point sur l'organisation des Stages du Soleil, sur la participation à L'Ardéchoise . Il annonce la reprise prochainement des longues sorties la semaine et qu'il travaille sur le séjour certainement dans le Jura de début septembre sur 3 ou 4 jours
+
+La séance se termine vers 17h avec le pot de l'amitié.
+
+…................................................................................................

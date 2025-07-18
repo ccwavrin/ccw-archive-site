@@ -1,0 +1,50 @@
+---
+title: "2021.12.19 Course VTT Bousies et Haisnes"
+description: ""
+author: "vpoullier"
+date: 2021-12-22T06:57:55
+draft: false
+categories: ["courses"]
+tags: []
+original_category: "blog-courses"
+image: "https://lh3.googleusercontent.com/TTzWQv5Ra8wkplut9yTQgEkY6N8ZdMwGydEevqIJZqAnny7RiWbkKZ4TmspZr3HpgYjnrK7964Lts-vnbSbfSYirebhcCp6l-HWf5_q1M6WvzyfvTQ25QEeD6QwwBUzYFsndifkVyN0FvKf-5fPWlETMPyRxqC17XZP0BSbxFKQxJeCj_Lq4sEMs4QoO-eAJonHIJnqA7sGUsTBrbKyJ-Dd0YT58XAXxtAMsb7ozUjewSA0XasFLHGAEHqhe7BJtn9tIOx5L-A4M5t1REO9B_fBCiSUDDwWPxwo6GS9w9dcgK7b_0o0m9rZCLgZnVBM5bfApSkgfTi3DAQNT4hQTiDlTutGQjDXWy3y7-SGFl7d3vaCwuevJU8yHIqEWZDbzLQK9Ewt3oUytDdVRE-SVYP6WoGwjoNhJzL-XhYQOYlt2Kdml98rLA738_u-GHt9cp80l6QIabXDeBsPMBEjZdENGN9aoOuBIaCYibU5QBV_zoVfzKR1EM8en_ynnbFr6ESZFoEpgQAW7Mq2Qg_R4eQzd84tMo6KDJI-bAzumdGHT0-hd5rg_sZ7LYd4_CZJak74PTyLovGYlVTNPQHfd1hGxqdTiwbVtCBcdfxVazVspJ0S8_wygbnDOPOv2hHoMwXCsv1wKSdVXVynipTLWCrhzs4hhc27zC_ah74Ac8VohqPKMQo4s__3wY-bl-duoFS4gbu5ERii06ptqxp4Uiv2k7w=w1250-h938-no?authuser=0"
+links:
+  - title: "LES PHOTOS D'HAISNES"
+    website: "https://photos.app.goo.gl/VXebXzX2iagGPA7t8"
+  - title: "REPORTAGE VELODOM BOUSIES"
+    website: "http://www.velodom-photo.com/vtt-ufolep-de-bousies.html"
+---
+
+[![Image](https://lh3.googleusercontent.com/kfsaj0K6Ts6I2CD3vP1AVIww-vtjf1vOBgbqr-BPZl702zOe7hnMjcKMZ6mBKv-1KWwbzJMNh1XmZnjFRMJnlNrwmqvO7cfnzW4YZFKOJoH_96LKH1Lg5FSlrtfL7mDnfAKDzTvfBoqasKXlHBehqe4sy6FsrZGM04BYYctpZCVNS5aLgAAFGFvmV8ie-iQ8cVZmrZKWp77ihgD9yuphmB5s9tBxE2msOe2aT4Yf6vvyT0MEg6TXYwkEx_4wdi6RuVDGJUBdAyNY141Ak3gybUVlVUm_GFcAtKvw4F-j6g16XFjt8V4Y-RoL7xJ-btw1EBoFDC3pWTJ3Y7_Gw14D1LSxJq0a2ty6KiCl40AkR2i2MkeQRdILuUtkbxdKuU1I2zPrYBLps-i1AREQPXN4cwXMldVB3Q5Hc06ptUkQ-SEUTRohN8fHjN4VsDNJogsrbbNgw7hf-jX4hIfFKZPwIBZ-suJi2CuyZgvQLsxzTYi3BPT96ernl79vWrpjtTO1r-tbO0tlHSm8_bqpHc-058klAoz31N9Xd2AjO5wn-9q7lhZjMEEwiBgH2R8OrSSI0op2bX6GMZPWOJuQh9FO174ILohvlRZ-Lpjbsnb2_6xx_pRMVDNh9scVboYAC6AslIpSuGp7rK1uOJ611txrZYY5BOcVzA80Zh_pH7PndKN-v2CJ3Ctm5vqRuVP_ouKNZdiz-TQQ0lC7ggPBgAUgUQWn=w521-h391-no?authuser=0)](https://lh3.googleusercontent.com/kfsaj0K6Ts6I2CD3vP1AVIww-vtjf1vOBgbqr-BPZl702zOe7hnMjcKMZ6mBKv-1KWwbzJMNh1XmZnjFRMJnlNrwmqvO7cfnzW4YZFKOJoH_96LKH1Lg5FSlrtfL7mDnfAKDzTvfBoqasKXlHBehqe4sy6FsrZGM04BYYctpZCVNS5aLgAAFGFvmV8ie-iQ8cVZmrZKWp77ihgD9yuphmB5s9tBxE2msOe2aT4Yf6vvyT0MEg6TXYwkEx_4wdi6RuVDGJUBdAyNY141Ak3gybUVlVUm_GFcAtKvw4F-j6g16XFjt8V4Y-RoL7xJ-btw1EBoFDC3pWTJ3Y7_Gw14D1LSxJq0a2ty6KiCl40AkR2i2MkeQRdILuUtkbxdKuU1I2zPrYBLps-i1AREQPXN4cwXMldVB3Q5Hc06ptUkQ-SEUTRohN8fHjN4VsDNJogsrbbNgw7hf-jX4hIfFKZPwIBZ-suJi2CuyZgvQLsxzTYi3BPT96ernl79vWrpjtTO1r-tbO0tlHSm8_bqpHc-058klAoz31N9Xd2AjO5wn-9q7lhZjMEEwiBgH2R8OrSSI0op2bX6GMZPWOJuQh9FO174ILohvlRZ-Lpjbsnb2_6xx_pRMVDNh9scVboYAC6AslIpSuGp7rK1uOJ611txrZYY5BOcVzA80Zh_pH7PndKN-v2CJ3Ctm5vqRuVP_ouKNZdiz-TQQ0lC7ggPBgAUgUQWn=w521-h391-no?authuser=0)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+Après de nombreux top 5 , 1ère victoire de Robin L &nbsp;samedi dernier à Bousies. 
+
+&nbsp;
+
+&nbsp;&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+[![Image](https://lh3.googleusercontent.com/_o5FvvI3NPDTofZKzMHRRTjashAkVcQIyXLp5k7kPy9kzc5BPj1seBeTtvAzK0IcC1pux_LmOWKS0zSEtAWJfgzVbnvpfsXFOcNmdnkbBbocWXnppLg8ABwwWanjC0VJPugUs_uXGrnPgmmkeCKYvxPqSacZO6n9WYrA_m3u04mtZ3Xg7gM-Ilb9tIjnvD31Y_yofblsrJLliwFzoZG0sMq1rZALBGhssNm0cIsCj3_f44a-hV-m7ovZvP8BHBpThzs81Pck0FBh1hgjEwjqmopVeKIZeXSB_lCCwCuFYb4AQD0UFP7o4nmlUsVTzW38DU6sIwwSKBievQpKf_5vYm9Ja81qxuGDmAHbtoi6PyLVSOYoRLxa5e_e5BxAXJdorUHGNXB8hYtHGDdA3iHk-UOSnaAw61wzYsNuG1cGI11YSUsp3pKzDmxSu7xuiHWF16tx6v-6iZvVaYxjINxc4DgNNQw2-WTLa5wdDMaBWhcOlpEZE_khfPKotS1lhfGml0xytrfIOM94txumDES8zJBN4aenGkx_zhlNOZX5iXVRG9qxR1eDyOO2jfv3P271ftbIWf-S42XkuJkQY6PvmcsCd0HgigYB8s86DFmGBHOdo8_s4L27GpSUKLwGwOl-zeCevgDdTACrdwB2cHLRILCSnoi8BifySh4jh94qtAXsw3FVJ-HeMv7cLRsZvsuLWaz0YWTFru7ChTqvJeiVxqLV=w938-h703-no?authuser=0)](https://lh3.googleusercontent.com/pw/AM-JKLVFIiHXRp9NlpI1xCEG8_3NJCxx9nw-iTaTYMm_ySXdmxYqKORpwx4Y87tjvcwJ1ys0IoGSyveLeogq5Tk21v9hvLh_RlLo_BgCPKRw2jE6loq2MYkQeKFE5Eukok44KaemhRP8lzioC5axJ_CJkslTcw=w1205-h904-no?authuser=0)
+
+&nbsp;
+
+Côté Jeune, Nathan fut 1er dans sa catégorie tout comme Axel le week-end précédent à Haisnes.
+
+Une belle fin de saison pour notre club&nbsp;et l’année n’est pas terminée.

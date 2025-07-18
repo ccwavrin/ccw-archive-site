@@ -1,0 +1,998 @@
+<!DOCTYPE html>
+<html lang="fr-fr" dir="ltr">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Résultats et comptes-rendus de courses">
+<title>Courses</title>
+
+<link rel='canonical' href='http://localhost:1313/courses/'>
+
+<link rel="stylesheet" href="/scss/style.min.946cca6c6259ef94ac55abfae7c7bf3291ea3ed5eea17ef77500b257217c6710.css"><meta property='og:title' content="Courses">
+<meta property='og:description' content="Résultats et comptes-rendus de courses">
+<meta property='og:url' content='http://localhost:1313/courses/'>
+<meta property='og:site_name' content='Cyclo Club Wavrin'>
+<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2024-12-23T16:25:33&#43;00:00 '/>
+<meta name="twitter:title" content="Courses">
+<meta name="twitter:description" content="Résultats et comptes-rendus de courses"><link rel="alternate" type="application/rss&#43;xml" href="http://localhost:1313/courses/index.xml">
+    </head>
+    <body class="">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu_f509edb42ecc0ebd.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">Cyclo Club Wavrin</a></h1>
+            <h2 class="site-description"></h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                <span>Accueil</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/news/' >
+                
+                
+                
+                <span>Actualités</span>
+            </a>
+        </li>
+        
+        
+        <li  class='current' >
+            <a href='/courses/' >
+                
+                
+                
+                <span>Courses</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/vtt/' >
+                
+                
+                
+                <span>VTT</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/cyclotourisme/' >
+                
+                
+                
+                <span>Cyclotourisme</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/jeunes/' >
+                
+                
+                
+                <span>École de cyclisme</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/club/' >
+                
+                
+                
+                <span>Le Club</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Rechercher</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Dark Mode</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                <form action="/search/" class="search-form widget" >
+        <p>
+            <label>Search</label>
+            <input name="keyword" required placeholder="Type something..." />
+        
+            <button title="Search">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+            </button>
+        </p>
+    </form>
+            
+        
+            
+                <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-infinity" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M9.828 9.172a4 4 0 1 0 0 5.656 a10 10 0 0 0 2.172 -2.828a10 10 0 0 1 2.172 -2.828 a4 4 0 1 1 0 5.656a10 10 0 0 1 -2.172 -2.828a10 10 0 0 0 -2.172 -2.828" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Archives</h2>
+
+        
+        
+        
+        
+        
+        <div class="widget-archive--list">
+            <div class="archives-year">
+                    <a href="/archives/#2024">
+                        
+                            <span class="year">2024</span>
+                            <span class="count">62</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2023">
+                        
+                            <span class="year">2023</span>
+                            <span class="count">77</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2022">
+                        
+                            <span class="year">2022</span>
+                            <span class="count">71</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2021">
+                        
+                            <span class="year">2021</span>
+                            <span class="count">22</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2020">
+                        
+                            <span class="year">2020</span>
+                            <span class="count">37</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2019">
+                        
+                            <span class="year">More</span>
+                        
+                    </a> 
+                </div>
+            
+        </div>
+    </section>
+            
+        
+    </aside>
+
+
+            <main class="main full-width">
+    <header>
+        <h3 class="section-title">
+            
+                Section
+            
+        </h3>
+
+        <div class="section-card">
+            <div class="section-details">
+                <h3 class="section-count">152 pages</h3>
+                <h1 class="section-term">Courses</h1>
+                
+                    <h2 class="section-description">Résultats et comptes-rendus de courses</h2>
+                
+            </div>
+        </div>
+    </header>
+    
+    <section class="article-list--compact">
+        
+            <article>
+    <a href="/courses/2022-12-15-2022-12-10-course-ccx-vtt-jeumont/">
+        <div class="article-details">
+            <h2 class="article-title">2022_12_10 Course CCX-VTT Jeumont</h2>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2022-12-15T19:01:59Z'>Dec 15, 2022</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/pw/AL9nZEUs49oQvUinZY1ZkLVr-vty4kaJkAtH4SkqurKIBVWm9pdlPibc-sR2JF2HybpcIAJey_SRF-1b0rX0-CJ5wk4Q6FMPidPfTDrmHGEcEqkhgy51X2BiMFNOBZhtUuFLq2TLAOg9qncVn5kAlYKU8nAsag=w809-h606-no?authuser=0" loading="lazy" alt="Featured image of post 2022_12_10 Course CCX-VTT Jeumont" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/courses/2022-12-13-2022-12-10-entrainement-coureurs/">
+        <div class="article-details">
+            <h2 class="article-title">2022_12_10 Entrainement Coureurs</h2>
+            
+            <h3 class="article-subtitle">
+                Reprise des entrainements Route avec thématique en vue de la saison 2023 qui approche à grand pas.
+            </h3>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2022-12-13T11:00:01Z'>Dec 13, 2022</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/lunYSzcFtJ9GmF5OA8grZm18mOurknJonUA5dfH3EfUngCWt6rBg7P21FcKmD6nTjBEY0HIPXTUkxIUvoSILyMqmbJxbwwxZjve64bXZmtFVArc7_H_aqfKFH4oDS4_RBbmdDKTsuN_oLqPhtXQc00K0CzlGSu8T99u8U1U-Hce_Ub9TCu2PvQ6I-mH_y9LuOLseUvajKq7vQaWGDF-CYPgADrUDMvQHsxZaNF6Bu6DZMiv7uOdjFdzSJyo1_80af7UxkmGWSJuYGqayAv8gf2UwTZBClVLrMfbgeHevOlnlpoJku_BFRtO466Mm-vU_M0ENWlbCQNbKvusFMyOBse5gmyGfCXjQSXs9_j4PMjK2zYMA7vm1pqU8fTnfZkMgjqe8BRhuNkQUA2Ah0ijbaKbUL6OrNUrrqDaG7ec6d-UY1wGR7KDAPHwFo_mEpS1PnkmUG6inMdI22yYzb8W087onXS0geNTZsqtMFetwKIPead5z2qP2puBPjFJpmk3VKwzmYAM0Ku_-oPPwOEmd6fi3tRYMl1LADnSy1sLBhlxyHkMtdx3xObbg5QBhh7d62ha-L_1XNrrC7_kEqAtq4NwWYrTZ3MBpaKWhj3Im95TIRWpJ32IV32bA5J4wegV3VepbtBzO_0PIjEgh2qto9POzWdv_yKR04DGZ8wQlZA7R-hl2VpVAjneRhVXcuE0fc_vL0bSL0jNIU52yNa5_2NOm6c9-RDBghQzVivcx6bXbK3qiNE5YbOltlcLpyOs4oJtbYwV-Slt6ImnfF7QCGGMds7sCs1nv6Hd-1uY5nOshTnfXDWyCUjXJjdIC9XPrgVLQ9sFFdyBjQ4dsKBxU3I8g0CUXP_MsUP7yRxUjB0pDxFkwE9GOi5vrF7oB06IHACl4yvkwOyiH6IWccKAed9m32U4vgx1xJcrW-dz0NgKMBg=w614-h346-no?authuser=0" loading="lazy" alt="Featured image of post 2022_12_10 Entrainement Coureurs" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/courses/2022-12-09-2022-12-04-course-vtt-de-bergues/">
+        <div class="article-details">
+            <h2 class="article-title">2022_12_04 Course VTT de Bergues</h2>
+            
+            <h3 class="article-subtitle">
+                [
+ 
+ 
+De belles performances à Bergues le week-end dernier avec notamment la 3ème place de Vincent Plouviez et les nouvelles victoires de Tom D et du tandem Sam/Geoffrey. A noter  une belle 6ème place de Zélie.
+            </h3>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2022-12-09T17:21:51Z'>Dec 09, 2022</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/pw/AL9nZEU0b5CUoJcgO7zlzN7CU8psxyJHsxguBlj3XPJ0IDdbduJ01Oli5V8VLwIxuTEbvXw7fYSp69jk2I5L7q0FPnfCKgi_GaKKxT9BxPtoySVLrfSCl2rYNFmWyi5mWu-9l_dKUCiVAK4-COwfx2O8UvEqJQ=w1080-h810-no?authuser=0" loading="lazy" alt="Featured image of post 2022_12_04 Course VTT de Bergues" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/courses/2022-11-24-2022-11-20-resultats-course-run-and-bike/">
+        <div class="article-details">
+            <h2 class="article-title">2022.11.20 Résultats course &#43; Run and Bike</h2>
+            
+            <h3 class="article-subtitle">
+                En plus d’être active, la jeunesse nous a encoure bien gâté le week-end dernier.
+            </h3>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2022-11-24T17:33:43Z'>Nov 24, 2022</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/pw/AL9nZEX1HcdsbqConGopH49lV5-7iNlFMGRaW1XH2s45nzxRzMDsXAbekkwukBESDYFN_UpPiC_K_NpZDjoYUxm8KNaDJ4ep5YH9BJ_nbeyMzPTSaq0YSPDgMdpSoC3iJqrOSbIXFHbs5-AYXs3WZQsLnLpDFv9vgrQBObXEj2kgKhewHTZdrdS3tgpPJmOqlqH93aDLjcNW8xcKDcqWH_xuYyJVNXHJECSiBgBTysFbTj6qmWpkkBvC7_xnlkg6TD_URk43DIGYZOP28Lc8ZKKrp7sdjAi98drTsPk-T_dsFv58oyV4_A851dUXPYFH4KmDddrmGYNYct-9OQIDvDJg6rsGFL4bqA7Rkat7kDfFI9XaHYUecPx2hjhfOvE_PqHYEclPdciDX_w1nqE7Vih87FKiUmTtT2Tveg7m1u-GlLxXZ-lb8ND8kDj314ytNGxrCFVN3neofHMlQyTEqSPXzTyKrRNpawE7wP2UUhOs56LQW4ZSMUXkjxBLvAdnpKdoAAyeQT5d7CMjZ5o5dHLucqzGybFpLhL4U5WItOPeq9FVKke71VLdYv71c_Bow14gK-kDCE3SUZkeU48sG9h4WyirezHiGfcMB5pRQio7SwxOUm9K27wKb3FyJ5qLC_HlvrwqmDEsglw1X83pWrv32iiLmyutJugW18BubEBXrkp-ylncGui_4Xvbs9AgiEP3S56kPcZqtDKfm8SUSaInrgfX78AHHZv4dK8KouNTmt5XaY9iXYUg5IBi5bdbAUjCuBUWI99TPBLXAF-3wp9Dz9xBAAIzPND9RxlYUZOlHQRia1UOQnKltv-iwvPZnmDhbC8ede-uMIzgnhNNlrdV1K-LS4heEJX_HFh72QZKFbjkaNMmMVREBSVwx7sGDA4VY9zP_PCEhmjMPw_z3bgc-tGzNEvzuRB2np26BELamCToC6pcbqA-U5taYHs9DdJrEuadCmr7kUiD5wfvbVwj8XnD7A7w_zHGY0_A=w752-h938-no?authuser=0" loading="lazy" alt="Featured image of post 2022.11.20 Résultats course &#43; Run and Bike" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/courses/2022-11-16-2022-11-16-course-ccx-vtt-btwin-village-lille/">
+        <div class="article-details">
+            <h2 class="article-title">2022.11.11-13 Course CCX/VTT BTWIN VILLAGE - LILLE</h2>
+            
+            <h3 class="article-subtitle">
+                Encore de beaux parcours ont été proposés vendredi et dimanche lors des courses d’Henin-Beaumont et du Btwin Village.
+            </h3>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2022-11-16T19:30:12Z'>Nov 16, 2022</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        2 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/pw/AL9nZEW5LbclFY_7X4UXafJJIxKwfXm6po1sPEMMLdp6SdgMtxLQbrcAT6TgsN1Pvzz65xRJ9lKehy6ChAv4pwhOBZr8S5dRypYbJtjIscdabxR0pK8snXC5Pra_jtzVshGV_u95B8cNHh2qwhVHq0Ce5jpsDA=w1321-h880-no?authuser=0" loading="lazy" alt="Featured image of post 2022.11.11-13 Course CCX/VTT BTWIN VILLAGE - LILLE" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/courses/2022-11-07-2022-11-06-course-vtt-auchy-les-mines/">
+        <div class="article-details">
+            <h2 class="article-title">2022_11_06 Course VTT Auchy les Mines</h2>
+            
+            <h3 class="article-subtitle">
+                Un bon bain de boue et des conditions bien difficiles ce dimanche pour les coureurs à Auchy les Mines.
+            </h3>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2022-11-07T17:55:01Z'>Nov 07, 2022</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/n5aKaC3Ifsj8GZVZ2j4q6V_sANRnfdG_5DrkJwSs05ZI_nI7j1b8WUxlLmxClEdIIV-VvYp1aq6KQtimAW9aE2hjKystcAvPcCCcxrriwUw4TYqznwvlLdIvz4mU1U8IlTlwTKwwaCIDQan_iTB1Dfmk1CLk5DlSd83tbCItlK83oepFB_jVGT0f14VGHFcB9c6QwtGxxmCQdL_P6aFG81TtiCdXBBezpyzGfF3u_IH5_A-j2mT6AYJig5enZTVzVtn7a2oJDRfDrog3-5bYcBELn7HuFE189HaFrwsip2VEagoV2G9xjuPP7txeKWOVmtEMlp9RCjO0UIAcNp4HUPNj9lDpr7WfUOURHIlK-RO0BgXlxUQ4XlXM6v2R65qWD_f2BeJg9CVa-8CtXH6ieQ7xL-0Za0MVyTgGDhj8SWxVB5RdOi8hrCVQVhND7O9Cuo2aAU4FShFc84mvKa_Nr7dwU2y940NeWL0miN-T5Hc840Knwb1RsaEm7lRf0s6VqMxPT5evlOoN8y5VFmmOtpDeuMsrW9qrfBUAsCxSm5V9sWaJS4ta04WfrLEcVrEWxbEzhXkArlpZDVe6v34-NB6RfF3xkNfEqP5fYMLhPoXAtE-H9jcC22Sp9G_45qnE2kUAAcHJ9EpReozuXhQ_KK-Ne1_uG5zk-4n3bTLuTI61nTujG1x7nW-NItf22IlR5avM40-6PgdYFFLMOI3i6gj0_5jN-4KvtaMt_hl-iLa0JolPtRbLVc9EndAkBHjGfb97i1PjnZVVNXmbh_DYxdTVBcC657I4B8v6iV954fwVTVeUA0D-nEBQMLCnPTEpOf2tA4cuR6Sslj-8AmAzsxpUBGwMAi_24dH6ocmt7ocPuV7cNzul-7-86UpXDeZG5Rfy_BfMQs9mS9Ryk_sZBSxwJuH0yhKSPC6OY16tMuGfoqIf2G4lLeBPHLd1wRCkGsXoaxfTa2itlpDU00j9VIxyV4jzUplXtksv4BuJWz9AT8jNi8RR-x5VPgo=w1560-h878-no?authuser=0" loading="lazy" alt="Featured image of post 2022_11_06 Course VTT Auchy les Mines" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/courses/2022-11-03-2022-11-10-1er-30-29-fourmies-halluin-vermelles-2/">
+        <div class="article-details">
+            <h2 class="article-title">2022-11/10- 1ER/30/29 Fourmies, Halluin, Vermelles</h2>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2022-11-03T16:33:17Z'>Nov 03, 2022</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/TPlhOzQwFQ-QR5aT9HbsUw3KxOT3Z-NBVD7Kq8ab7eKsYJxIjaOghC8jl7qgz9pv6oxh5BPlL2AyUWoDbK5WtdmOd54fRDCETgOh5hpK_W6TpVEv_4jqSsAmW-qEhDnaXX_re1TL5kP4Dv2gEZ5lMi-ZQn15ta86WMRyPLqq8Qe0Jtnw7kOQrMnw6xtGYfmBzl2TEW9j9ZrCPVN6RqQojhLZ-PdiYUxjxpzk5waXXC5tTwGEOPqIFFyeLZECulVm2pMiVTOaaAv8vSMvN2tOYS3qYab-2WncBdx17LAEgO4dTaHmBWiJugeDldOa0yel2G5_AEnnLxv16uiawREYkIGCGNG-5bR_PFip_y12gvOF7p5a7fPyh2WhajKTo-IdEl3B3HfklMljhQdKR3v9_M1_rp7E0owKXFHQOD-XzR9YFiyvYAB_9fA2T66GHiWdmWmALSDOeSzz-jTpuIBP6B9L0_VBhejthDpXhRlT1847kdtanGP_Q_DdPzXMCBqs2uxYETZfDQX_DoEQBO1zMqm8JRHWQ-ItzlTRhW-2aYbEOLyfIWqoqgAD1zgWfwgyqwavilqIEh6tzJm9kOK3_Dyqx5h18Yo3Ja8_wv8EE0l61RuJrKmoNuK4GQ6AxXS7gEqKjWrNwiZs9KzTwD5WQ_zBE8d_Qh252FV0dnzeaksqx_KYx1jmja9ZgzDsRicehdxBLZC_MRrvwiGhqEIDZZt8tdrvstnftwnVCWvIK9T14DMOKQbEROSVhlXrMHPUqE3g0gS8Jz0ksPU2t0VCC4GbyYoySrKZFUd8DrKdn66d8wrHHcVnwOcNSMedhpG3bUTca_Veu9SaDK_pYJRzANJxEa7quvtSPkFm1-PSb-LVWJrWU6ElRZr-Al2A2Q373ONPQDtn1stYGDSYs_0cKC1TLba6ayUidwQolYtEZ6wOi-UgcT0soJ8bNl9Hc-s7FUBFqeXXk5V3D6pR1MjXVdrIDEPNamB-VJEyVu9VMlk9xShoBZVrvTRFmCk=w703-h937-no?authuser=0" loading="lazy" alt="Featured image of post 2022-11/10- 1ER/30/29 Fourmies, Halluin, Vermelles" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/courses/2022-11-03-2022-11-10-1er-30-29-fourmies-halluin-vermelles/">
+        <div class="article-details">
+            <h2 class="article-title">2022-11/10- 1ER/30/29 Fourmies, Halluin, Vermelles</h2>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2022-11-03T16:33:16Z'>Nov 03, 2022</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/TPlhOzQwFQ-QR5aT9HbsUw3KxOT3Z-NBVD7Kq8ab7eKsYJxIjaOghC8jl7qgz9pv6oxh5BPlL2AyUWoDbK5WtdmOd54fRDCETgOh5hpK_W6TpVEv_4jqSsAmW-qEhDnaXX_re1TL5kP4Dv2gEZ5lMi-ZQn15ta86WMRyPLqq8Qe0Jtnw7kOQrMnw6xtGYfmBzl2TEW9j9ZrCPVN6RqQojhLZ-PdiYUxjxpzk5waXXC5tTwGEOPqIFFyeLZECulVm2pMiVTOaaAv8vSMvN2tOYS3qYab-2WncBdx17LAEgO4dTaHmBWiJugeDldOa0yel2G5_AEnnLxv16uiawREYkIGCGNG-5bR_PFip_y12gvOF7p5a7fPyh2WhajKTo-IdEl3B3HfklMljhQdKR3v9_M1_rp7E0owKXFHQOD-XzR9YFiyvYAB_9fA2T66GHiWdmWmALSDOeSzz-jTpuIBP6B9L0_VBhejthDpXhRlT1847kdtanGP_Q_DdPzXMCBqs2uxYETZfDQX_DoEQBO1zMqm8JRHWQ-ItzlTRhW-2aYbEOLyfIWqoqgAD1zgWfwgyqwavilqIEh6tzJm9kOK3_Dyqx5h18Yo3Ja8_wv8EE0l61RuJrKmoNuK4GQ6AxXS7gEqKjWrNwiZs9KzTwD5WQ_zBE8d_Qh252FV0dnzeaksqx_KYx1jmja9ZgzDsRicehdxBLZC_MRrvwiGhqEIDZZt8tdrvstnftwnVCWvIK9T14DMOKQbEROSVhlXrMHPUqE3g0gS8Jz0ksPU2t0VCC4GbyYoySrKZFUd8DrKdn66d8wrHHcVnwOcNSMedhpG3bUTca_Veu9SaDK_pYJRzANJxEa7quvtSPkFm1-PSb-LVWJrWU6ElRZr-Al2A2Q373ONPQDtn1stYGDSYs_0cKC1TLba6ayUidwQolYtEZ6wOi-UgcT0soJ8bNl9Hc-s7FUBFqeXXk5V3D6pR1MjXVdrIDEPNamB-VJEyVu9VMlk9xShoBZVrvTRFmCk=w703-h937-no?authuser=0" loading="lazy" alt="Featured image of post 2022-11/10- 1ER/30/29 Fourmies, Halluin, Vermelles" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/courses/2022-10-11-2022-10-09-course-vtt-ccx-bailleul/">
+        <div class="article-details">
+            <h2 class="article-title">2022.10.09 Course VTT/CCX Bailleul</h2>
+            
+            <h3 class="article-subtitle">
+                Nos coureurs ont fait de beaux résultats ce week-end  sur la course VTT/ Cyclo-cross de Bailleul.
+            </h3>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2022-10-11T09:13:42Z'>Oct 11, 2022</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/pw/AL9nZEXbVcSAO_znFXPp9uJsJIAlnWRpNHndd8Xbz3vKNoQzMIsRTfOD8MIFpCgL03HSJI7xX1Zdcvvl8eLZZpQonpSE9st_SSRiP2lsY0YOLgV8fDxQVF-7UL2WiHDWko6NZLjLX5CH-o3S3RF1ldxuwGdyqA=w410-h728-no?authuser=0" loading="lazy" alt="Featured image of post 2022.10.09 Course VTT/CCX Bailleul" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/courses/2022-10-04-2022-10-01-6emegp-cycliste-wavrin/">
+        <div class="article-details">
+            <h2 class="article-title">2022_10_01 6ème GP cycliste Wavrin</h2>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2022-10-04T05:54:45Z'>Oct 04, 2022</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/fife/APg5EObJXInBD9cSWqrWeanL73MgYbuUgC13ZmoS4lX3qHJH8M5wgjN3yeNDD-5kJGUALxJ_PAh4WIWDg9cMLfJEPXxBlgV2ndRtt5AtjbU0CHNFtaMplyxA_VfAvldNot54X6lwG-haSV39-8BF3fitSos7i9HB6TxoicuvRhxA5RBVYTPluTzcOGKeiUp41XPgzAbVnWQp0MolAOj3GMTBY3Dp8gScIamu5Bzv2DtpW513bUyGU1zuu1y6Rjnq2NHCl3pSA2mxsarR9LRhgBlJ0vcXyZE6BlWkSMApxs6iyhnFH5zu3QUqvSvo1kFo_un5EVEArPSodyAjY0Il4IkjYctC0B_4CoRXJXHBVai7UXJ_RpW_Mz10YOwPiivFV6PgvdjYnEp-pLqZdRBuUb0uwNClu8KKSivo0CWHTTtkJO8w0k6sBOX0JOXZl2BPqCUJkLVbYm6iYxXD1YzzS0SNyK6IiGS2xh8-i-f_sHlt8IimLCFOuu_94UGz1CL--nLZqlFyJkFIfV35M9Mx2yJIOh_CN0YxQaMfwa-956ovdcau9qOvVpS156PZ8RHTZ_NBZCYFuokijm-_HXhYrqMzPTvmfTx_8lfo4sM_JOBaU215p4BTRoIUnEYTolQynqjuQxxMqsAX6Wsn54XufgMM4k6ZhZ6eAVsb4UzzheZPLmdx1ktq0lg_7cyhVX-oDO8c9w-2Fo7LNl32_2hbkPqMOcOtrebYW3AVYPKUi83CILyiltrJ3NKzhtnGEALEtO-h4mzSyApqUSMzi9L-1ij9QtcohpLWYU27M6USlq2Bmxt0YfLFd1n8ZKHXTCl3smztjPr0hQMmp_psu3aQBriSSFxW_f7bwckl5VCmBCdS9DUHiK0FKKQUXOsTe6QUF6JbFG2MLTNU07PlHafUY7BVtLQ-HZl9YkJdDBcOE0e-TyBWS6_kyPkK69E282bJL11nxmgX-suhsgJB7oQ9ALgrNKgJj-BeVgL4rN6po0HPuWfkNjIk7PJgrgrHY9KAOi2QY-T2NhN65zQgdLZCXDxhvswzo74U8msA5PbJ6ewVG1svbpkgfSTHCw8JKvyRqthUCrTa200j5Pu82j0ZBbzKeBHQigdURZ40CYykxF4rYMXYXwKL58rs-_46_2uXmYr8eFcor8armbPl_90aloJv7eWlBrf0u-QFl8JuhJp-35X4xhY2CIXFZu1i41hP0El5B_t8760o9REMa3l9NuPFkzDxhnR3GDsPACgkWSn5MTt1ACc8weNm0R3dGFZJLPHVgJLL9HBFXZryo1L3ARrRU23eEYgJgdP_nG0I0WHsQ61RIrE5AWSzulRn0Cy1yQJ8_p5WghvtAECrTxsdE0A4SC5LqqdqF4RSLcGdLfXp7ps1g5bloX_BjNEKF3zYLlwYhlyID2wp7nNrTnaX7iQz1K5y5rQBjzlsT6Zc9GL1GEEPpwFgJVzW_kDay0dUz4HfTyo5wVlVkfy6-jPIEA8lH-LetpwxHmEMIv7J-rz7Ya3oJuHDDvDZ1_cWV-69UTfV5cIEQATC6hMW3l666UEC631DV7bzSFhycU5Mxs0o--R95vMYdBEMYf7PZ57IgQEFCLfkJnqIe-reauMbX1UzrNonp9dBf2f_Azy8m41nw2eDRcN2pLcUxA80tlHTL_wii2mC-rqLDFkSEjZxHD5eSCXikb34Tq5sPm582IJsyzXEUdRO1ppmKCZCvhNjU3jBcR6gA-ahtfS_Ca75IWMVLmYgp1VrWn2WgvsFCJC3Z9f1CvFw2XTHIq6lM2hiAYi1AkIBdsCUlI0d1yQ1ePlGp9NLqWeJ_FCJ8qgPIHZbCUKAZvgn1gwE7vDXJ5L_Qn2qABDQ7S67UjMlsWwkiuNXGJZrsNQWpCQp1_dZ-k7w3R_B7Zu6Kz31iZkCZg6q2cblLWeoDdkxih8QDMqBx2xJKbmKkoaanaUfq9hkvdf801WHFz30bwMAcg=s2040-w2040-h1360-s-no?authuser=1" loading="lazy" alt="Featured image of post 2022_10_01 6ème GP cycliste Wavrin" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+    </section>
+    <nav class='pagination'>
+        
+        
+
+        
+            
+                    <a class='page-link' href='/courses/'>1</a>
+                
+            
+            
+                    
+                        
+                        <span class='page-link dots'>&hellip;</span>
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    <a class='page-link' href='/courses/page/4/'>4</a>
+                
+            
+            
+                <span class='page-link current'>5</span>
+                
+            
+            
+                    <a class='page-link' href='/courses/page/6/'>6</a>
+                
+            
+            
+                    
+                        
+                        <span class='page-link dots'>&hellip;</span>
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    <a class='page-link' href='/courses/page/16/'>16</a>
+                
+            
+    </nav>
+
+<footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2025 Cyclo Club Wavrin
+    </section>
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.30.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.e1ed32035d17402b57bc694fa15202aae34347475608a6fc7528c58a1ea384ca.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>

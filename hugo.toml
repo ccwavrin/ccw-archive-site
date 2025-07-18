@@ -1,0 +1,59 @@
+baseURL = 'https://ccwavrin.fr'
+languageCode = 'fr-fr'
+title = 'Cyclo Club Wavrin'
+theme = 'hugo-theme-stack'
+
+[params]
+  description = "Archives du site du Cyclo Club Wavrin"
+  mainSections = ["news", "courses", "vtt", "cyclotourisme"]
+
+  [params.widgets]
+    homepage = [
+      { type = "search" },
+      { type = "archives" }
+    ]
+    page = [
+      { type = "search" },
+      { type = "archives" }
+    ]
+
+[menu]
+  [[menu.main]]
+    name = "Accueil"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Actualités"
+    url = "/news/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Courses"
+    url = "/courses/"
+    weight = 3
+
+  [[menu.main]]
+    name = "VTT"
+    url = "/vtt/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Cyclotourisme"
+    url = "/cyclotourisme/"
+    weight = 5
+
+  [[menu.main]]
+    name = "École de cyclisme"
+    url = "/jeunes/"
+    weight = 6
+
+  [[menu.main]]
+    name = "Le Club"
+    url = "/club/"
+    weight = 7
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

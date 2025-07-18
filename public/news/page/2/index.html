@@ -1,0 +1,956 @@
+<!DOCTYPE html>
+<html lang="fr-fr" dir="ltr">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Toutes les actualités du club">
+<title>Actualités</title>
+
+<link rel='canonical' href='http://localhost:1313/news/'>
+
+<link rel="stylesheet" href="/scss/style.min.946cca6c6259ef94ac55abfae7c7bf3291ea3ed5eea17ef77500b257217c6710.css"><meta property='og:title' content="Actualités">
+<meta property='og:description' content="Toutes les actualités du club">
+<meta property='og:url' content='http://localhost:1313/news/'>
+<meta property='og:site_name' content='Cyclo Club Wavrin'>
+<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2024-12-23T16:25:33&#43;00:00 '/>
+<meta name="twitter:title" content="Actualités">
+<meta name="twitter:description" content="Toutes les actualités du club"><link rel="alternate" type="application/rss&#43;xml" href="http://localhost:1313/news/index.xml">
+    </head>
+    <body class="">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu_f509edb42ecc0ebd.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">Cyclo Club Wavrin</a></h1>
+            <h2 class="site-description"></h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                <span>Accueil</span>
+            </a>
+        </li>
+        
+        
+        <li  class='current' >
+            <a href='/news/' >
+                
+                
+                
+                <span>Actualités</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/courses/' >
+                
+                
+                
+                <span>Courses</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/vtt/' >
+                
+                
+                
+                <span>VTT</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/cyclotourisme/' >
+                
+                
+                
+                <span>Cyclotourisme</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/jeunes/' >
+                
+                
+                
+                <span>École de cyclisme</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/club/' >
+                
+                
+                
+                <span>Le Club</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Rechercher</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Dark Mode</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                <form action="/search/" class="search-form widget" >
+        <p>
+            <label>Search</label>
+            <input name="keyword" required placeholder="Type something..." />
+        
+            <button title="Search">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+            </button>
+        </p>
+    </form>
+            
+        
+            
+                <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-infinity" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M9.828 9.172a4 4 0 1 0 0 5.656 a10 10 0 0 0 2.172 -2.828a10 10 0 0 1 2.172 -2.828 a4 4 0 1 1 0 5.656a10 10 0 0 1 -2.172 -2.828a10 10 0 0 0 -2.172 -2.828" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Archives</h2>
+
+        
+        
+        
+        
+        
+        <div class="widget-archive--list">
+            <div class="archives-year">
+                    <a href="/archives/#2024">
+                        
+                            <span class="year">2024</span>
+                            <span class="count">62</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2023">
+                        
+                            <span class="year">2023</span>
+                            <span class="count">77</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2022">
+                        
+                            <span class="year">2022</span>
+                            <span class="count">71</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2021">
+                        
+                            <span class="year">2021</span>
+                            <span class="count">22</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2020">
+                        
+                            <span class="year">2020</span>
+                            <span class="count">37</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2019">
+                        
+                            <span class="year">More</span>
+                        
+                    </a> 
+                </div>
+            
+        </div>
+    </section>
+            
+        
+    </aside>
+
+
+            <main class="main full-width">
+    <header>
+        <h3 class="section-title">
+            
+                Section
+            
+        </h3>
+
+        <div class="section-card">
+            <div class="section-details">
+                <h3 class="section-count">62 pages</h3>
+                <h1 class="section-term">Actualités</h1>
+                
+                    <h2 class="section-description">Toutes les actualités du club</h2>
+                
+            </div>
+        </div>
+    </header>
+    
+    <section class="article-list--compact">
+        
+            <article>
+    <a href="/news/2024-06-12-2024-06-03-brevet-gravel-templeuve-by-jeremy/">
+        <div class="article-details">
+            <h2 class="article-title">2024.06.03 Brevet Gravel Templeuve by Jérémy</h2>
+            
+            <h3 class="article-subtitle">
+                 Petit résumé de ce dimanche ensoleillé à vélo :)
+            </h3>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2024-06-12T07:34:21Z'>Jun 12, 2024</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                jeremy.duchemin@gmail.com
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        2 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/pw/AP1GczOTyT_K3Bndma213bd0Bti8hxmySk2ik3yBF18G1wuVhXuE0JUKpxN6bmnjsGSZKcwdCkCC1Aob18Qv_TLKISWdmVs45aU0RncR5dpsHyLv4izoUOFAuQyMUGBMM4tl0nRYfao7lxkSmGWWNR1MruVzJQ=w599-h786-s-no-gm?authuser=0" loading="lazy" alt="Featured image of post 2024.06.03 Brevet Gravel Templeuve by Jérémy" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/news/2024-05-30-2024-05-24-26-week-end/">
+        <div class="article-details">
+            <h2 class="article-title">2024.05.24-26 Week-end</h2>
+            
+            <h3 class="article-subtitle">
+                🚴‍♂️Retour sur un week-end qui aura commencé dès le vendredi😉
+            </h3>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2024-05-30T05:14:01Z'>May 30, 2024</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/pw/AP1GczOhAeeFG2r96qXKotH8mI0K1roeyg2TXLxO5PG9iy6zkfuLbmwzFSMZdpfA8T8YA2ayUeL-TV44aSOOj3lh1X9NKcu_vK4oLVzzWb5oYAuEiS3yHpToDiM-_7FPvQ1Cv1p8OlragLFQRQVvSFPNEwTg3Q=w1803-h811-s-no-gm?authuser=0" loading="lazy" alt="Featured image of post 2024.05.24-26 Week-end" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/news/2024-05-30-2024-05-19-w-end-du-19/">
+        <div class="article-details">
+            <h2 class="article-title">2024.05.19 W-end du 19</h2>
+            
+            <h3 class="article-subtitle">
+                Retour sur le week-end du 19 mai
+            </h3>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2024-05-30T04:47:20Z'>May 30, 2024</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/pw/AP1GczNN4FJ4Lpjz4O8qsA1cyEDS9RHJhlsDT7rGExZW1owL8jAwz8javVev-bCxHqJju19ZKKPTTPLzSy2B-0VME8ENpLErnBxpwjjJgKvf_224gxaRAI6kuHkRKU-T2eNgRTDqRNJhuFesJfZ-5LtY8vxPsQ=w754-h1005-s-no-gm?authuser=0" loading="lazy" alt="Featured image of post 2024.05.19 W-end du 19" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/news/2024-04-15-2024-04-15-brevet-harnes-course-haveluy/">
+        <div class="article-details">
+            <h2 class="article-title">2024.04. 15 Brevet Harnes Course Haveluy</h2>
+            
+            <h3 class="article-subtitle">
+                Une belle présence wavrinoise répartie en plusieurs groupes sur les différents parcours à travers l’Artois pour cette édition 2024 du brevet d&#39;Harnes.  
+            </h3>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2024-04-15T11:57:18Z'>Apr 15, 2024</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/pw/AP1GczPQ4iLbaexENA0TQrIq8uSLEUcZw-7feEuuL3tMn6zngYW_Q6Pp_d94-ud7M2KOAmZcdUM2Fhg50v25-PxFQcP8tiGRXr9FvtFUVCxLt3Js68Mezk9OZR2_H30v3dArrg3ZYKM9k8ipSOcpJ8a_pFMfVg=w1340-h1005-s-no-gm?authuser=0" loading="lazy" alt="Featured image of post 2024.04. 15 Brevet Harnes Course Haveluy" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/news/2024-03-22-2024-03-17-criterium-briastre-brevet-estaires/">
+        <div class="article-details">
+            <h2 class="article-title">2024.03.17 Criterium Briastre / Brevet Estaires</h2>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2024-03-22T13:56:44Z'>Mar 22, 2024</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/pw/AP1GczPDdGBSuisNSPjYkHQiS9tq-EkDXLH2e8zQ21VLxUMmiaoUpTX3bnw8K40kjxAT5LoHCjsghCMtWBtFrlYb7IL-Ta7BsWPOotc04Dq_cST0JXsM4Mh6KO71Wi_5L3WIDRyVBSSALrfvwOMENGY9AKG8AQ=w1680-h945-s-no-gm?authuser=0" loading="lazy" alt="Featured image of post 2024.03.17 Criterium Briastre / Brevet Estaires" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/news/2024-03-12-2024-03-10-course-de-rieulay-et-eppeville/">
+        <div class="article-details">
+            <h2 class="article-title">2024.03.10 Course de Rieulay et Eppeville</h2>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2024-03-12T06:38:41Z'>Mar 12, 2024</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/pw/AP1GczMrbqsM9GcPXDn7tMLFV1x7ICtnPkfg-Z5jVdEOaDpHRXHB5E_jZVCqotz3Z6oIp7k9JseFzcwlusrdxvOOzPZPTtbJt9Ixl7DUcG5DWk80X3_xV3rfEHeowFVqeLfTo-d5CBinw9Y8RaTL54MzWGd9VQ=w1418-h945-s-no-gm?authuser=0" loading="lazy" alt="Featured image of post 2024.03.10 Course de Rieulay et Eppeville" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/news/2024-03-06-2023-03-03-course-orchies-brevet-richebourg/">
+        <div class="article-details">
+            <h2 class="article-title">2023.03.03 Course Orchies / Brevet Richebourg</h2>
+            
+            <h3 class="article-subtitle">
+                1er week-end de Mars, ouverture de la saison Route.
+            </h3>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2024-03-06T07:01:55Z'>Mar 06, 2024</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/pw/AP1GczOsvunIjC3JKqrjuyoTZgH5k3lfauLaA6X3DW6QrxZDOygmh4YJ5DBmm74nl3WxFrBA1VL2mlf3awVD2EDBXdWL9PPPEwsduMQIA51MD0cpV_WuNCY-ogjDm35kYlYHKYQtvBAawI1c41wCqz9C9fu5EQ=w1318-h593-s-no-gm?authuser=0" loading="lazy" alt="Featured image of post 2023.03.03 Course Orchies / Brevet Richebourg" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/news/2024-02-28-janvier-2024/">
+        <div class="article-details">
+            <h2 class="article-title">Janvier 2024</h2>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2024-02-28T00:02:31Z'>Feb 28, 2024</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/pw/AP1GczO6T-GBcOwf2MFO-CgPGkmmbKP5o4vST79r8sJHVJqqIyubgNAzhIeC4Le4-AMCN627impsrZcG5FX-X_6zUy61Oya9Fdz4wX7SP96EILFeyaJ7uklmDPQijEPJWZFhzTOQtiW5sZEGg_REwPf-WaBIsw=w1024-h768-s-no-gm?authuser=0" loading="lazy" alt="Featured image of post Janvier 2024" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/news/2023-11-06-2023-11-05-activites-du-dimanche/">
+        <div class="article-details">
+            <h2 class="article-title">2023.11.05 Activités du Dimanche</h2>
+            
+            <h3 class="article-subtitle">
+                Un week-end maussade qui aura pour conséquence une frilosité à sortir son vélo sur les différentes activités dominicales proposées.
+            </h3>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2023-11-06T17:00:54Z'>Nov 06, 2023</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/pw/ADCreHeR_LiI1iY2GF95f0Z01NdXhGD6swPmCycYS8k9fS27_Gh8BQx5_70hvgqlxyozB8QiKzWXEocQ2IRaaplqdMZFL0z_k0P6_K06rwzjxTpMhv5dJAhu3PRrOeQAEqaHxxy6ENDGSouk4VbuEUwfESBVuQ=w1281-h961-s-no-gm?authuser=0" loading="lazy" alt="Featured image of post 2023.11.05 Activités du Dimanche" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+            <article>
+    <a href="/news/2023-10-13-2023-10-11-entrainement-jeunes/">
+        <div class="article-details">
+            <h2 class="article-title">2023.10.11 Entrainement Jeunes</h2>
+            
+            <footer class="article-time">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time datetime='2023-10-13T10:18:41Z'>Oct 13, 2023</time>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                vpoullier
+            
+            
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                </div>
+            
+                </footer>
+        </div>
+            <div class="article-image">
+                
+                    <img src="https://lh3.googleusercontent.com/pw/ADCreHfR_447JCDo2HEt0PLezCGmpifucoa0TiGX1hO-mk7mKEjztw34UKdS697l8sc_vqFqEAbkM4wgMHXiNfMKfNsfASD9bKuOtFdkpy9HBAyPG9LoX5MMZ6Mpjls61MlbyTKx5oxCzRXT2xCUL2EmlXGCjQ=w1920-h865-s-no?authuser=0" loading="lazy" alt="Featured image of post 2023.10.11 Entrainement Jeunes" />
+                
+            </div>
+        
+    </a>
+</article>
+
+        
+    </section>
+    <nav class='pagination'>
+        
+        
+
+        
+            
+                    <a class='page-link' href='/news/'>1</a>
+                
+            
+            
+                <span class='page-link current'>2</span>
+                
+            
+            
+                    <a class='page-link' href='/news/page/3/'>3</a>
+                
+            
+            
+                    
+                        
+                        <span class='page-link dots'>&hellip;</span>
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    
+                
+            
+            
+                    <a class='page-link' href='/news/page/7/'>7</a>
+                
+            
+    </nav>
+
+<footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2025 Cyclo Club Wavrin
+    </section>
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.30.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.e1ed32035d17402b57bc694fa15202aae34347475608a6fc7528c58a1ea384ca.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>

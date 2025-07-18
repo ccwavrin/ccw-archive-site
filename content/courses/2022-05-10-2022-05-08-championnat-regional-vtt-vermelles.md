@@ -1,0 +1,26 @@
+---
+title: "2022.05.08 Championnat Régional VTT Vermelles"
+description: ""
+author: "vpoullier"
+date: 2022-05-10T08:45:09
+draft: false
+categories: ["courses"]
+tags: []
+original_category: "blog-courses"
+image: "https://lh3.googleusercontent.com/hYmg2H3B4w4WAqDGl-p4iE2HgOx8IZZYk_TybSZMFiLV0rK1cabF_NGsbg6-LgmW5m3NArGdDcYJC36B7ij16ja1GgJaMgJUjUOsOJaXxnrRdA7yvCD9JV5Sb1pdMaG1FeGY8kUXKvatQU5OUY7-VUKEqmzz-CQxcury4F9xL0g06QQYQrvGDBzdJe3c8-n6-F7Xtntcz0cEIKnqbVnw2LwheFnuAeyVgF6bPCurfi-vaW1bNPGPr8W3hJiM-KSGleOBeMa5qzqcHWzzIvGxZH-MXIYJMXiyg6QoMtOrtYI3XIwMumeIyy1jILITXE-gTE0WCDSYILNWvS0WtuRJ0cAJM2gPkpb3ri_1ijslfHCYUzys5UweUM-rQ_EDqQKhqSXAZpfkiJgt8nshQSkivv9nWmaZIqVW-eV--lFWRhHlD1uqkNx6I8WpSWLrkKkMVrqtHc18ZElurkgiBCjdnMHY797d65_Z8Y64mZsU--hBkDOhEVdmZFRXKXRumnBbYH8WhHg0HjkEphS0DIODveY2KK0xtbuxr7-iinap2ijLYyt5yK55Lk07kqZDGEMEzUxnX32sBwnCr0-WKLs4WhxYZiiXrtjjEZfF0SMwnjSAW4GbfVoBzrat0LGrirR8rPMYu5fSPXQKnjQ1wBox0J8pp5teE2aRWf5R8-_BP31sptwPwfp7h2Ug76yGrvGkjgw_pooigoYMnZuclg2HirfVwz0crg_tif0TK1ApoZsusUp2NWpdYP4EVtTqvDSeKFejr9Fo81n5r3rjIr9BTL-yUZX3w9VR6nfsbZm21RD5hPX7Neblv5166CaK0gi0mhywXsiP2g=w703-h937-no?authuser=0"
+links:
+  - title: "les PHOTOS et VIDEOS"
+    website: "https://photos.app.goo.gl/MP3CE16JbZaiPycYA"
+---
+
+![Image](https://lh3.googleusercontent.com/2pS2v79llRLAMXX-faWQ55_b1dqYEeOfPSKhiDUTvbeTq2hxvTh0nSFnoDCndzfdD8wQNMMs5n8QOeFlsLrWhUC_97tXVb2jq07gxUIh36JjFDG4vaZ2HhAqDCE0nQrU3Ku4KzYkO9yQDcq7arkyLpPb8Jjq5XWQuazyHPbaooyn2-VNfhl2JmPpuYLzdUpqUOvzEGE8wIRiWoKE2NsUeINf4vTDmK2bsA2njQYKZIXK6cFaTvC9WyJHYdbQpUNUkrTa1RQRxegXCTRa-HuYWOatXvEa4N8DyBKDis7UL45Qpnt6bvKDIKQnqYkW7CHvsemCr4eYWsjYxwQdzsCTBnZQSXsOWDefH-ZF8sV-Ykf7xdJAEFxNR0FfhQO_RDoh5GjaBacrIMS5GY9WHIJwwqyAHrA8WuTuy2uZpygRmmATPaZUwTlQmVq_e9eMfJ-eTUxHbmOKEUGWwn-XTSIr5cJqIQBDz2wVP9OajHlY2BeeRb8tiLBjs5EW4gPm7Jv0wydlTKEiJ3eKqa5iNK4BylLwY7O7N4vJYW6nTIY0lNg8HW4fpGJgnLjnqBGArv-Kjijbm8zvBGcnYYUm_7rgcYHDSp1hKKFUsG_9f7tjBBGIi77cRezHORUjkpY-810_5IkHW3g8p5JWZs5MXMI3xmqb245XowfH7W0uxm-dhIFEBaXC6kWMbDvA7kixlaw_L494ffR-NcmqI8RwNZMbcOm11zyTqxqGElFkkf62R9WTazaJdhij86eQx8V2c77WF1_-IReju1gYjPMMR1Fj5nvRQtE1xt5lZLTUJn3tlv82a1qICywTBT7j_aE5Q1jXkYGWFOKd0w=w703-h937-no?authuser=0)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+Bravo à notre tandem Sam/Geoffrey devenus Champions Régionaux en tandem ce dimanche à Vermelles. Une belle course au terme d' 1h20 d’effort sur un parcours exigeant avec de belles parties techniques. Petit déraillement dans le dernier tour qui sera géré très sereinement par nos camarades. &nbsp;Dernière étape pour eux, les France à Loupes dans le 33 le week-end des 4 et 5 juin.
