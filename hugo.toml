@@ -5,16 +5,16 @@ theme = 'hugo-theme-stack'
 
 [params]
   description = "Archives du site du Cyclo Club Wavrin"
-  mainSections = ["news", "courses", "vtt", "cyclotourisme"]
+  mainSections = ["news", "courses", "vtt", "cyclotourisme", "cyclosportive", "triathlon", "club", "randonnee", "grand-prix", "documents"]
 
   [params.widgets]
     homepage = [
       { type = "search" },
-      { type = "archives" }
+      { type = "archives", params = { limit = 10 }  }
     ]
     page = [
       { type = "search" },
-      { type = "archives" }
+      { type = "archives", params = { limit = 10 }  }
     ]
 
 [menu]
@@ -49,9 +49,34 @@ theme = 'hugo-theme-stack'
     weight = 6
 
   [[menu.main]]
+    name = "Triathlon"
+    url = "/triathlon/"
+    weight = 7
+
+  [[menu.main]]
+    name = "Cyclosportive"
+    url = "/cyclosportive/"
+    weight = 8
+
+  [[menu.main]]
     name = "Le Club"
     url = "/club/"
-    weight = 7
+    weight = 9
+
+  [[menu.main]]
+    name = "Grand prix"
+    url = "/grand-prix/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Randonnée"
+    url = "/randonnee/"
+    weight = 11
+
+  [[menu.main]]
+    name = "Documents"
+    url = "/documents/"
+    weight = 12
 
 [markup]
   [markup.goldmark]
@@ -61,3 +86,4 @@ theme = 'hugo-theme-stack'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
