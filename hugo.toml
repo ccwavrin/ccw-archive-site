@@ -17,6 +17,10 @@ theme = 'hugo-theme-stack'
       { type = "archives", params = { limit = 10 }  }
     ]
 
+  [params.sidebar.avatar]
+    src = "ccwavrin.png"
+    alt = "Cyclo Club Wavrin"
+
 [menu]
   [[menu.main]]
     name = "Accueil"
